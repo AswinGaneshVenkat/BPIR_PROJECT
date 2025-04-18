@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BPIR_PROJECT/static/css/main.e3d2a90b.css",
+    "main.js": "/BPIR_PROJECT/static/js/main.736c05e1.js",
+    "index.html": "/BPIR_PROJECT/index.html",
+    "main.e3d2a90b.css.map": "/BPIR_PROJECT/static/css/main.e3d2a90b.css.map",
+    "main.736c05e1.js.map": "/BPIR_PROJECT/static/js/main.736c05e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3d2a90b.css",
+    "static/js/main.736c05e1.js"
+  ]
+}
