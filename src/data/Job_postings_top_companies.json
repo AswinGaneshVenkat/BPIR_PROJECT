@@ -1,0 +1,303 @@
+[
+  {
+    "Company": "Randstad",
+    "Total_Postings_2022_2023": "218,844",
+    "Unique_Postings_2022_2023": "150,580",
+    "Median_Posting_Duration": "21 days"
+  },
+  {
+    "Company": "Actalent",
+    "Total_Postings_2022_2023": "185,119",
+    "Unique_Postings_2022_2023": "96,002",
+    "Median_Posting_Duration": "24 days"
+  },
+  {
+    "Company": "Jobot",
+    "Total_Postings_2022_2023": "227,599",
+    "Unique_Postings_2022_2023": "77,137",
+    "Median_Posting_Duration": "25 days"
+  },
+  {
+    "Company": "Deloitte",
+    "Total_Postings_2022_2023": "107,124",
+    "Unique_Postings_2022_2023": "73,407",
+    "Median_Posting_Duration": "23 days"
+  },
+  {
+    "Company": "Boeing",
+    "Total_Postings_2022_2023": "198,080",
+    "Unique_Postings_2022_2023": "69,939",
+    "Median_Posting_Duration": "19 days"
+  },
+  {
+    "Company": "Amazon",
+    "Total_Postings_2022_2023": "149,025",
+    "Unique_Postings_2022_2023": "64,509",
+    "Median_Posting_Duration": "28 days"
+  },
+  {
+    "Company": "CyberCoders",
+    "Total_Postings_2022_2023": "142,433",
+    "Unique_Postings_2022_2023": "61,521",
+    "Median_Posting_Duration": "28 days"
+  },
+  {
+    "Company": "CTG",
+    "Total_Postings_2022_2023": "63,389",
+    "Unique_Postings_2022_2023": "55,635",
+    "Median_Posting_Duration": "31 days"
+  },
+  {
+    "Company": "Northrop Grumman",
+    "Total_Postings_2022_2023": "211,855",
+    "Unique_Postings_2022_2023": "55,343",
+    "Median_Posting_Duration": "26 days"
+  },
+  {
+    "Company": "General Dynamics",
+    "Total_Postings_2022_2023": "112,528",
+    "Unique_Postings_2022_2023": "54,467",
+    "Median_Posting_Duration": "25 days"
+  },
+  {
+    "Company": "Humana",
+    "Total_Postings_2022_2023": "99,866",
+    "Unique_Postings_2022_2023": "51,580",
+    "Median_Posting_Duration": "31 days"
+  },
+  {
+    "Company": "Lockheed Martin",
+    "Total_Postings_2022_2023": "148,722",
+    "Unique_Postings_2022_2023": "50,583",
+    "Median_Posting_Duration": "25 days"
+  },
+  {
+    "Company": "Raytheon Technologies",
+    "Total_Postings_2022_2023": "123,882",
+    "Unique_Postings_2022_2023": "49,192",
+    "Median_Posting_Duration": "27 days"
+  },
+  {
+    "Company": "Robert Half",
+    "Total_Postings_2022_2023": "74,509",
+    "Unique_Postings_2022_2023": "48,639",
+    "Median_Posting_Duration": "30 days"
+  },
+  {
+    "Company": "Leidos",
+    "Total_Postings_2022_2023": "143,700",
+    "Unique_Postings_2022_2023": "47,797",
+    "Median_Posting_Duration": "20 days"
+  },
+  {
+    "Company": "Kforce",
+    "Total_Postings_2022_2023": "83,801",
+    "Unique_Postings_2022_2023": "44,692",
+    "Median_Posting_Duration": "25 days"
+  },
+  {
+    "Company": "Elevance Health",
+    "Total_Postings_2022_2023": "65,606",
+    "Unique_Postings_2022_2023": "40,623",
+    "Median_Posting_Duration": "29 days"
+  },
+  {
+    "Company": "Accenture",
+    "Total_Postings_2022_2023": "77,320",
+    "Unique_Postings_2022_2023": "39,298",
+    "Median_Posting_Duration": "27 days"
+  },
+  {
+    "Company": "Guidehouse",
+    "Total_Postings_2022_2023": "53,768",
+    "Unique_Postings_2022_2023": "38,362",
+    "Median_Posting_Duration": "26 days"
+  },
+  {
+    "Company": "Motion Recruitment",
+    "Total_Postings_2022_2023": "51,095",
+    "Unique_Postings_2022_2023": "34,644",
+    "Median_Posting_Duration": "18 days"
+  },
+  {
+    "Company": "PricewaterhouseCoopers",
+    "Total_Postings_2022_2023": "55,219",
+    "Unique_Postings_2022_2023": "32,241",
+    "Median_Posting_Duration": "27 days"
+  },
+  {
+    "Company": "UnitedHealth Group",
+    "Total_Postings_2022_2023": "74,666",
+    "Unique_Postings_2022_2023": "30,565",
+    "Median_Posting_Duration": "23 days"
+  },
+  {
+    "Company": "TEKsystems",
+    "Total_Postings_2022_2023": "63,599",
+    "Unique_Postings_2022_2023": "30,194",
+    "Median_Posting_Duration": "24 days"
+  },
+  {
+    "Company": "CDM Smith",
+    "Total_Postings_2022_2023": "41,999",
+    "Unique_Postings_2022_2023": "29,538",
+    "Median_Posting_Duration": "29 days"
+  },
+  {
+    "Company": "The Judge Group",
+    "Total_Postings_2022_2023": "53,913",
+    "Unique_Postings_2022_2023": "28,883",
+    "Median_Posting_Duration": "26 days"
+  },
+  {
+    "Company": "Intel",
+    "Total_Postings_2022_2023": "48,882",
+    "Unique_Postings_2022_2023": "28,857",
+    "Median_Posting_Duration": "24 days"
+  },
+  {
+    "Company": "Black & Veatch",
+    "Total_Postings_2022_2023": "42,684",
+    "Unique_Postings_2022_2023": "28,256",
+    "Median_Posting_Duration": "29 days"
+  },
+  {
+    "Company": "ManpowerGroup",
+    "Total_Postings_2022_2023": "49,691",
+    "Unique_Postings_2022_2023": "26,834",
+    "Median_Posting_Duration": "24 days"
+  },
+  {
+    "Company": "GPAC",
+    "Total_Postings_2022_2023": "39,809",
+    "Unique_Postings_2022_2023": "26,600",
+    "Median_Posting_Duration": "37 days"
+  },
+  {
+    "Company": "Citigroup",
+    "Total_Postings_2022_2023": "65,873",
+    "Unique_Postings_2022_2023": "24,419",
+    "Median_Posting_Duration": "25 days"
+  },
+  {
+    "Company": "JPMorgan Chase",
+    "Total_Postings_2022_2023": "70,820",
+    "Unique_Postings_2022_2023": "23,508",
+    "Median_Posting_Duration": "29 days"
+  },
+  {
+    "Company": "Booz Allen Hamilton",
+    "Total_Postings_2022_2023": "76,745",
+    "Unique_Postings_2022_2023": "22,286",
+    "Median_Posting_Duration": "25 days"
+  },
+  {
+    "Company": "Wells Fargo",
+    "Total_Postings_2022_2023": "74,261",
+    "Unique_Postings_2022_2023": "22,249",
+    "Median_Posting_Duration": "27 days"
+  },
+  {
+    "Company": "L3Harris Technologies",
+    "Total_Postings_2022_2023": "46,826",
+    "Unique_Postings_2022_2023": "22,123",
+    "Median_Posting_Duration": "31 days"
+  },
+  {
+    "Company": "ASGN",
+    "Total_Postings_2022_2023": "28,534",
+    "Unique_Postings_2022_2023": "21,775",
+    "Median_Posting_Duration": "17 days"
+  },
+  {
+    "Company": "Siemens",
+    "Total_Postings_2022_2023": "41,973",
+    "Unique_Postings_2022_2023": "21,619",
+    "Median_Posting_Duration": "28 days"
+  },
+  {
+    "Company": "Cynet Systems",
+    "Total_Postings_2022_2023": "26,314",
+    "Unique_Postings_2022_2023": "21,204",
+    "Median_Posting_Duration": "21 days"
+  },
+  {
+    "Company": "Dell Technologies",
+    "Total_Postings_2022_2023": "34,578",
+    "Unique_Postings_2022_2023": "20,971",
+    "Median_Posting_Duration": "20 days"
+  },
+  {
+    "Company": "Kelly Services",
+    "Total_Postings_2022_2023": "36,939",
+    "Unique_Postings_2022_2023": "20,933",
+    "Median_Posting_Duration": "30 days"
+  },
+  {
+    "Company": "Marriott International",
+    "Total_Postings_2022_2023": "35,032",
+    "Unique_Postings_2022_2023": "20,744",
+    "Median_Posting_Duration": "31 days"
+  },
+  {
+    "Company": "Capital One",
+    "Total_Postings_2022_2023": "60,822",
+    "Unique_Postings_2022_2023": "20,614",
+    "Median_Posting_Duration": "19 days"
+  },
+  {
+    "Company": "Jacobs Solutions",
+    "Total_Postings_2022_2023": "49,368",
+    "Unique_Postings_2022_2023": "20,579",
+    "Median_Posting_Duration": "35 days"
+  },
+  {
+    "Company": "Cognizant Technology Solutions",
+    "Total_Postings_2022_2023": "58,289",
+    "Unique_Postings_2022_2023": "20,116",
+    "Median_Posting_Duration": "22 days"
+  },
+  {
+    "Company": "General Motors",
+    "Total_Postings_2022_2023": "48,997",
+    "Unique_Postings_2022_2023": "20,099",
+    "Median_Posting_Duration": "27 days"
+  },
+  {
+    "Company": "Meta",
+    "Total_Postings_2022_2023": "44,511",
+    "Unique_Postings_2022_2023": "19,240",
+    "Median_Posting_Duration": "29 days"
+  },
+  {
+    "Company": "Apple",
+    "Total_Postings_2022_2023": "39,702",
+    "Unique_Postings_2022_2023": "18,762",
+    "Median_Posting_Duration": "21 days"
+  },
+  {
+    "Company": "SAIC",
+    "Total_Postings_2022_2023": "74,891",
+    "Unique_Postings_2022_2023": "18,284",
+    "Median_Posting_Duration": "30 days"
+  },
+  {
+    "Company": "Insight Global",
+    "Total_Postings_2022_2023": "24,984",
+    "Unique_Postings_2022_2023": "18,245",
+    "Median_Posting_Duration": "22 days"
+  },
+  {
+    "Company": "Lumen Technologies",
+    "Total_Postings_2022_2023": "30,100",
+    "Unique_Postings_2022_2023": "16,042",
+    "Median_Posting_Duration": "21 days"
+  },
+  {
+    "Company": "Honeywell International",
+    "Total_Postings_2022_2023": "56,327",
+    "Unique_Postings_2022_2023": "15,437",
+    "Median_Posting_Duration": "23 days"
+  }
+]
+

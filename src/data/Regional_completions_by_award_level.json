@@ -1,0 +1,47 @@
+[
+  {
+    "Award Level": "Award of less than 1 academic year",
+    "Completions_2022": "9,766",
+    "Completions_Percent": "3.4%"
+  },
+  {
+    "Award Level": "Award of at least 1 but less than 2 academic years",
+    "Completions_2022": 731,
+    "Completions_Percent": "0.3%"
+  },
+  {
+    "Award Level": "Associate's Degree",
+    "Completions_2022": 423,
+    "Completions_Percent": "0.1%"
+  },
+  {
+    "Award Level": "Award of at least 2 but less than 4 academic years",
+    "Completions_2022": 48,
+    "Completions_Percent": "0.0%"
+  },
+  {
+    "Award Level": "Bachelor's Degree",
+    "Completions_2022": "186,986",
+    "Completions_Percent": "64.3%"
+  },
+  {
+    "Award Level": "Postbaccalaureate certificate",
+    "Completions_2022": "4,569",
+    "Completions_Percent": "1.6%"
+  },
+  {
+    "Award Level": "Master's Degree",
+    "Completions_2022": "63,822",
+    "Completions_Percent": "21.9%"
+  },
+  {
+    "Award Level": "Post-masters certificate",
+    "Completions_2022": 680,
+    "Completions_Percent": "0.2%"
+  },
+  {
+    "Award Level": "Doctor's Degree",
+    "Completions_2022": "23,760",
+    "Completions_Percent": "8.2%"
+  }
+]

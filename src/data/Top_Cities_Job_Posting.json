@@ -1,0 +1,303 @@
+[
+  
+  {
+    "City": "New York, NY",
+    "Total_Postings_2022_2023": "478,745",
+    "Unique_Postings_2022_2023": "253,531",
+    "Median_Posting_Duration": "26 days"
+  },
+  {
+    "City": "Chicago, IL",
+    "Total_Postings_2022_2023": "392,731",
+    "Unique_Postings_2022_2023": "173,355",
+    "Median_Posting_Duration": "25 days"
+  },
+  {
+    "City": "Atlanta, GA",
+    "Total_Postings_2022_2023": "294,858",
+    "Unique_Postings_2022_2023": "157,886",
+    "Median_Posting_Duration": "25 days"
+  },
+  {
+    "City": "Houston, TX",
+    "Total_Postings_2022_2023": "301,980",
+    "Unique_Postings_2022_2023": "149,304",
+    "Median_Posting_Duration": "26 days"
+  },
+  {
+    "City": "Austin, TX",
+    "Total_Postings_2022_2023": "269,273",
+    "Unique_Postings_2022_2023": "133,930",
+    "Median_Posting_Duration": "26 days"
+  },
+  {
+    "City": "Los Angeles, CA",
+    "Total_Postings_2022_2023": "369,150",
+    "Unique_Postings_2022_2023": "127,854",
+    "Median_Posting_Duration": "26 days"
+  },
+  {
+    "City": "San Francisco, CA",
+    "Total_Postings_2022_2023": "343,647",
+    "Unique_Postings_2022_2023": "127,446",
+    "Median_Posting_Duration": "26 days"
+  },
+  {
+    "City": "Washington, DC",
+    "Total_Postings_2022_2023": "261,105",
+    "Unique_Postings_2022_2023": "126,445",
+    "Median_Posting_Duration": "24 days"
+  },
+  {
+    "City": "Dallas, TX",
+    "Total_Postings_2022_2023": "254,985",
+    "Unique_Postings_2022_2023": "122,299",
+    "Median_Posting_Duration": "26 days"
+  },
+  {
+    "City": "Charlotte, NC",
+    "Total_Postings_2022_2023": "226,328",
+    "Unique_Postings_2022_2023": "112,451",
+    "Median_Posting_Duration": "25 days"
+  },
+  {
+    "City": "San Diego, CA",
+    "Total_Postings_2022_2023": "316,019",
+    "Unique_Postings_2022_2023": "109,550",
+    "Median_Posting_Duration": "26 days"
+  },
+  {
+    "City": "Seattle, WA",
+    "Total_Postings_2022_2023": "237,383",
+    "Unique_Postings_2022_2023": "107,611",
+    "Median_Posting_Duration": "26 days"
+  },
+  {
+    "City": "Boston, MA",
+    "Total_Postings_2022_2023": "213,449",
+    "Unique_Postings_2022_2023": "105,465",
+    "Median_Posting_Duration": "25 days"
+  },
+  {
+    "City": "Phoenix, AZ",
+    "Total_Postings_2022_2023": "267,279",
+    "Unique_Postings_2022_2023": "100,389",
+    "Median_Posting_Duration": "25 days"
+  },
+  {
+    "City": "Denver, CO",
+    "Total_Postings_2022_2023": "222,810",
+    "Unique_Postings_2022_2023": "90,169",
+    "Median_Posting_Duration": "26 days"
+  },
+  {
+    "City": "San Jose, CA",
+    "Total_Postings_2022_2023": "189,252",
+    "Unique_Postings_2022_2023": "71,531",
+    "Median_Posting_Duration": "25 days"
+  },
+  {
+    "City": "Minneapolis, MN",
+    "Total_Postings_2022_2023": "146,914",
+    "Unique_Postings_2022_2023": "69,959",
+    "Median_Posting_Duration": "25 days"
+  },
+  {
+    "City": "Tampa, FL",
+    "Total_Postings_2022_2023": "170,933",
+    "Unique_Postings_2022_2023": "69,623",
+    "Median_Posting_Duration": "24 days"
+  },
+  {
+    "City": "Philadelphia, PA",
+    "Total_Postings_2022_2023": "128,919",
+    "Unique_Postings_2022_2023": "61,590",
+    "Median_Posting_Duration": "26 days"
+  },
+  {
+    "City": "San Antonio, TX",
+    "Total_Postings_2022_2023": "130,284",
+    "Unique_Postings_2022_2023": "55,117",
+    "Median_Posting_Duration": "26 days"
+  },
+  {
+    "City": "Saint Louis, MO",
+    "Total_Postings_2022_2023": "118,079",
+    "Unique_Postings_2022_2023": "54,018",
+    "Median_Posting_Duration": "26 days"
+  },
+  {
+    "City": "Raleigh, NC",
+    "Total_Postings_2022_2023": "114,718",
+    "Unique_Postings_2022_2023": "53,149",
+    "Median_Posting_Duration": "25 days"
+  },
+  {
+    "City": "Columbus, OH",
+    "Total_Postings_2022_2023": "110,985",
+    "Unique_Postings_2022_2023": "52,713",
+    "Median_Posting_Duration": "25 days"
+  },
+  {
+    "City": "Indianapolis, IN",
+    "Total_Postings_2022_2023": "123,809",
+    "Unique_Postings_2022_2023": "52,281",
+    "Median_Posting_Duration": "25 days"
+  },
+  {
+    "City": "Orlando, FL",
+    "Total_Postings_2022_2023": "123,229",
+    "Unique_Postings_2022_2023": "51,325",
+    "Median_Posting_Duration": "24 days"
+  },
+  {
+    "City": "Plano, TX",
+    "Total_Postings_2022_2023": "110,522",
+    "Unique_Postings_2022_2023": "49,091",
+    "Median_Posting_Duration": "25 days"
+  },
+  {
+    "City": "Miami, FL",
+    "Total_Postings_2022_2023": "119,982",
+    "Unique_Postings_2022_2023": "48,909",
+    "Median_Posting_Duration": "25 days"
+  },
+  {
+    "City": "Irvine, CA",
+    "Total_Postings_2022_2023": "129,712",
+    "Unique_Postings_2022_2023": "48,494",
+    "Median_Posting_Duration": "26 days"
+  },
+  {
+    "City": "Huntsville, AL",
+    "Total_Postings_2022_2023": "123,506",
+    "Unique_Postings_2022_2023": "47,233",
+    "Median_Posting_Duration": "27 days"
+  },
+  {
+    "City": "Pittsburgh, PA",
+    "Total_Postings_2022_2023": "108,999",
+    "Unique_Postings_2022_2023": "46,955",
+    "Median_Posting_Duration": "26 days"
+  },
+  {
+    "City": "Las Vegas, NV",
+    "Total_Postings_2022_2023": "120,301",
+    "Unique_Postings_2022_2023": "45,592",
+    "Median_Posting_Duration": "26 days"
+  },
+  {
+    "City": "Portland, OR",
+    "Total_Postings_2022_2023": "108,868",
+    "Unique_Postings_2022_2023": "45,235",
+    "Median_Posting_Duration": "28 days"
+  },
+  {
+    "City": "Cincinnati, OH",
+    "Total_Postings_2022_2023": "102,379",
+    "Unique_Postings_2022_2023": "45,030",
+    "Median_Posting_Duration": "27 days"
+  },
+  {
+    "City": "Arlington, VA",
+    "Total_Postings_2022_2023": "92,300",
+    "Unique_Postings_2022_2023": "44,712",
+    "Median_Posting_Duration": "26 days"
+  },
+  {
+    "City": "Irving, TX",
+    "Total_Postings_2022_2023": "95,225",
+    "Unique_Postings_2022_2023": "43,061",
+    "Median_Posting_Duration": "26 days"
+  },
+  {
+    "City": "Detroit, MI",
+    "Total_Postings_2022_2023": "94,107",
+    "Unique_Postings_2022_2023": "42,979",
+    "Median_Posting_Duration": "27 days"
+  },
+  {
+    "City": "Jacksonville, FL",
+    "Total_Postings_2022_2023": "96,614",
+    "Unique_Postings_2022_2023": "41,430",
+    "Median_Posting_Duration": "25 days"
+  },
+  {
+    "City": "Baltimore, MD",
+    "Total_Postings_2022_2023": "112,993",
+    "Unique_Postings_2022_2023": "41,244",
+    "Median_Posting_Duration": "26 days"
+  },
+  {
+    "City": "Jersey City, NJ",
+    "Total_Postings_2022_2023": "78,485",
+    "Unique_Postings_2022_2023": "41,183",
+    "Median_Posting_Duration": "24 days"
+  },
+  {
+    "City": "Richmond, VA",
+    "Total_Postings_2022_2023": "82,605",
+    "Unique_Postings_2022_2023": "40,477",
+    "Median_Posting_Duration": "24 days"
+  },
+  {
+    "City": "Colorado Springs, CO",
+    "Total_Postings_2022_2023": "118,648",
+    "Unique_Postings_2022_2023": "39,454",
+    "Median_Posting_Duration": "27 days"
+  },
+  {
+    "City": "Nashville, TN",
+    "Total_Postings_2022_2023": "82,691",
+    "Unique_Postings_2022_2023": "38,459",
+    "Median_Posting_Duration": "26 days"
+  },
+  {
+    "City": "Cleveland, OH",
+    "Total_Postings_2022_2023": "89,364",
+    "Unique_Postings_2022_2023": "38,311",
+    "Median_Posting_Duration": "25 days"
+  },
+  {
+    "City": "Santa Clara, CA",
+    "Total_Postings_2022_2023": "84,983",
+    "Unique_Postings_2022_2023": "38,186",
+    "Median_Posting_Duration": "23 days"
+  },
+  {
+    "City": "Boise, ID",
+    "Total_Postings_2022_2023": "84,847",
+    "Unique_Postings_2022_2023": "37,402",
+    "Median_Posting_Duration": "28 days"
+  },
+  {
+    "City": "Kansas City, MO",
+    "Total_Postings_2022_2023": "93,985",
+    "Unique_Postings_2022_2023": "36,571",
+    "Median_Posting_Duration": "27 days"
+  },
+  {
+    "City": "Sunnyvale, CA",
+    "Total_Postings_2022_2023": "86,804",
+    "Unique_Postings_2022_2023": "36,523",
+    "Median_Posting_Duration": "24 days"
+  },
+  {
+    "City": "Fort Worth, TX",
+    "Total_Postings_2022_2023": "84,591",
+    "Unique_Postings_2022_2023": "35,343",
+    "Median_Posting_Duration": "26 days"
+  },
+  {
+    "City": "Lansing, MI",
+    "Total_Postings_2022_2023": "53,476",
+    "Unique_Postings_2022_2023": "34,385",
+    "Median_Posting_Duration": "26 days"
+  },
+  {
+    "City": "Salt Lake City, UT",
+    "Total_Postings_2022_2023": "70,986",
+    "Unique_Postings_2022_2023": "33,873",
+    "Median_Posting_Duration": "27 days"
+  }
+]

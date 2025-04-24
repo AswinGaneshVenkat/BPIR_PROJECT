@@ -1,0 +1,163 @@
+[
+  {
+    "Institution": "University of Florida",
+    "Completions_2022": "18084",
+    "GrowthPercent_YOY_2022": "4.73%",
+    "Market_Share_2022": "6.2%",
+    "IPEDS_Tuition_Fees_2022": "$6381"
+  },
+  {
+    "Institution": "University of Wisconsin-Madison",
+    "Completions_2022": "17447",
+    "GrowthPercent_YOY_2022": "0.17%",
+    "Market_Share_2022": "6.0%",
+    "IPEDS_Tuition_Fees_2022": "$10796"
+  },
+  {
+    "Institution": "The University of Texas at Austin",
+    "Completions_2022": "17432",
+    "GrowthPercent_YOY_2022": "-1.03%",
+    "Market_Share_2022": "6.0%",
+    "IPEDS_Tuition_Fees_2022": "$11698"
+  },
+  {
+    "Institution": "Ohio State University-Main Campus",
+    "Completions_2022": "16872",
+    "GrowthPercent_YOY_2022": "0.20%",
+    "Market_Share_2022": "5.8%",
+    "IPEDS_Tuition_Fees_2022": "$12485"
+  },
+  {
+    "Institution": "University of Illinois Urbana-Champaign",
+    "Completions_2022": "15945",
+    "GrowthPercent_YOY_2022": "5.48%",
+    "Market_Share_2022": "5.5%",
+    "IPEDS_Tuition_Fees_2022": "$17782"
+  },
+  {
+    "Institution": "University of Michigan-Ann Arbor",
+    "Completions_2022": "15687",
+    "GrowthPercent_YOY_2022": "-1.43%",
+    "Market_Share_2022": "5.4%",
+    "IPEDS_Tuition_Fees_2022": "$17786"
+  },
+  {
+    "Institution": "University of Washington-Seattle Campus",
+    "Completions_2022": "15671",
+    "GrowthPercent_YOY_2022": "2.87%",
+    "Market_Share_2022": "5.4%",
+    "IPEDS_Tuition_Fees_2022": "$12242"
+  },
+  {
+    "Institution": "University of California-Berkeley",
+    "Completions_2022": "15215",
+    "GrowthPercent_YOY_2022": "3.61%",
+    "Market_Share_2022": "5.2%",
+    "IPEDS_Tuition_Fees_2022": "$14395"
+  },
+  {
+    "Institution": "University of California-Los Angeles",
+    "Completions_2022": "14845",
+    "GrowthPercent_YOY_2022": "0.39%",
+    "Market_Share_2022": "5.1%",
+    "IPEDS_Tuition_Fees_2022": "$13401"
+  },
+  {
+    "Institution": "Pennsylvania State University-Main Campus",
+    "Completions_2022": "13826",
+    "GrowthPercent_YOY_2022": "Insf. Data",
+    "Market_Share_2022": "4.8%",
+    "IPEDS_Tuition_Fees_2022": "$19835"
+  },
+  {
+    "Institution": "University of Georgia",
+    "Completions_2022": "13515",
+    "GrowthPercent_YOY_2022": "2.65%",
+    "Market_Share_2022": "4.6%",
+    "IPEDS_Tuition_Fees_2022": "$11180"
+  },
+  {
+    "Institution": "Purdue University-Main Campus",
+    "Completions_2022": "13356",
+    "GrowthPercent_YOY_2022": "6.27%",
+    "Market_Share_2022": "4.6%",
+    "IPEDS_Tuition_Fees_2022": "$9992"
+  },
+  {
+    "Institution": "University of Maryland-College Park",
+    "Completions_2022": "12553",
+    "GrowthPercent_YOY_2022": "1.10%",
+    "Market_Share_2022": "4.3%",
+    "IPEDS_Tuition_Fees_2022": "$11233"
+  },
+  {
+    "Institution": "University of California-San Diego",
+    "Completions_2022": "12110",
+    "GrowthPercent_YOY_2022": "1.14%",
+    "Market_Share_2022": "4.2%",
+    "IPEDS_Tuition_Fees_2022": "$14906"
+  },
+  {
+    "Institution": "University of California-Davis",
+    "Completions_2022": "12064",
+    "GrowthPercent_YOY_2022": "0.57%",
+    "Market_Share_2022": "4.1%",
+    "IPEDS_Tuition_Fees_2022": "$14858"
+  },
+  {
+    "Institution": "University of California-Irvine",
+    "Completions_2022": "11650",
+    "GrowthPercent_YOY_2022": "-5.63%",
+    "Market_Share_2022": "4.0%",
+    "IPEDS_Tuition_Fees_2022": "$13939"
+  },
+  {
+    "Institution": "University of North Carolina at Chapel Hill",
+    "Completions_2022": "9997",
+    "GrowthPercent_YOY_2022": "0.49%",
+    "Market_Share_2022": "3.4%",
+    "IPEDS_Tuition_Fees_2022": "$8989"
+  },
+  {
+    "Institution": "Georgia Institute of Technology-Main Campus",
+    "Completions_2022": "9969",
+    "GrowthPercent_YOY_2022": "8.14%",
+    "Market_Share_2022": "3.4%",
+    "IPEDS_Tuition_Fees_2022": "$11764"
+  },
+  {
+    "Institution": "University of Virginia-Main Campus",
+    "Completions_2022": "9615",
+    "GrowthPercent_YOY_2022": "10.54%",
+    "Market_Share_2022": "3.3%",
+    "IPEDS_Tuition_Fees_2022": "$21425"
+  },
+  {
+    "Institution": "University of Connecticut",
+    "Completions_2022": "8782",
+    "GrowthPercent_YOY_2022": "-5.84%",
+    "Market_Share_2022": "3.0%",
+    "IPEDS_Tuition_Fees_2022": "$19434"
+  },
+  {
+    "Institution": "University of California-Santa Barbara",
+    "Completions_2022": "7814",
+    "GrowthPercent_YOY_2022": "-0.77%",
+    "Market_Share_2022": "2.7%",
+    "IPEDS_Tuition_Fees_2022": "$14617"
+  },
+  {
+    "Institution": "Pennsylvania State University-World Campus",
+    "Completions_2022": "5143",
+    "GrowthPercent_YOY_2022": "Insf. Data",
+    "Market_Share_2022": "1.8%",
+    "IPEDS_Tuition_Fees_2022": "$15054"
+  },
+  {
+    "Institution": "William & Mary",
+    "Completions_2022": "3193",
+    "GrowthPercent_YOY_2022": "6.01%",
+    "Market_Share_2022": "1.1%",
+    "IPEDS_Tuition_Fees_2022": "$23970"
+  }
+]

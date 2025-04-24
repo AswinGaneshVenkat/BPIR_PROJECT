@@ -1,0 +1,5022 @@
+[
+  
+  {
+    "Occupation": "Home Health and Personal Care Aides",
+    "Jobs_2022": "4,069,131",
+    "Annual_Openings": "808,616",
+    "Median_Earnings": "$16.03",
+    "Growth_2022_2024": "8.52%"
+  },
+  {
+    "Occupation": "Retail Salespersons",
+    "Jobs_2022": "3,823,469",
+    "Annual_Openings": "595,087",
+    "Median_Earnings": "$15.86",
+    "Growth_2022_2024": "0.30%"
+  },
+  {
+    "Occupation": "General and Operations Managers",
+    "Jobs_2022": "3,580,889",
+    "Annual_Openings": "367,336",
+    "Median_Earnings": "$48.75",
+    "Growth_2022_2024": "3.26%"
+  },
+  {
+    "Occupation": "Registered Nurses",
+    "Jobs_2022": "3,183,331",
+    "Annual_Openings": "277,976",
+    "Median_Earnings": "$41.82",
+    "Growth_2022_2024": "5.62%"
+  },
+  {
+    "Occupation": "Laborers and Freight, Stock, and Material Movers, Hand",
+    "Jobs_2022": "3,034,999",
+    "Annual_Openings": "449,580",
+    "Median_Earnings": "$18.25",
+    "Growth_2022_2024": "0.43%"
+  },
+  {
+    "Occupation": "Customer Service Representatives",
+    "Jobs_2022": "2,995,601",
+    "Annual_Openings": "428,458",
+    "Median_Earnings": "$19.26",
+    "Growth_2022_2024": "-2.30%"
+  },
+  {
+    "Occupation": "Stockers and Order Fillers",
+    "Jobs_2022": "2,885,291",
+    "Annual_Openings": "514,199",
+    "Median_Earnings": "$17.50",
+    "Growth_2022_2024": "1.31%"
+  },
+  {
+    "Occupation": "Office Clerks, General",
+    "Jobs_2022": "2,768,053",
+    "Annual_Openings": "350,343",
+    "Median_Earnings": "$19.55",
+    "Growth_2022_2024": "-1.60%"
+  },
+  {
+    "Occupation": "Janitors and Cleaners, Except Maids and Housekeeping Cleaners",
+    "Jobs_2022": "2,489,374",
+    "Annual_Openings": "391,130",
+    "Median_Earnings": "$16.60",
+    "Growth_2022_2024": "1.71%"
+  },
+  {
+    "Occupation": "Heavy and Tractor-Trailer Truck Drivers",
+    "Jobs_2022": "2,328,150",
+    "Annual_Openings": "282,846",
+    "Median_Earnings": "$25.62",
+    "Growth_2022_2024": "0.81%"
+  },
+  {
+    "Occupation": "Waiters and Waitresses",
+    "Jobs_2022": "2,211,365",
+    "Annual_Openings": "527,896",
+    "Median_Earnings": "$15.46",
+    "Growth_2022_2024": "4.40%"
+  },
+  {
+    "Occupation": "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",
+    "Jobs_2022": "2,102,775",
+    "Annual_Openings": "241,876",
+    "Median_Earnings": "$20.89",
+    "Growth_2022_2024": "-3.34%"
+  },
+  {
+    "Occupation": "Postsecondary Teachers",
+    "Jobs_2022": "1,763,214",
+    "Annual_Openings": "202,259",
+    "Median_Earnings": "$40.65",
+    "Growth_2022_2024": "4.64%"
+  },
+  {
+    "Occupation": "Bookkeeping, Accounting, and Auditing Clerks",
+    "Jobs_2022": "1,736,559",
+    "Annual_Openings": "207,314",
+    "Median_Earnings": "$22.74",
+    "Growth_2022_2024": "-4.09%"
+  },
+  {
+    "Occupation": "Maintenance and Repair Workers, General",
+    "Jobs_2022": "1,653,710",
+    "Annual_Openings": "173,069",
+    "Median_Earnings": "$22.13",
+    "Growth_2022_2024": "1.25%"
+  },
+  {
+    "Occupation": "Software Developers",
+    "Jobs_2022": "1,616,824",
+    "Annual_Openings": "151,937",
+    "Median_Earnings": "$63.70",
+    "Growth_2022_2024": "6.24%"
+  },
+  {
+    "Occupation": "Accountants and Auditors",
+    "Jobs_2022": "1,585,272",
+    "Annual_Openings": "145,929",
+    "Median_Earnings": "$38.74",
+    "Growth_2022_2024": "1.56%"
+  },
+  {
+    "Occupation": "First-Line Supervisors of Office and Administrative Support Workers",
+    "Jobs_2022": "1,578,798",
+    "Annual_Openings": "167,973",
+    "Median_Earnings": "$30.56",
+    "Growth_2022_2024": "-0.16%"
+  },
+  {
+    "Occupation": "Maids and Housekeeping Cleaners",
+    "Jobs_2022": "1,438,666",
+    "Annual_Openings": "256,850",
+    "Median_Earnings": "$15.66",
+    "Growth_2022_2024": "4.82%"
+  },
+  {
+    "Occupation": "Elementary School Teachers, Except Special Education",
+    "Jobs_2022": "1,410,045",
+    "Annual_Openings": "123,909",
+    "Median_Earnings": "$31.03",
+    "Growth_2022_2024": "2.34%"
+  },
+  {
+    "Occupation": "Construction Laborers",
+    "Jobs_2022": "1,402,084",
+    "Annual_Openings": "155,596",
+    "Median_Earnings": "$20.56",
+    "Growth_2022_2024": "2.51%"
+  },
+  {
+    "Occupation": "Cooks, Restaurant",
+    "Jobs_2022": "1,389,988",
+    "Annual_Openings": "274,393",
+    "Median_Earnings": "$17.05",
+    "Growth_2022_2024": "8.17%"
+  },
+  {
+    "Occupation": "Nursing Assistants",
+    "Jobs_2022": "1,380,128",
+    "Annual_Openings": "251,841",
+    "Median_Earnings": "$18.51",
+    "Growth_2022_2024": "6.34%"
+  },
+  {
+    "Occupation": "Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",
+    "Jobs_2022": "1,364,762",
+    "Annual_Openings": "139,223",
+    "Median_Earnings": "$31.77",
+    "Growth_2022_2024": "-0.05%"
+  },
+  {
+    "Occupation": "First-Line Supervisors of Retail Sales Workers",
+    "Jobs_2022": "1,360,784",
+    "Annual_Openings": "140,344",
+    "Median_Earnings": "$21.89",
+    "Growth_2022_2024": "-2.24%"
+  },
+  {
+    "Occupation": "Teaching Assistants, Except Postsecondary",
+    "Jobs_2022": "1,286,379",
+    "Annual_Openings": "206,136",
+    "Median_Earnings": "$16.82",
+    "Growth_2022_2024": "7.53%"
+  },
+  {
+    "Occupation": "Landscaping and Groundskeeping Workers",
+    "Jobs_2022": "1,253,179",
+    "Annual_Openings": "181,376",
+    "Median_Earnings": "$17.86",
+    "Growth_2022_2024": "1.21%"
+  },
+  {
+    "Occupation": "Childcare Workers",
+    "Jobs_2022": "1,252,596",
+    "Annual_Openings": "243,031",
+    "Median_Earnings": "$14.65",
+    "Growth_2022_2024": "2.02%"
+  },
+  {
+    "Occupation": "First-Line Supervisors of Food Preparation and Serving Workers",
+    "Jobs_2022": "1,215,311",
+    "Annual_Openings": "195,584",
+    "Median_Earnings": "$18.95",
+    "Growth_2022_2024": "0.36%"
+  },
+  {
+    "Occupation": "Security Guards",
+    "Jobs_2022": "1,191,711",
+    "Annual_Openings": "213,091",
+    "Median_Earnings": "$17.93",
+    "Growth_2022_2024": "7.08%"
+  },
+  {
+    "Occupation": "Business Operations Specialists, All Other",
+    "Jobs_2022": "1,179,796",
+    "Annual_Openings": "131,140",
+    "Median_Earnings": "$37.90",
+    "Growth_2022_2024": "2.61%"
+  },
+  {
+    "Occupation": "Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",
+    "Jobs_2022": "1,146,444",
+    "Annual_Openings": "142,694",
+    "Median_Earnings": "$31.19",
+    "Growth_2022_2024": "4.15%"
+  },
+  {
+    "Occupation": "Light Truck Drivers",
+    "Jobs_2022": "1,139,978",
+    "Annual_Openings": "128,722",
+    "Median_Earnings": "$20.01",
+    "Growth_2022_2024": "-4.72%"
+  },
+  {
+    "Occupation": "Receptionists and Information Clerks",
+    "Jobs_2022": "1,079,579",
+    "Annual_Openings": "155,747",
+    "Median_Earnings": "$17.09",
+    "Growth_2022_2024": "-0.59%"
+  },
+  {
+    "Occupation": "Secondary School Teachers, Except Special and Career/Technical Education",
+    "Jobs_2022": "1,056,265",
+    "Annual_Openings": "87,313",
+    "Median_Earnings": "$32.20",
+    "Growth_2022_2024": "1.47%"
+  },
+  {
+    "Occupation": "Managers, All Other",
+    "Jobs_2022": "1,054,077",
+    "Annual_Openings": "114,934",
+    "Median_Earnings": "$49.52",
+    "Growth_2022_2024": "6.40%"
+  },
+  {
+    "Occupation": "Carpenters",
+    "Jobs_2022": "1,052,028",
+    "Annual_Openings": "103,495",
+    "Median_Earnings": "$25.23",
+    "Growth_2022_2024": "-1.47%"
+  },
+  {
+    "Occupation": "Management Analysts",
+    "Jobs_2022": "1,022,725",
+    "Annual_Openings": "110,318",
+    "Median_Earnings": "$47.86",
+    "Growth_2022_2024": "2.76%"
+  },
+  {
+    "Occupation": "Military-only occupations",
+    "Jobs_2022": "962,922",
+    "Annual_Openings": "107,206",
+    "Median_Earnings": "$20.16",
+    "Growth_2022_2024": "-2.29%"
+  },
+  {
+    "Occupation": "Food Preparation Workers",
+    "Jobs_2022": "938,595",
+    "Annual_Openings": "174,250",
+    "Median_Earnings": "$15.62",
+    "Growth_2022_2024": "-3.38%"
+  },
+  {
+    "Occupation": "Human Resources Specialists",
+    "Jobs_2022": "927,726",
+    "Annual_Openings": "107,335",
+    "Median_Earnings": "$32.78",
+    "Growth_2022_2024": "5.19%"
+  },
+  {
+    "Occupation": "Lawyers",
+    "Jobs_2022": "894,995",
+    "Annual_Openings": "54,647",
+    "Median_Earnings": "$68.10",
+    "Growth_2022_2024": "2.99%"
+  },
+  {
+    "Occupation": "Project Management Specialists",
+    "Jobs_2022": "893,455",
+    "Annual_Openings": "118,033",
+    "Median_Earnings": "$46.33",
+    "Growth_2022_2024": "11.21%"
+  },
+  {
+    "Occupation": "Market Research Analysts and Marketing Specialists",
+    "Jobs_2022": "871,653",
+    "Annual_Openings": "109,565",
+    "Median_Earnings": "$34.88",
+    "Growth_2022_2024": "5.77%"
+  },
+  {
+    "Occupation": "Shipping, Receiving, and Inventory Clerks",
+    "Jobs_2022": "871,294",
+    "Annual_Openings": "95,196",
+    "Median_Earnings": "$19.37",
+    "Growth_2022_2024": "-2.75%"
+  },
+  {
+    "Occupation": "First-Line Supervisors of Construction Trades and Extraction Workers",
+    "Jobs_2022": "824,969",
+    "Annual_Openings": "103,904",
+    "Median_Earnings": "$35.60",
+    "Growth_2022_2024": "7.27%"
+  },
+  {
+    "Occupation": "Industrial Truck and Tractor Operators",
+    "Jobs_2022": "805,679",
+    "Annual_Openings": "91,691",
+    "Median_Earnings": "$21.30",
+    "Growth_2022_2024": "-2.25%"
+  },
+  {
+    "Occupation": "Automotive Service Technicians and Mechanics",
+    "Jobs_2022": "800,732",
+    "Annual_Openings": "85,221",
+    "Median_Earnings": "$22.18",
+    "Growth_2022_2024": "2.61%"
+  },
+  {
+    "Occupation": "Financial Managers",
+    "Jobs_2022": "798,676",
+    "Annual_Openings": "83,135",
+    "Median_Earnings": "$72.71",
+    "Growth_2022_2024": "6.21%"
+  },
+  {
+    "Occupation": "Electricians",
+    "Jobs_2022": "794,391",
+    "Annual_Openings": "97,654",
+    "Median_Earnings": "$29.38",
+    "Growth_2022_2024": "4.21%"
+  },
+  {
+    "Occupation": "Medical Assistants",
+    "Jobs_2022": "782,496",
+    "Annual_Openings": "121,239",
+    "Median_Earnings": "$19.87",
+    "Growth_2022_2024": "3.49%"
+  },
+  {
+    "Occupation": "Computer User Support Specialists",
+    "Jobs_2022": "751,099",
+    "Annual_Openings": "57,052",
+    "Median_Earnings": "$28.16",
+    "Growth_2022_2024": "-2.93%"
+  },
+  {
+    "Occupation": "Insurance Sales Agents",
+    "Jobs_2022": "728,206",
+    "Annual_Openings": "85,757",
+    "Median_Earnings": "$28.28",
+    "Growth_2022_2024": "4.29%"
+  },
+  {
+    "Occupation": "Police and Sheriff's Patrol Officers",
+    "Jobs_2022": "716,786",
+    "Annual_Openings": "66,483",
+    "Median_Earnings": "$34.74",
+    "Growth_2022_2024": "0.36%"
+  },
+  {
+    "Occupation": "Medical Secretaries and Administrative Assistants",
+    "Jobs_2022": "699,364",
+    "Annual_Openings": "119,324",
+    "Median_Earnings": "$19.69",
+    "Growth_2022_2024": "11.26%"
+  },
+  {
+    "Occupation": "First-Line Supervisors of Production and Operating Workers",
+    "Jobs_2022": "684,538",
+    "Annual_Openings": "73,906",
+    "Median_Earnings": "$32.08",
+    "Growth_2022_2024": "0.64%"
+  },
+  {
+    "Occupation": "Licensed Practical and Licensed Vocational Nurses",
+    "Jobs_2022": "661,868",
+    "Annual_Openings": "65,717",
+    "Median_Earnings": "$28.72",
+    "Growth_2022_2024": "2.21%"
+  },
+  {
+    "Occupation": "Hairdressers, Hairstylists, and Cosmetologists",
+    "Jobs_2022": "652,279",
+    "Annual_Openings": "96,678",
+    "Median_Earnings": "$16.57",
+    "Growth_2022_2024": "0.12%"
+  },
+  {
+    "Occupation": "Bartenders",
+    "Jobs_2022": "639,650",
+    "Annual_Openings": "168,537",
+    "Median_Earnings": "$15.33",
+    "Growth_2022_2024": "15.32%"
+  },
+  {
+    "Occupation": "Farmworkers and Laborers, Crop, Nursery, and Greenhouse",
+    "Jobs_2022": "635,346",
+    "Annual_Openings": "98,101",
+    "Median_Earnings": "$15.70",
+    "Growth_2022_2024": "-6.31%"
+  },
+  {
+    "Occupation": "Middle School Teachers, Except Special and Career/Technical Education",
+    "Jobs_2022": "618,557",
+    "Annual_Openings": "60,807",
+    "Median_Earnings": "$31.65",
+    "Growth_2022_2024": "3.65%"
+  },
+  {
+    "Occupation": "First-Line Supervisors of Transportation and Material Moving Workers, Except Aircraft Cargo Handling Supervisors",
+    "Jobs_2022": "609,333",
+    "Annual_Openings": "67,717",
+    "Median_Earnings": "$28.84",
+    "Growth_2022_2024": "-0.17%"
+  },
+  {
+    "Occupation": "Inspectors, Testers, Sorters, Samplers, and Weighers",
+    "Jobs_2022": "609,273",
+    "Annual_Openings": "77,572",
+    "Median_Earnings": "$21.75",
+    "Growth_2022_2024": "-1.15%"
+  },
+  {
+    "Occupation": "First-Line Supervisors of Mechanics, Installers, and Repairers",
+    "Jobs_2022": "596,824",
+    "Annual_Openings": "69,284",
+    "Median_Earnings": "$35.81",
+    "Growth_2022_2024": "5.64%"
+  },
+  {
+    "Occupation": "Farmers, Ranchers, and Other Agricultural Managers",
+    "Jobs_2022": "582,277",
+    "Annual_Openings": "75,503",
+    "Median_Earnings": "$17.23",
+    "Growth_2022_2024": "-0.77%"
+  },
+  {
+    "Occupation": "Sales Managers",
+    "Jobs_2022": "564,772",
+    "Annual_Openings": "61,899",
+    "Median_Earnings": "$64.97",
+    "Growth_2022_2024": "5.40%"
+  },
+  {
+    "Occupation": "Computer and Information Systems Managers",
+    "Jobs_2022": "562,274",
+    "Annual_Openings": "66,792",
+    "Median_Earnings": "$81.27",
+    "Growth_2022_2024": "9.33%"
+  },
+  {
+    "Occupation": "Construction Managers",
+    "Jobs_2022": "539,437",
+    "Annual_Openings": "64,555",
+    "Median_Earnings": "$42.53",
+    "Growth_2022_2024": "8.53%"
+  },
+  {
+    "Occupation": "Computer Systems Analysts",
+    "Jobs_2022": "534,258",
+    "Annual_Openings": "39,180",
+    "Median_Earnings": "$49.63",
+    "Growth_2022_2024": "-2.47%"
+  },
+  {
+    "Occupation": "Driver/Sales Workers",
+    "Jobs_2022": "521,671",
+    "Annual_Openings": "61,256",
+    "Median_Earnings": "$16.56",
+    "Growth_2022_2024": "-5.04%"
+  },
+  {
+    "Occupation": "Preschool Teachers, Except Special Education",
+    "Jobs_2022": "515,219",
+    "Annual_Openings": "72,704",
+    "Median_Earnings": "$17.86",
+    "Growth_2022_2024": "4.52%"
+  },
+  {
+    "Occupation": "Executive Secretaries and Executive Administrative Assistants",
+    "Jobs_2022": "510,835",
+    "Annual_Openings": "61,421",
+    "Median_Earnings": "$33.50",
+    "Growth_2022_2024": "-0.86%"
+  },
+  {
+    "Occupation": "Medical and Health Services Managers",
+    "Jobs_2022": "508,978",
+    "Annual_Openings": "68,789",
+    "Median_Earnings": "$54.06",
+    "Growth_2022_2024": "12.12%"
+  },
+  {
+    "Occupation": "Real Estate Sales Agents",
+    "Jobs_2022": "506,004",
+    "Annual_Openings": "54,502",
+    "Median_Earnings": "$28.31",
+    "Growth_2022_2024": "1.56%"
+  },
+  {
+    "Occupation": "Plumbers, Pipefitters, and Steamfitters",
+    "Jobs_2022": "501,425",
+    "Annual_Openings": "57,426",
+    "Median_Earnings": "$29.06",
+    "Growth_2022_2024": "3.04%"
+  },
+  {
+    "Occupation": "Buyers and Purchasing Agents",
+    "Jobs_2022": "495,174",
+    "Annual_Openings": "53,060",
+    "Median_Earnings": "$33.98",
+    "Growth_2022_2024": "0.95%"
+  },
+  {
+    "Occupation": "Securities, Commodities, and Financial Services Sales Agents",
+    "Jobs_2022": "484,853",
+    "Annual_Openings": "60,189",
+    "Median_Earnings": "$35.62",
+    "Growth_2022_2024": "6.77%"
+  },
+  {
+    "Occupation": "Computer Occupations, All Other",
+    "Jobs_2022": "481,982",
+    "Annual_Openings": "45,915",
+    "Median_Earnings": "$49.31",
+    "Growth_2022_2024": "3.91%"
+  },
+  {
+    "Occupation": "Pharmacy Technicians",
+    "Jobs_2022": "462,377",
+    "Annual_Openings": "50,150",
+    "Median_Earnings": "$19.54",
+    "Growth_2022_2024": "1.37%"
+  },
+  {
+    "Occupation": "Billing and Posting Clerks",
+    "Jobs_2022": "462,256",
+    "Annual_Openings": "52,021",
+    "Median_Earnings": "$21.56",
+    "Growth_2022_2024": "-3.30%"
+  },
+  {
+    "Occupation": "Dining Room and Cafeteria Attendants and Bartender Helpers",
+    "Jobs_2022": "456,619",
+    "Annual_Openings": "112,521",
+    "Median_Earnings": "$15.07",
+    "Growth_2022_2024": "9.68%"
+  },
+  {
+    "Occupation": "Welders, Cutters, Solderers, and Brazers",
+    "Jobs_2022": "454,743",
+    "Annual_Openings": "58,698",
+    "Median_Earnings": "$23.66",
+    "Growth_2022_2024": "2.58%"
+  },
+  {
+    "Occupation": "Operating Engineers and Other Construction Equipment Operators",
+    "Jobs_2022": "453,132",
+    "Annual_Openings": "61,382",
+    "Median_Earnings": "$26.58",
+    "Growth_2022_2024": "7.61%"
+  },
+  {
+    "Occupation": "Cooks, Institution and Cafeteria",
+    "Jobs_2022": "450,224",
+    "Annual_Openings": "84,740",
+    "Median_Earnings": "$16.92",
+    "Growth_2022_2024": "5.77%"
+  },
+  {
+    "Occupation": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers",
+    "Jobs_2022": "430,159",
+    "Annual_Openings": "55,497",
+    "Median_Earnings": "$26.36",
+    "Growth_2022_2024": "7.13%"
+  },
+  {
+    "Occupation": "Social and Human Service Assistants",
+    "Jobs_2022": "427,087",
+    "Annual_Openings": "59,682",
+    "Median_Earnings": "$19.91",
+    "Growth_2022_2024": "4.84%"
+  },
+  {
+    "Occupation": "Industrial Machinery Mechanics",
+    "Jobs_2022": "407,476",
+    "Annual_Openings": "51,700",
+    "Median_Earnings": "$29.45",
+    "Growth_2022_2024": "7.69%"
+  },
+  {
+    "Occupation": "Production, Planning, and Expediting Clerks",
+    "Jobs_2022": "405,922",
+    "Annual_Openings": "48,458",
+    "Median_Earnings": "$25.89",
+    "Growth_2022_2024": "-0.10%"
+  },
+  {
+    "Occupation": "Self-Enrichment Teachers",
+    "Jobs_2022": "394,029",
+    "Annual_Openings": "70,902",
+    "Median_Earnings": "$21.35",
+    "Growth_2022_2024": "10.09%"
+  },
+  {
+    "Occupation": "Painters, Construction and Maintenance",
+    "Jobs_2022": "391,381",
+    "Annual_Openings": "38,385",
+    "Median_Earnings": "$21.76",
+    "Growth_2022_2024": "0.74%"
+  },
+  {
+    "Occupation": "Substance Abuse, Behavioral Disorder, and Mental Health Counselors",
+    "Jobs_2022": "388,753",
+    "Annual_Openings": "72,804",
+    "Median_Earnings": "$26.17",
+    "Growth_2022_2024": "19.26%"
+  },
+  {
+    "Occupation": "Training and Development Specialists",
+    "Jobs_2022": "387,510",
+    "Annual_Openings": "52,177",
+    "Median_Earnings": "$31.07",
+    "Growth_2022_2024": "8.77%"
+  },
+  {
+    "Occupation": "Counter and Rental Clerks",
+    "Jobs_2022": "386,991",
+    "Annual_Openings": "59,148",
+    "Median_Earnings": "$18.21",
+    "Growth_2022_2024": "4.72%"
+  },
+  {
+    "Occupation": "Dental Assistants",
+    "Jobs_2022": "377,957",
+    "Annual_Openings": "62,433",
+    "Median_Earnings": "$22.21",
+    "Growth_2022_2024": "2.66%"
+  },
+  {
+    "Occupation": "Compliance Officers",
+    "Jobs_2022": "376,384",
+    "Annual_Openings": "44,702",
+    "Median_Earnings": "$35.84",
+    "Growth_2022_2024": "7.11%"
+  },
+  {
+    "Occupation": "Correctional Officers and Jailers",
+    "Jobs_2022": "368,792",
+    "Annual_Openings": "38,334",
+    "Median_Earnings": "$26.04",
+    "Growth_2022_2024": "-1.71%"
+  },
+  {
+    "Occupation": "Property, Real Estate, and Community Association Managers",
+    "Jobs_2022": "365,889",
+    "Annual_Openings": "42,995",
+    "Median_Earnings": "$30.52",
+    "Growth_2022_2024": "5.46%"
+  },
+  {
+    "Occupation": "Marketing Managers",
+    "Jobs_2022": "364,985",
+    "Annual_Openings": "50,163",
+    "Median_Earnings": "$71.35",
+    "Growth_2022_2024": "9.62%"
+  },
+  {
+    "Occupation": "Paralegals and Legal Assistants",
+    "Jobs_2022": "363,818",
+    "Annual_Openings": "46,901",
+    "Median_Earnings": "$29.67",
+    "Growth_2022_2024": "3.12%"
+  },
+  {
+    "Occupation": "Animal Caretakers",
+    "Jobs_2022": "362,120",
+    "Annual_Openings": "81,118",
+    "Median_Earnings": "$15.23",
+    "Growth_2022_2024": "6.54%"
+  },
+  {
+    "Occupation": "Tellers",
+    "Jobs_2022": "361,023",
+    "Annual_Openings": "41,360",
+    "Median_Earnings": "$18.42",
+    "Growth_2022_2024": "-6.64%"
+  },
+  {
+    "Occupation": "Amusement and Recreation Attendants",
+    "Jobs_2022": "358,543",
+    "Annual_Openings": "126,880",
+    "Median_Earnings": "$14.24",
+    "Growth_2022_2024": "10.43%"
+  },
+  {
+    "Occupation": "Child, Family, and School Social Workers",
+    "Jobs_2022": "354,663",
+    "Annual_Openings": "38,671",
+    "Median_Earnings": "$26.09",
+    "Growth_2022_2024": "4.45%"
+  },
+  {
+    "Occupation": "Personal Financial Advisors",
+    "Jobs_2022": "353,762",
+    "Annual_Openings": "28,735",
+    "Median_Earnings": "$49.02",
+    "Growth_2022_2024": "-2.64%"
+  },
+  {
+    "Occupation": "Loan Officers",
+    "Jobs_2022": "353,592",
+    "Annual_Openings": "27,819",
+    "Median_Earnings": "$33.53",
+    "Growth_2022_2024": "-8.39%"
+  },
+  {
+    "Occupation": "Clinical Laboratory Technologists and Technicians",
+    "Jobs_2022": "349,853",
+    "Annual_Openings": "29,901",
+    "Median_Earnings": "$28.73",
+    "Growth_2022_2024": "0.63%"
+  },
+  {
+    "Occupation": "Educational, Guidance, and Career Counselors and Advisors",
+    "Jobs_2022": "349,117",
+    "Annual_Openings": "39,380",
+    "Median_Earnings": "$29.84",
+    "Growth_2022_2024": "7.08%"
+  },
+  {
+    "Occupation": "Network and Computer Systems Administrators",
+    "Jobs_2022": "346,257",
+    "Annual_Openings": "23,474",
+    "Median_Earnings": "$45.09",
+    "Growth_2022_2024": "-2.53%"
+  },
+  {
+    "Occupation": "Physicians, All Other",
+    "Jobs_2022": "344,249",
+    "Annual_Openings": "21,690",
+    "Median_Earnings": "$111.23",
+    "Growth_2022_2024": "2.61%"
+  },
+  {
+    "Occupation": "Civil Engineers",
+    "Jobs_2022": "338,346",
+    "Annual_Openings": "35,991",
+    "Median_Earnings": "$44.56",
+    "Growth_2022_2024": "7.85%"
+  },
+  {
+    "Occupation": "Exercise Trainers and Group Fitness Instructors",
+    "Jobs_2022": "335,878",
+    "Annual_Openings": "86,556",
+    "Median_Earnings": "$21.29",
+    "Growth_2022_2024": "12.27%"
+  },
+  {
+    "Occupation": "Firefighters",
+    "Jobs_2022": "335,012",
+    "Annual_Openings": "32,117",
+    "Median_Earnings": "$27.40",
+    "Growth_2022_2024": "-0.27%"
+  },
+  {
+    "Occupation": "Pharmacists",
+    "Jobs_2022": "334,633",
+    "Annual_Openings": "19,464",
+    "Median_Earnings": "$66.00",
+    "Growth_2022_2024": "1.98%"
+  },
+  {
+    "Occupation": "First-Line Supervisors of Non-Retail Sales Workers",
+    "Jobs_2022": "333,831",
+    "Annual_Openings": "29,100",
+    "Median_Earnings": "$37.11",
+    "Growth_2022_2024": "-5.86%"
+  },
+  {
+    "Occupation": "Industrial Engineers",
+    "Jobs_2022": "329,440",
+    "Annual_Openings": "28,044",
+    "Median_Earnings": "$46.50",
+    "Growth_2022_2024": "3.09%"
+  },
+  {
+    "Occupation": "Machinists",
+    "Jobs_2022": "329,401",
+    "Annual_Openings": "35,617",
+    "Median_Earnings": "$24.66",
+    "Growth_2022_2024": "-8.06%"
+  },
+  {
+    "Occupation": "Food Service Managers",
+    "Jobs_2022": "324,707",
+    "Annual_Openings": "47,991",
+    "Median_Earnings": "$28.86",
+    "Growth_2022_2024": "4.86%"
+  },
+  {
+    "Occupation": "Claims Adjusters, Examiners, and Investigators",
+    "Jobs_2022": "319,207",
+    "Annual_Openings": "34,011",
+    "Median_Earnings": "$34.67",
+    "Growth_2022_2024": "2.47%"
+  },
+  {
+    "Occupation": "Financial and Investment Analysts",
+    "Jobs_2022": "316,350",
+    "Annual_Openings": "39,409",
+    "Median_Earnings": "$46.62",
+    "Growth_2022_2024": "10.56%"
+  },
+  {
+    "Occupation": "Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",
+    "Jobs_2022": "306,950",
+    "Annual_Openings": "43,611",
+    "Median_Earnings": "$46.47",
+    "Growth_2022_2024": "5.13%"
+  },
+  {
+    "Occupation": "Bus and Truck Mechanics and Diesel Engine Specialists",
+    "Jobs_2022": "305,383",
+    "Annual_Openings": "35,136",
+    "Median_Earnings": "$27.71",
+    "Growth_2022_2024": "3.98%"
+  },
+  {
+    "Occupation": "Public Relations Specialists",
+    "Jobs_2022": "299,447",
+    "Annual_Openings": "31,457",
+    "Median_Earnings": "$32.81",
+    "Growth_2022_2024": "3.06%"
+  },
+  {
+    "Occupation": "Education Administrators, Kindergarten through Secondary",
+    "Jobs_2022": "294,395",
+    "Annual_Openings": "31,469",
+    "Median_Earnings": "$50.15",
+    "Growth_2022_2024": "6.77%"
+  },
+  {
+    "Occupation": "Chief Executives",
+    "Jobs_2022": "293,974",
+    "Annual_Openings": "29,376",
+    "Median_Earnings": "$88.95",
+    "Growth_2022_2024": "3.22%"
+  },
+  {
+    "Occupation": "Mechanical Engineers",
+    "Jobs_2022": "289,840",
+    "Annual_Openings": "23,306",
+    "Median_Earnings": "$47.09",
+    "Growth_2022_2024": "1.20%"
+  },
+  {
+    "Occupation": "Recreation Workers",
+    "Jobs_2022": "288,935",
+    "Annual_Openings": "71,736",
+    "Median_Earnings": "$16.39",
+    "Growth_2022_2024": "6.04%"
+  },
+  {
+    "Occupation": "Electrical, Electronic, and Electromechanical Assemblers, Except Coil Winders, Tapers, and Finishers",
+    "Jobs_2022": "286,651",
+    "Annual_Openings": "37,728",
+    "Median_Earnings": "$19.71",
+    "Growth_2022_2024": "-4.04%"
+  },
+  {
+    "Occupation": "Production Workers, All Other",
+    "Jobs_2022": "285,662",
+    "Annual_Openings": "38,676",
+    "Median_Earnings": "$18.03",
+    "Growth_2022_2024": "-4.87%"
+  },
+  {
+    "Occupation": "Coaches and Scouts",
+    "Jobs_2022": "277,235",
+    "Annual_Openings": "52,235",
+    "Median_Earnings": "$21.41",
+    "Growth_2022_2024": "10.09%"
+  },
+  {
+    "Occupation": "Graphic Designers",
+    "Jobs_2022": "277,027",
+    "Annual_Openings": "27,532",
+    "Median_Earnings": "$27.45",
+    "Growth_2022_2024": "-0.28%"
+  },
+  {
+    "Occupation": "Nurse Practitioners",
+    "Jobs_2022": "271,041",
+    "Annual_Openings": "32,811",
+    "Median_Earnings": "$60.24",
+    "Growth_2022_2024": "14.06%"
+  },
+  {
+    "Occupation": "Parts Salespersons",
+    "Jobs_2022": "265,676",
+    "Annual_Openings": "36,558",
+    "Median_Earnings": "$17.95",
+    "Growth_2022_2024": "1.10%"
+  },
+  {
+    "Occupation": "Clergy",
+    "Jobs_2022": "258,425",
+    "Annual_Openings": "25,841",
+    "Median_Earnings": "$26.93",
+    "Growth_2022_2024": "1.12%"
+  },
+  {
+    "Occupation": "Hotel, Motel, and Resort Desk Clerks",
+    "Jobs_2022": "257,405",
+    "Annual_Openings": "53,014",
+    "Median_Earnings": "$15.23",
+    "Growth_2022_2024": "5.61%"
+  },
+  {
+    "Occupation": "Insurance Claims and Policy Processing Clerks",
+    "Jobs_2022": "249,888",
+    "Annual_Openings": "37,517",
+    "Median_Earnings": "$22.43",
+    "Growth_2022_2024": "6.00%"
+  },
+  {
+    "Occupation": "Physical Therapists",
+    "Jobs_2022": "248,840",
+    "Annual_Openings": "21,019",
+    "Median_Earnings": "$47.32",
+    "Growth_2022_2024": "7.41%"
+  },
+  {
+    "Occupation": "Administrative Services Managers",
+    "Jobs_2022": "248,439",
+    "Annual_Openings": "26,489",
+    "Median_Earnings": "$51.65",
+    "Growth_2022_2024": "2.94%"
+  },
+  {
+    "Occupation": "Logisticians",
+    "Jobs_2022": "237,530",
+    "Annual_Openings": "35,406",
+    "Median_Earnings": "$38.22",
+    "Growth_2022_2024": "12.27%"
+  },
+  {
+    "Occupation": "Loan Interviewers and Clerks",
+    "Jobs_2022": "235,206",
+    "Annual_Openings": "20,182",
+    "Median_Earnings": "$22.76",
+    "Growth_2022_2024": "-14.44%"
+  },
+  {
+    "Occupation": "Cost Estimators",
+    "Jobs_2022": "234,065",
+    "Annual_Openings": "22,019",
+    "Median_Earnings": "$35.43",
+    "Growth_2022_2024": "-2.05%"
+  },
+  {
+    "Occupation": "Bakers",
+    "Jobs_2022": "231,563",
+    "Annual_Openings": "47,088",
+    "Median_Earnings": "$16.35",
+    "Growth_2022_2024": "7.71%"
+  },
+  {
+    "Occupation": "Tutors",
+    "Jobs_2022": "225,309",
+    "Annual_Openings": "46,455",
+    "Median_Earnings": "$19.45",
+    "Growth_2022_2024": "0.05%"
+  },
+  {
+    "Occupation": "Manicurists and Pedicurists",
+    "Jobs_2022": "224,362",
+    "Annual_Openings": "37,751",
+    "Median_Earnings": "$15.95",
+    "Growth_2022_2024": "8.31%"
+  },
+  {
+    "Occupation": "First-Line Supervisors of Housekeeping and Janitorial Workers",
+    "Jobs_2022": "223,097",
+    "Annual_Openings": "31,963",
+    "Median_Earnings": "$22.03",
+    "Growth_2022_2024": "3.52%"
+  },
+  {
+    "Occupation": "Radiologic Technologists and Technicians",
+    "Jobs_2022": "222,680",
+    "Annual_Openings": "18,804",
+    "Median_Earnings": "$34.77",
+    "Growth_2022_2024": "4.09%"
+  },
+  {
+    "Occupation": "Dental Hygienists",
+    "Jobs_2022": "222,601",
+    "Annual_Openings": "19,974",
+    "Median_Earnings": "$42.43",
+    "Growth_2022_2024": "-0.49%"
+  },
+  {
+    "Occupation": "Industrial Production Managers",
+    "Jobs_2022": "221,122",
+    "Annual_Openings": "22,097",
+    "Median_Earnings": "$55.43",
+    "Growth_2022_2024": "4.10%"
+  },
+  {
+    "Occupation": "Instructional Coordinators",
+    "Jobs_2022": "219,362",
+    "Annual_Openings": "27,270",
+    "Median_Earnings": "$35.37",
+    "Growth_2022_2024": "4.88%"
+  },
+  {
+    "Occupation": "Education Administrators, Postsecondary",
+    "Jobs_2022": "219,276",
+    "Annual_Openings": "23,232",
+    "Median_Earnings": "$49.32",
+    "Growth_2022_2024": "1.64%"
+  },
+  {
+    "Occupation": "Dispatchers, Except Police, Fire, and Ambulance",
+    "Jobs_2022": "215,734",
+    "Annual_Openings": "24,810",
+    "Median_Earnings": "$22.34",
+    "Growth_2022_2024": "-0.41%"
+  },
+  {
+    "Occupation": "Installation, Maintenance, and Repair Workers, All Other",
+    "Jobs_2022": "214,521",
+    "Annual_Openings": "26,037",
+    "Median_Earnings": "$21.91",
+    "Growth_2022_2024": "1.39%"
+  },
+  {
+    "Occupation": "Cement Masons and Concrete Finishers",
+    "Jobs_2022": "207,176",
+    "Annual_Openings": "23,962",
+    "Median_Earnings": "$24.90",
+    "Growth_2022_2024": "3.00%"
+  },
+  {
+    "Occupation": "Aircraft Mechanics and Service Technicians",
+    "Jobs_2022": "205,647",
+    "Annual_Openings": "24,793",
+    "Median_Earnings": "$34.99",
+    "Growth_2022_2024": "5.41%"
+  },
+  {
+    "Occupation": "Bill and Account Collectors",
+    "Jobs_2022": "205,614",
+    "Annual_Openings": "24,222",
+    "Median_Earnings": "$20.90",
+    "Growth_2022_2024": "-8.28%"
+  },
+  {
+    "Occupation": "Architectural and Engineering Managers",
+    "Jobs_2022": "203,186",
+    "Annual_Openings": "19,620",
+    "Median_Earnings": "$78.12",
+    "Growth_2022_2024": "4.55%"
+  },
+  {
+    "Occupation": "Software Quality Assurance Analysts and Testers",
+    "Jobs_2022": "201,306",
+    "Annual_Openings": "19,009",
+    "Median_Earnings": "$49.08",
+    "Growth_2022_2024": "1.44%"
+  },
+  {
+    "Occupation": "Human Resources Managers",
+    "Jobs_2022": "198,668",
+    "Annual_Openings": "24,797",
+    "Median_Earnings": "$65.60",
+    "Growth_2022_2024": "8.06%"
+  },
+  {
+    "Occupation": "Chefs and Head Cooks",
+    "Jobs_2022": "194,455",
+    "Annual_Openings": "34,761",
+    "Median_Earnings": "$26.76",
+    "Growth_2022_2024": "8.86%"
+  },
+  {
+    "Occupation": "Medical Records Specialists",
+    "Jobs_2022": "194,164",
+    "Annual_Openings": "17,334",
+    "Median_Earnings": "$23.73",
+    "Growth_2022_2024": "0.16%"
+  },
+  {
+    "Occupation": "Producers and Directors",
+    "Jobs_2022": "193,380",
+    "Annual_Openings": "19,818",
+    "Median_Earnings": "$38.84",
+    "Growth_2022_2024": "-4.50%"
+  },
+  {
+    "Occupation": "Transportation, Storage, and Distribution Managers",
+    "Jobs_2022": "192,644",
+    "Annual_Openings": "29,210",
+    "Median_Earnings": "$47.33",
+    "Growth_2022_2024": "12.68%"
+  },
+  {
+    "Occupation": "Special Education Teachers, Kindergarten and Elementary School",
+    "Jobs_2022": "190,255",
+    "Annual_Openings": "25,435",
+    "Median_Earnings": "$31.79",
+    "Growth_2022_2024": "10.44%"
+  },
+  {
+    "Occupation": "Electrical Engineers",
+    "Jobs_2022": "189,693",
+    "Annual_Openings": "15,791",
+    "Median_Earnings": "$52.58",
+    "Growth_2022_2024": "0.86%"
+  },
+  {
+    "Occupation": "Healthcare Social Workers",
+    "Jobs_2022": "188,081",
+    "Annual_Openings": "23,040",
+    "Median_Earnings": "$30.43",
+    "Growth_2022_2024": "4.35%"
+  },
+  {
+    "Occupation": "Social and Community Service Managers",
+    "Jobs_2022": "187,111",
+    "Annual_Openings": "23,818",
+    "Median_Earnings": "$36.61",
+    "Growth_2022_2024": "8.54%"
+  },
+  {
+    "Occupation": "Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",
+    "Jobs_2022": "186,557",
+    "Annual_Openings": "21,897",
+    "Median_Earnings": "$20.18",
+    "Growth_2022_2024": "-3.88%"
+  },
+  {
+    "Occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+    "Jobs_2022": "183,479",
+    "Annual_Openings": "21,278",
+    "Median_Earnings": "$29.71",
+    "Growth_2022_2024": "-6.27%"
+  },
+  {
+    "Occupation": "Computer Numerically Controlled Tool Operators",
+    "Jobs_2022": "183,065",
+    "Annual_Openings": "24,222",
+    "Median_Earnings": "$23.55",
+    "Growth_2022_2024": "2.63%"
+  },
+  {
+    "Occupation": "Interviewers, Except Eligibility and Loan",
+    "Jobs_2022": "181,825",
+    "Annual_Openings": "24,224",
+    "Median_Earnings": "$19.49",
+    "Growth_2022_2024": "-4.64%"
+  },
+  {
+    "Occupation": "Computer Network Architects",
+    "Jobs_2022": "180,878",
+    "Annual_Openings": "12,991",
+    "Median_Earnings": "$61.47",
+    "Growth_2022_2024": "-2.31%"
+  },
+  {
+    "Occupation": "Computer Network Support Specialists",
+    "Jobs_2022": "178,940",
+    "Annual_Openings": "13,946",
+    "Median_Earnings": "$34.15",
+    "Growth_2022_2024": "-7.20%"
+  },
+  {
+    "Occupation": "Information Security Analysts",
+    "Jobs_2022": "178,617",
+    "Annual_Openings": "19,999",
+    "Median_Earnings": "$56.64",
+    "Growth_2022_2024": "7.98%"
+  },
+  {
+    "Occupation": "Mobile Heavy Equipment Mechanics, Except Engines",
+    "Jobs_2022": "177,352",
+    "Annual_Openings": "27,023",
+    "Median_Earnings": "$29.71",
+    "Growth_2022_2024": "9.61%"
+  },
+  {
+    "Occupation": "Data Scientists",
+    "Jobs_2022": "177,111",
+    "Annual_Openings": "25,770",
+    "Median_Earnings": "$52.58",
+    "Growth_2022_2024": "15.33%"
+  },
+  {
+    "Occupation": "Merchandise Displayers and Window Trimmers",
+    "Jobs_2022": "175,393",
+    "Annual_Openings": "25,451",
+    "Median_Earnings": "$17.49",
+    "Growth_2022_2024": "0.02%"
+  },
+  {
+    "Occupation": "Speech-Language Pathologists",
+    "Jobs_2022": "175,284",
+    "Annual_Openings": "18,569",
+    "Median_Earnings": "$42.85",
+    "Growth_2022_2024": "7.79%"
+  },
+  {
+    "Occupation": "Food Batchmakers",
+    "Jobs_2022": "174,983",
+    "Annual_Openings": "33,710",
+    "Median_Earnings": "$18.68",
+    "Growth_2022_2024": "2.20%"
+  },
+  {
+    "Occupation": "Bus Drivers, Transit and Intercity",
+    "Jobs_2022": "174,259",
+    "Annual_Openings": "45,718",
+    "Median_Earnings": "$28.42",
+    "Growth_2022_2024": "20.49%"
+  },
+  {
+    "Occupation": "Engineers, All Other",
+    "Jobs_2022": "173,931",
+    "Annual_Openings": "15,005",
+    "Median_Earnings": "$54.49",
+    "Growth_2022_2024": "0.53%"
+  },
+  {
+    "Occupation": "Health Technologists and Technicians, All Other",
+    "Jobs_2022": "170,875",
+    "Annual_Openings": "19,328",
+    "Median_Earnings": "$22.98",
+    "Growth_2022_2024": "6.23%"
+  },
+  {
+    "Occupation": "First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",
+    "Jobs_2022": "169,370",
+    "Annual_Openings": "21,661",
+    "Median_Earnings": "$24.98",
+    "Growth_2022_2024": "0.05%"
+  },
+  {
+    "Occupation": "Emergency Medical Technicians",
+    "Jobs_2022": "169,316",
+    "Annual_Openings": "18,462",
+    "Median_Earnings": "$19.09",
+    "Growth_2022_2024": "1.45%"
+  },
+  {
+    "Occupation": "Musicians and Singers",
+    "Jobs_2022": "168,629",
+    "Annual_Openings": "26,163",
+    "Median_Earnings": "$30.39",
+    "Growth_2022_2024": "0.93%"
+  },
+  {
+    "Occupation": "Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",
+    "Jobs_2022": "167,863",
+    "Annual_Openings": "17,868",
+    "Median_Earnings": "$18.94",
+    "Growth_2022_2024": "-7.08%"
+  },
+  {
+    "Occupation": "Data Entry Keyers",
+    "Jobs_2022": "167,694",
+    "Annual_Openings": "22,892",
+    "Median_Earnings": "$18.32",
+    "Growth_2022_2024": "-5.70%"
+  },
+  {
+    "Occupation": "Roofers",
+    "Jobs_2022": "166,279",
+    "Annual_Openings": "20,215",
+    "Median_Earnings": "$24.14",
+    "Growth_2022_2024": "5.45%"
+  },
+  {
+    "Occupation": "Massage Therapists",
+    "Jobs_2022": "166,044",
+    "Annual_Openings": "31,271",
+    "Median_Earnings": "$24.80",
+    "Growth_2022_2024": "8.53%"
+  },
+  {
+    "Occupation": "Court, Municipal, and License Clerks",
+    "Jobs_2022": "164,902",
+    "Annual_Openings": "20,895",
+    "Median_Earnings": "$22.05",
+    "Growth_2022_2024": "0.91%"
+  },
+  {
+    "Occupation": "Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",
+    "Jobs_2022": "164,179",
+    "Annual_Openings": "20,790",
+    "Median_Earnings": "$21.57",
+    "Growth_2022_2024": "1.81%"
+  },
+  {
+    "Occupation": "Payroll and Timekeeping Clerks",
+    "Jobs_2022": "162,837",
+    "Annual_Openings": "18,663",
+    "Median_Earnings": "$25.20",
+    "Growth_2022_2024": "-3.42%"
+  },
+  {
+    "Occupation": "Teachers and Instructors, All Other",
+    "Jobs_2022": "162,828",
+    "Annual_Openings": "26,251",
+    "Median_Earnings": "$30.81",
+    "Growth_2022_2024": "1.87%"
+  },
+  {
+    "Occupation": "Farmworkers, Farm, Ranch, and Aquacultural Animals",
+    "Jobs_2022": "162,300",
+    "Annual_Openings": "36,501",
+    "Median_Earnings": "$15.60",
+    "Growth_2022_2024": "9.88%"
+  },
+  {
+    "Occupation": "Legal Secretaries and Administrative Assistants",
+    "Jobs_2022": "160,766",
+    "Annual_Openings": "21,495",
+    "Median_Earnings": "$24.89",
+    "Growth_2022_2024": "-5.76%"
+  },
+  {
+    "Occupation": "Automotive Body and Related Repairers",
+    "Jobs_2022": "159,911",
+    "Annual_Openings": "23,254",
+    "Median_Earnings": "$23.80",
+    "Growth_2022_2024": "8.71%"
+  },
+  {
+    "Occupation": "Directors, Religious Activities and Education",
+    "Jobs_2022": "157,247",
+    "Annual_Openings": "17,032",
+    "Median_Earnings": "$25.39",
+    "Growth_2022_2024": "-1.03%"
+  },
+  {
+    "Occupation": "Printing Press Operators",
+    "Jobs_2022": "156,293",
+    "Annual_Openings": "19,819",
+    "Median_Earnings": "$19.96",
+    "Growth_2022_2024": "-2.20%"
+  },
+  {
+    "Occupation": "Eligibility Interviewers, Government Programs",
+    "Jobs_2022": "155,512",
+    "Annual_Openings": "18,695",
+    "Median_Earnings": "$24.26",
+    "Growth_2022_2024": "2.82%"
+  },
+  {
+    "Occupation": "Sales and Related Workers, All Other",
+    "Jobs_2022": "154,971",
+    "Annual_Openings": "23,531",
+    "Median_Earnings": "$20.38",
+    "Growth_2022_2024": "-3.28%"
+  },
+  {
+    "Occupation": "Special Education Teachers, Secondary School",
+    "Jobs_2022": "150,598",
+    "Annual_Openings": "16,891",
+    "Median_Earnings": "$32.88",
+    "Growth_2022_2024": "5.53%"
+  },
+  {
+    "Occupation": "Dentists, General",
+    "Jobs_2022": "148,155",
+    "Annual_Openings": "8,998",
+    "Median_Earnings": "$82.21",
+    "Growth_2022_2024": "1.96%"
+  },
+  {
+    "Occupation": "Real Estate Brokers",
+    "Jobs_2022": "148,069",
+    "Annual_Openings": "18,008",
+    "Median_Earnings": "$35.73",
+    "Growth_2022_2024": "-3.93%"
+  },
+  {
+    "Occupation": "Writers and Authors",
+    "Jobs_2022": "147,924",
+    "Annual_Openings": "17,118",
+    "Median_Earnings": "$27.79",
+    "Growth_2022_2024": "-2.53%"
+  },
+  {
+    "Occupation": "Physician Assistants",
+    "Jobs_2022": "147,462",
+    "Annual_Openings": "15,539",
+    "Median_Earnings": "$62.29",
+    "Growth_2022_2024": "7.37%"
+  },
+  {
+    "Occupation": "Computer Programmers",
+    "Jobs_2022": "147,215",
+    "Annual_Openings": "11,193",
+    "Median_Earnings": "$47.04",
+    "Growth_2022_2024": "-9.27%"
+  },
+  {
+    "Occupation": "First-Line Supervisors of Police and Detectives",
+    "Jobs_2022": "146,016",
+    "Annual_Openings": "16,365",
+    "Median_Earnings": "$49.17",
+    "Growth_2022_2024": "6.92%"
+  },
+  {
+    "Occupation": "Occupational Therapists",
+    "Jobs_2022": "145,313",
+    "Annual_Openings": "16,258",
+    "Median_Earnings": "$45.73",
+    "Growth_2022_2024": "9.36%"
+  },
+  {
+    "Occupation": "Highway Maintenance Workers",
+    "Jobs_2022": "145,307",
+    "Annual_Openings": "21,251",
+    "Median_Earnings": "$22.72",
+    "Growth_2022_2024": "7.93%"
+  },
+  {
+    "Occupation": "Construction and Building Inspectors",
+    "Jobs_2022": "143,805",
+    "Annual_Openings": "21,507",
+    "Median_Earnings": "$32.49",
+    "Growth_2022_2024": "3.51%"
+  },
+  {
+    "Occupation": "Educational Instruction and Library Workers, All Other",
+    "Jobs_2022": "142,590",
+    "Annual_Openings": "18,262",
+    "Median_Earnings": "$24.27",
+    "Growth_2022_2024": "-2.32%"
+  },
+  {
+    "Occupation": "Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+    "Jobs_2022": "142,246",
+    "Annual_Openings": "16,417",
+    "Median_Earnings": "$20.04",
+    "Growth_2022_2024": "-8.73%"
+  },
+  {
+    "Occupation": "Cooks, Short Order",
+    "Jobs_2022": "141,851",
+    "Annual_Openings": "26,206",
+    "Median_Earnings": "$16.23",
+    "Growth_2022_2024": "-5.05%"
+  },
+  {
+    "Occupation": "Photographers",
+    "Jobs_2022": "141,728",
+    "Annual_Openings": "21,733",
+    "Median_Earnings": "$21.68",
+    "Growth_2022_2024": "10.19%"
+  },
+  {
+    "Occupation": "Phlebotomists",
+    "Jobs_2022": "140,987",
+    "Annual_Openings": "22,353",
+    "Median_Earnings": "$20.02",
+    "Growth_2022_2024": "-0.20%"
+  },
+  {
+    "Occupation": "Financial Specialists, All Other",
+    "Jobs_2022": "139,676",
+    "Annual_Openings": "12,201",
+    "Median_Earnings": "$37.58",
+    "Growth_2022_2024": "-2.92%"
+  },
+  {
+    "Occupation": "Librarians and Media Collections Specialists",
+    "Jobs_2022": "139,518",
+    "Annual_Openings": "16,679",
+    "Median_Earnings": "$31.41",
+    "Growth_2022_2024": "2.36%"
+  },
+  {
+    "Occupation": "Meat, Poultry, and Fish Cutters and Trimmers",
+    "Jobs_2022": "139,366",
+    "Annual_Openings": "25,162",
+    "Median_Earnings": "$17.33",
+    "Growth_2022_2024": "3.05%"
+  },
+  {
+    "Occupation": "Meeting, Convention, and Event Planners",
+    "Jobs_2022": "137,267",
+    "Annual_Openings": "22,144",
+    "Median_Earnings": "$27.22",
+    "Growth_2022_2024": "9.05%"
+  },
+  {
+    "Occupation": "Architects, Except Landscape and Naval",
+    "Jobs_2022": "135,272",
+    "Annual_Openings": "12,304",
+    "Median_Earnings": "$42.81",
+    "Growth_2022_2024": "2.74%"
+  },
+  {
+    "Occupation": "Airline Pilots, Copilots, and Flight Engineers",
+    "Jobs_2022": "134,038",
+    "Annual_Openings": "22,692",
+    "Median_Earnings": "$98.58",
+    "Growth_2022_2024": "7.08%"
+  },
+  {
+    "Occupation": "Butchers and Meat Cutters",
+    "Jobs_2022": "133,342",
+    "Annual_Openings": "22,192",
+    "Median_Earnings": "$18.26",
+    "Growth_2022_2024": "5.55%"
+  },
+  {
+    "Occupation": "Respiratory Therapists",
+    "Jobs_2022": "132,654",
+    "Annual_Openings": "10,879",
+    "Median_Earnings": "$37.21",
+    "Growth_2022_2024": "3.08%"
+  },
+  {
+    "Occupation": "Sewing Machine Operators",
+    "Jobs_2022": "132,646",
+    "Annual_Openings": "18,401",
+    "Median_Earnings": "$16.28",
+    "Growth_2022_2024": "-4.20%"
+  },
+  {
+    "Occupation": "Sheet Metal Workers",
+    "Jobs_2022": "131,927",
+    "Annual_Openings": "14,998",
+    "Median_Earnings": "$27.52",
+    "Growth_2022_2024": "-2.91%"
+  },
+  {
+    "Occupation": "Medical Scientists, Except Epidemiologists",
+    "Jobs_2022": "131,380",
+    "Annual_Openings": "18,046",
+    "Median_Earnings": "$48.64",
+    "Growth_2022_2024": "14.67%"
+  },
+  {
+    "Occupation": "Reservation and Transportation Ticket Agents and Travel Clerks",
+    "Jobs_2022": "128,379",
+    "Annual_Openings": "18,618",
+    "Median_Earnings": "$19.84",
+    "Growth_2022_2024": "-0.04%"
+  },
+  {
+    "Occupation": "Insurance Underwriters",
+    "Jobs_2022": "128,286",
+    "Annual_Openings": "12,301",
+    "Median_Earnings": "$37.14",
+    "Growth_2022_2024": "-5.15%"
+  },
+  {
+    "Occupation": "Editors",
+    "Jobs_2022": "127,359",
+    "Annual_Openings": "15,414",
+    "Median_Earnings": "$33.60",
+    "Growth_2022_2024": "-6.30%"
+  },
+  {
+    "Occupation": "Electrical Power-Line Installers and Repairers",
+    "Jobs_2022": "125,218",
+    "Annual_Openings": "15,566",
+    "Median_Earnings": "$41.93",
+    "Growth_2022_2024": "1.45%"
+  },
+  {
+    "Occupation": "Facilities Managers",
+    "Jobs_2022": "124,520",
+    "Annual_Openings": "18,075",
+    "Median_Earnings": "$49.08",
+    "Growth_2022_2024": "11.99%"
+  },
+  {
+    "Occupation": "Veterinary Technologists and Technicians",
+    "Jobs_2022": "124,063",
+    "Annual_Openings": "16,432",
+    "Median_Earnings": "$20.38",
+    "Growth_2022_2024": "3.55%"
+  },
+  {
+    "Occupation": "Water and Wastewater Treatment Plant and System Operators",
+    "Jobs_2022": "121,940",
+    "Annual_Openings": "15,422",
+    "Median_Earnings": "$26.34",
+    "Growth_2022_2024": "1.61%"
+  },
+  {
+    "Occupation": "Kindergarten Teachers, Except Special Education",
+    "Jobs_2022": "121,483",
+    "Annual_Openings": "16,161",
+    "Median_Earnings": "$30.25",
+    "Growth_2022_2024": "0.75%"
+  },
+  {
+    "Occupation": "Fundraisers",
+    "Jobs_2022": "121,026",
+    "Annual_Openings": "14,461",
+    "Median_Earnings": "$31.24",
+    "Growth_2022_2024": "6.41%"
+  },
+  {
+    "Occupation": "Chemical Equipment Operators and Tenders",
+    "Jobs_2022": "118,795",
+    "Annual_Openings": "17,238",
+    "Median_Earnings": "$25.29",
+    "Growth_2022_2024": "1.69%"
+  },
+  {
+    "Occupation": "Mental Health and Substance Abuse Social Workers",
+    "Jobs_2022": "118,354",
+    "Annual_Openings": "16,080",
+    "Median_Earnings": "$26.78",
+    "Growth_2022_2024": "10.35%"
+  },
+  {
+    "Occupation": "Advertising Sales Agents",
+    "Jobs_2022": "118,100",
+    "Annual_Openings": "15,913",
+    "Median_Earnings": "$29.66",
+    "Growth_2022_2024": "-2.86%"
+  },
+  {
+    "Occupation": "Healthcare Support Workers, All Other",
+    "Jobs_2022": "117,411",
+    "Annual_Openings": "17,679",
+    "Median_Earnings": "$21.16",
+    "Growth_2022_2024": "-3.41%"
+  },
+  {
+    "Occupation": "Detectives and Criminal Investigators",
+    "Jobs_2022": "117,365",
+    "Annual_Openings": "11,844",
+    "Median_Earnings": "$44.11",
+    "Growth_2022_2024": "1.32%"
+  },
+  {
+    "Occupation": "Veterinary Assistants and Laboratory Animal Caretakers",
+    "Jobs_2022": "117,095",
+    "Annual_Openings": "28,357",
+    "Median_Earnings": "$17.57",
+    "Growth_2022_2024": "4.50%"
+  },
+  {
+    "Occupation": "Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",
+    "Jobs_2022": "116,939",
+    "Annual_Openings": "46,524",
+    "Median_Earnings": "$14.81",
+    "Growth_2022_2024": "15.35%"
+  },
+  {
+    "Occupation": "Drywall and Ceiling Tile Installers",
+    "Jobs_2022": "116,750",
+    "Annual_Openings": "11,410",
+    "Median_Earnings": "$25.29",
+    "Growth_2022_2024": "-1.06%"
+  },
+  {
+    "Occupation": "Telecommunications Line Installers and Repairers",
+    "Jobs_2022": "115,512",
+    "Annual_Openings": "12,730",
+    "Median_Earnings": "$31.55",
+    "Growth_2022_2024": "-8.43%"
+  },
+  {
+    "Occupation": "Paramedics",
+    "Jobs_2022": "115,477",
+    "Annual_Openings": "10,687",
+    "Median_Earnings": "$26.19",
+    "Growth_2022_2024": "4.90%"
+  },
+  {
+    "Occupation": "First-Line Supervisors of Personal Service Workers",
+    "Jobs_2022": "115,252",
+    "Annual_Openings": "16,256",
+    "Median_Earnings": "$22.21",
+    "Growth_2022_2024": "1.22%"
+  },
+  {
+    "Occupation": "Flight Attendants",
+    "Jobs_2022": "115,009",
+    "Annual_Openings": "28,692",
+    "Median_Earnings": "$33.31",
+    "Growth_2022_2024": "18.91%"
+  },
+  {
+    "Occupation": "Tax Preparers",
+    "Jobs_2022": "114,290",
+    "Annual_Openings": "16,406",
+    "Median_Earnings": "$24.33",
+    "Growth_2022_2024": "-1.50%"
+  },
+  {
+    "Occupation": "Web and Digital Interface Designers",
+    "Jobs_2022": "113,986",
+    "Annual_Openings": "17,106",
+    "Median_Earnings": "$44.59",
+    "Growth_2022_2024": "11.84%"
+  },
+  {
+    "Occupation": "Family Medicine Physicians",
+    "Jobs_2022": "112,294",
+    "Annual_Openings": "12,129",
+    "Median_Earnings": "$108.31",
+    "Growth_2022_2024": "11.49%"
+  },
+  {
+    "Occupation": "Occupational Health and Safety Specialists",
+    "Jobs_2022": "112,073",
+    "Annual_Openings": "20,327",
+    "Median_Earnings": "$39.32",
+    "Growth_2022_2024": "12.70%"
+  },
+  {
+    "Occupation": "Operations Research Analysts",
+    "Jobs_2022": "111,994",
+    "Annual_Openings": "16,730",
+    "Median_Earnings": "$40.58",
+    "Growth_2022_2024": "13.59%"
+  },
+  {
+    "Occupation": "Surgical Technologists",
+    "Jobs_2022": "110,663",
+    "Annual_Openings": "11,182",
+    "Median_Earnings": "$28.90",
+    "Growth_2022_2024": "4.88%"
+  },
+  {
+    "Occupation": "Electronics Engineers, Except Computer",
+    "Jobs_2022": "110,201",
+    "Annual_Openings": "7,619",
+    "Median_Earnings": "$56.59",
+    "Growth_2022_2024": "-7.08%"
+  },
+  {
+    "Occupation": "Human Resources Assistants, Except Payroll and Timekeeping",
+    "Jobs_2022": "109,525",
+    "Annual_Openings": "13,576",
+    "Median_Earnings": "$22.92",
+    "Growth_2022_2024": "-3.32%"
+  },
+  {
+    "Occupation": "Psychiatric Technicians",
+    "Jobs_2022": "109,505",
+    "Annual_Openings": "21,817",
+    "Median_Earnings": "$19.35",
+    "Growth_2022_2024": "19.03%"
+  },
+  {
+    "Occupation": "Electrical and Electronic Engineering Technologists and Technicians",
+    "Jobs_2022": "108,500",
+    "Annual_Openings": "12,868",
+    "Median_Earnings": "$34.43",
+    "Growth_2022_2024": "-2.65%"
+  },
+  {
+    "Occupation": "Architectural and Civil Drafters",
+    "Jobs_2022": "108,319",
+    "Annual_Openings": "14,573",
+    "Median_Earnings": "$29.78",
+    "Growth_2022_2024": "4.36%"
+  },
+  {
+    "Occupation": "Order Clerks",
+    "Jobs_2022": "107,262",
+    "Annual_Openings": "13,572",
+    "Median_Earnings": "$19.70",
+    "Growth_2022_2024": "-12.25%"
+  },
+  {
+    "Occupation": "Automotive and Watercraft Service Attendants",
+    "Jobs_2022": "106,943",
+    "Annual_Openings": "18,210",
+    "Median_Earnings": "$16.10",
+    "Growth_2022_2024": "-3.32%"
+  },
+  {
+    "Occupation": "Cabinetmakers and Bench Carpenters",
+    "Jobs_2022": "105,981",
+    "Annual_Openings": "12,005",
+    "Median_Earnings": "$20.40",
+    "Growth_2022_2024": "-9.44%"
+  },
+  {
+    "Occupation": "Community and Social Service Specialists, All Other",
+    "Jobs_2022": "104,281",
+    "Annual_Openings": "14,653",
+    "Median_Earnings": "$23.86",
+    "Growth_2022_2024": "3.57%"
+  },
+  {
+    "Occupation": "Web Developers",
+    "Jobs_2022": "102,188",
+    "Annual_Openings": "9,082",
+    "Median_Earnings": "$39.63",
+    "Growth_2022_2024": "-5.34%"
+  },
+  {
+    "Occupation": "Physical Therapist Assistants",
+    "Jobs_2022": "101,364",
+    "Annual_Openings": "21,072",
+    "Median_Earnings": "$31.21",
+    "Growth_2022_2024": "10.53%"
+  },
+  {
+    "Occupation": "Cargo and Freight Agents",
+    "Jobs_2022": "100,761",
+    "Annual_Openings": "18,141",
+    "Median_Earnings": "$23.37",
+    "Growth_2022_2024": "9.50%"
+  },
+  {
+    "Occupation": "Pest Control Workers",
+    "Jobs_2022": "100,702",
+    "Annual_Openings": "18,486",
+    "Median_Earnings": "$20.11",
+    "Growth_2022_2024": "4.40%"
+  },
+  {
+    "Occupation": "Public Safety Telecommunicators",
+    "Jobs_2022": "98,585",
+    "Annual_Openings": "13,443",
+    "Median_Earnings": "$23.82",
+    "Growth_2022_2024": "3.82%"
+  },
+  {
+    "Occupation": "Art Directors",
+    "Jobs_2022": "96,819",
+    "Annual_Openings": "10,004",
+    "Median_Earnings": "$40.38",
+    "Growth_2022_2024": "-9.73%"
+  },
+  {
+    "Occupation": "Computer, Automated Teller, and Office Machine Repairers",
+    "Jobs_2022": "96,746",
+    "Annual_Openings": "11,036",
+    "Median_Earnings": "$21.28",
+    "Growth_2022_2024": "-6.42%"
+  },
+  {
+    "Occupation": "Compensation, Benefits, and Job Analysis Specialists",
+    "Jobs_2022": "96,468",
+    "Annual_Openings": "11,436",
+    "Median_Earnings": "$35.18",
+    "Growth_2022_2024": "6.60%"
+  },
+  {
+    "Occupation": "Helpers--Installation, Maintenance, and Repair Workers",
+    "Jobs_2022": "95,618",
+    "Annual_Openings": "16,805",
+    "Median_Earnings": "$17.62",
+    "Growth_2022_2024": "9.18%"
+  },
+  {
+    "Occupation": "Skincare Specialists",
+    "Jobs_2022": "95,601",
+    "Annual_Openings": "19,333",
+    "Median_Earnings": "$20.21",
+    "Growth_2022_2024": "8.19%"
+  },
+  {
+    "Occupation": "Interior Designers",
+    "Jobs_2022": "95,526",
+    "Annual_Openings": "11,866",
+    "Median_Earnings": "$30.01",
+    "Growth_2022_2024": "2.39%"
+  },
+  {
+    "Occupation": "Telemarketers",
+    "Jobs_2022": "95,057",
+    "Annual_Openings": "15,431",
+    "Median_Earnings": "$16.43",
+    "Growth_2022_2024": "-15.99%"
+  },
+  {
+    "Occupation": "Protective Service Workers, All Other",
+    "Jobs_2022": "92,488",
+    "Annual_Openings": "28,749",
+    "Median_Earnings": "$19.27",
+    "Growth_2022_2024": "-4.72%"
+  },
+  {
+    "Occupation": "File Clerks",
+    "Jobs_2022": "92,460",
+    "Annual_Openings": "12,469",
+    "Median_Earnings": "$18.45",
+    "Growth_2022_2024": "-7.15%"
+  },
+  {
+    "Occupation": "Probation Officers and Correctional Treatment Specialists",
+    "Jobs_2022": "91,139",
+    "Annual_Openings": "8,949",
+    "Median_Earnings": "$29.66",
+    "Growth_2022_2024": "-1.79%"
+  },
+  {
+    "Occupation": "Veterinarians",
+    "Jobs_2022": "90,374",
+    "Annual_Openings": "5,751",
+    "Median_Earnings": "$55.94",
+    "Growth_2022_2024": "0.48%"
+  },
+  {
+    "Occupation": "Natural Sciences Managers",
+    "Jobs_2022": "89,202",
+    "Annual_Openings": "14,263",
+    "Median_Earnings": "$72.79",
+    "Growth_2022_2024": "14.96%"
+  },
+  {
+    "Occupation": "Chemists",
+    "Jobs_2022": "87,907",
+    "Annual_Openings": "8,623",
+    "Median_Earnings": "$41.57",
+    "Growth_2022_2024": "-0.75%"
+  },
+  {
+    "Occupation": "Security and Fire Alarm Systems Installers",
+    "Jobs_2022": "86,778",
+    "Annual_Openings": "13,812",
+    "Median_Earnings": "$26.02",
+    "Growth_2022_2024": "3.40%"
+  },
+  {
+    "Occupation": "Fine Artists, Including Painters, Sculptors, and Illustrators",
+    "Jobs_2022": "86,477",
+    "Annual_Openings": "9,461",
+    "Median_Earnings": "$12.09",
+    "Growth_2022_2024": "-16.62%"
+  },
+  {
+    "Occupation": "Rehabilitation Counselors",
+    "Jobs_2022": "86,167",
+    "Annual_Openings": "11,879",
+    "Median_Earnings": "$21.10",
+    "Growth_2022_2024": "5.55%"
+  },
+  {
+    "Occupation": "Career/Technical Education Teachers, Secondary School",
+    "Jobs_2022": "85,913",
+    "Annual_Openings": "10,623",
+    "Median_Earnings": "$32.04",
+    "Growth_2022_2024": "5.19%"
+  },
+  {
+    "Occupation": "First-Line Supervisors of Firefighting and Prevention Workers",
+    "Jobs_2022": "85,491",
+    "Annual_Openings": "7,720",
+    "Median_Earnings": "$42.01",
+    "Growth_2022_2024": "1.66%"
+  },
+  {
+    "Occupation": "Religious Workers, All Other",
+    "Jobs_2022": "85,381",
+    "Annual_Openings": "13,117",
+    "Median_Earnings": "$18.28",
+    "Growth_2022_2024": "0.48%"
+  },
+  {
+    "Occupation": "First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services",
+    "Jobs_2022": "84,824",
+    "Annual_Openings": "15,240",
+    "Median_Earnings": "$22.11",
+    "Growth_2022_2024": "11.15%"
+  },
+  {
+    "Occupation": "Diagnostic Medical Sonographers",
+    "Jobs_2022": "84,811",
+    "Annual_Openings": "8,140",
+    "Median_Earnings": "$41.30",
+    "Growth_2022_2024": "5.02%"
+  },
+  {
+    "Occupation": "Library Assistants, Clerical",
+    "Jobs_2022": "84,529",
+    "Annual_Openings": "19,934",
+    "Median_Earnings": "$16.35",
+    "Growth_2022_2024": "7.16%"
+  },
+  {
+    "Occupation": "Database Administrators",
+    "Jobs_2022": "84,108",
+    "Annual_Openings": "5,915",
+    "Median_Earnings": "$48.39",
+    "Growth_2022_2024": "-6.33%"
+  },
+  {
+    "Occupation": "Agricultural Equipment Operators",
+    "Jobs_2022": "82,594",
+    "Annual_Openings": "13,502",
+    "Median_Earnings": "$16.97",
+    "Growth_2022_2024": "-7.65%"
+  },
+  {
+    "Occupation": "Biological Technicians",
+    "Jobs_2022": "82,155",
+    "Annual_Openings": "13,961",
+    "Median_Earnings": "$24.75",
+    "Growth_2022_2024": "4.01%"
+  },
+  {
+    "Occupation": "Library Technicians",
+    "Jobs_2022": "81,941",
+    "Annual_Openings": "17,677",
+    "Median_Earnings": "$19.26",
+    "Growth_2022_2024": "4.44%"
+  },
+  {
+    "Occupation": "Special Education Teachers, Middle School",
+    "Jobs_2022": "81,010",
+    "Annual_Openings": "10,730",
+    "Median_Earnings": "$32.83",
+    "Growth_2022_2024": "8.62%"
+  },
+  {
+    "Occupation": "Interpreters and Translators",
+    "Jobs_2022": "81,005",
+    "Annual_Openings": "10,674",
+    "Median_Earnings": "$27.14",
+    "Growth_2022_2024": "0.14%"
+  },
+  {
+    "Occupation": "Property Appraisers and Assessors",
+    "Jobs_2022": "80,840",
+    "Annual_Openings": "9,693",
+    "Median_Earnings": "$31.11",
+    "Growth_2022_2024": "0.06%"
+  },
+  {
+    "Occupation": "Environmental Scientists and Specialists, Including Health",
+    "Jobs_2022": "80,636",
+    "Annual_Openings": "10,584",
+    "Median_Earnings": "$37.61",
+    "Growth_2022_2024": "7.20%"
+  },
+  {
+    "Occupation": "Purchasing Managers",
+    "Jobs_2022": "80,397",
+    "Annual_Openings": "8,544",
+    "Median_Earnings": "$65.91",
+    "Growth_2022_2024": "2.55%"
+  },
+  {
+    "Occupation": "Computer Hardware Engineers",
+    "Jobs_2022": "79,995",
+    "Annual_Openings": "10,036",
+    "Median_Earnings": "$68.28",
+    "Growth_2022_2024": "6.71%"
+  },
+  {
+    "Occupation": "Audio and Video Technicians",
+    "Jobs_2022": "79,951",
+    "Annual_Openings": "12,343",
+    "Median_Earnings": "$24.97",
+    "Growth_2022_2024": "8.46%"
+  },
+  {
+    "Occupation": "Barbers",
+    "Jobs_2022": "79,855",
+    "Annual_Openings": "12,495",
+    "Median_Earnings": "$15.22",
+    "Growth_2022_2024": "1.89%"
+  },
+  {
+    "Occupation": "Life, Physical, and Social Science Technicians, All Other",
+    "Jobs_2022": "79,812",
+    "Annual_Openings": "13,946",
+    "Median_Earnings": "$27.14",
+    "Growth_2022_2024": "1.67%"
+  },
+  {
+    "Occupation": "Actors",
+    "Jobs_2022": "78,958",
+    "Annual_Openings": "14,890",
+    "Median_Earnings": "$21.90",
+    "Growth_2022_2024": "3.83%"
+  },
+  {
+    "Occupation": "Dietitians and Nutritionists",
+    "Jobs_2022": "78,832",
+    "Annual_Openings": "8,938",
+    "Median_Earnings": "$33.31",
+    "Growth_2022_2024": "7.16%"
+  },
+  {
+    "Occupation": "Engineering Technologists and Technicians, Except Drafters, All Other",
+    "Jobs_2022": "78,311",
+    "Annual_Openings": "8,394",
+    "Median_Earnings": "$34.85",
+    "Growth_2022_2024": "-6.00%"
+  },
+  {
+    "Occupation": "Social Workers, All Other",
+    "Jobs_2022": "78,034",
+    "Annual_Openings": "10,542",
+    "Median_Earnings": "$31.75",
+    "Growth_2022_2024": "7.54%"
+  },
+  {
+    "Occupation": "Slaughterers and Meat Packers",
+    "Jobs_2022": "77,447",
+    "Annual_Openings": "13,350",
+    "Median_Earnings": "$18.40",
+    "Growth_2022_2024": "-6.14%"
+  },
+  {
+    "Occupation": "General Internal Medicine Physicians",
+    "Jobs_2022": "77,289",
+    "Annual_Openings": "6,114",
+    "Median_Earnings": "$107.32",
+    "Growth_2022_2024": "0.14%"
+  },
+  {
+    "Occupation": "Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+    "Jobs_2022": "76,955",
+    "Annual_Openings": "11,181",
+    "Median_Earnings": "$20.23",
+    "Growth_2022_2024": "-0.24%"
+  },
+  {
+    "Occupation": "Education and Childcare Administrators, Preschool and Daycare",
+    "Jobs_2022": "76,290",
+    "Annual_Openings": "9,887",
+    "Median_Earnings": "$25.16",
+    "Growth_2022_2024": "8.29%"
+  },
+  {
+    "Occupation": "Marriage and Family Therapists",
+    "Jobs_2022": "76,093",
+    "Annual_Openings": "10,377",
+    "Median_Earnings": "$27.52",
+    "Growth_2022_2024": "8.23%"
+  },
+  {
+    "Occupation": "Opticians, Dispensing",
+    "Jobs_2022": "75,560",
+    "Annual_Openings": "9,922",
+    "Median_Earnings": "$21.00",
+    "Growth_2022_2024": "5.42%"
+  },
+  {
+    "Occupation": "Helpers--Electricians",
+    "Jobs_2022": "74,848",
+    "Annual_Openings": "11,406",
+    "Median_Earnings": "$18.86",
+    "Growth_2022_2024": "-1.79%"
+  },
+  {
+    "Occupation": "Psychologists, All Other",
+    "Jobs_2022": "74,251",
+    "Annual_Openings": "6,937",
+    "Median_Earnings": "$49.52",
+    "Growth_2022_2024": "1.08%"
+  },
+  {
+    "Occupation": "Brickmasons and Blockmasons",
+    "Jobs_2022": "73,635",
+    "Annual_Openings": "9,107",
+    "Median_Earnings": "$27.62",
+    "Growth_2022_2024": "1.02%"
+  },
+  {
+    "Occupation": "Credit Analysts",
+    "Jobs_2022": "73,277",
+    "Annual_Openings": "7,834",
+    "Median_Earnings": "$38.61",
+    "Growth_2022_2024": "-0.08%"
+  },
+  {
+    "Occupation": "Counselors, All Other",
+    "Jobs_2022": "72,803",
+    "Annual_Openings": "9,523",
+    "Median_Earnings": "$23.39",
+    "Growth_2022_2024": "-0.51%"
+  },
+  {
+    "Occupation": "Mail Clerks and Mail Machine Operators, Except Postal Service",
+    "Jobs_2022": "72,619",
+    "Annual_Openings": "11,489",
+    "Median_Earnings": "$17.88",
+    "Growth_2022_2024": "-4.17%"
+  },
+  {
+    "Occupation": "Structural Iron and Steel Workers",
+    "Jobs_2022": "72,270",
+    "Annual_Openings": "8,751",
+    "Median_Earnings": "$29.76",
+    "Growth_2022_2024": "-4.29%"
+  },
+  {
+    "Occupation": "Clinical and Counseling Psychologists",
+    "Jobs_2022": "71,876",
+    "Annual_Openings": "11,318",
+    "Median_Earnings": "$45.80",
+    "Growth_2022_2024": "18.24%"
+  },
+  {
+    "Occupation": "Travel Agents",
+    "Jobs_2022": "70,824",
+    "Annual_Openings": "13,633",
+    "Median_Earnings": "$22.51",
+    "Growth_2022_2024": "6.72%"
+  },
+  {
+    "Occupation": "Public Relations Managers",
+    "Jobs_2022": "70,168",
+    "Annual_Openings": "10,166",
+    "Median_Earnings": "$65.10",
+    "Growth_2022_2024": "12.24%"
+  },
+  {
+    "Occupation": "Civil Engineering Technologists and Technicians",
+    "Jobs_2022": "69,366",
+    "Annual_Openings": "9,071",
+    "Median_Earnings": "$29.16",
+    "Growth_2022_2024": "3.40%"
+  },
+  {
+    "Occupation": "Gambling Dealers",
+    "Jobs_2022": "69,339",
+    "Annual_Openings": "18,810",
+    "Median_Earnings": "$15.59",
+    "Growth_2022_2024": "15.11%"
+  },
+  {
+    "Occupation": "Industrial Engineering Technologists and Technicians",
+    "Jobs_2022": "69,199",
+    "Annual_Openings": "10,725",
+    "Median_Earnings": "$30.10",
+    "Growth_2022_2024": "7.66%"
+  },
+  {
+    "Occupation": "Tree Trimmers and Pruners",
+    "Jobs_2022": "69,192",
+    "Annual_Openings": "12,837",
+    "Median_Earnings": "$23.13",
+    "Growth_2022_2024": "0.32%"
+  },
+  {
+    "Occupation": "Financial Examiners",
+    "Jobs_2022": "68,562",
+    "Annual_Openings": "7,512",
+    "Median_Earnings": "$41.51",
+    "Growth_2022_2024": "1.37%"
+  },
+  {
+    "Occupation": "Commercial Pilots",
+    "Jobs_2022": "67,946",
+    "Annual_Openings": "12,831",
+    "Median_Earnings": "$55.67",
+    "Growth_2022_2024": "8.65%"
+  },
+  {
+    "Occupation": "Aerospace Engineers",
+    "Jobs_2022": "67,674",
+    "Annual_Openings": "8,909",
+    "Median_Earnings": "$61.87",
+    "Growth_2022_2024": "9.76%"
+  },
+  {
+    "Occupation": "Ophthalmic Medical Technicians",
+    "Jobs_2022": "67,321",
+    "Annual_Openings": "14,008",
+    "Median_Earnings": "$20.28",
+    "Growth_2022_2024": "14.15%"
+  },
+  {
+    "Occupation": "Medical Equipment Preparers",
+    "Jobs_2022": "66,321",
+    "Annual_Openings": "12,487",
+    "Median_Earnings": "$21.62",
+    "Growth_2022_2024": "7.15%"
+  },
+  {
+    "Occupation": "Tool and Die Makers",
+    "Jobs_2022": "65,822",
+    "Annual_Openings": "7,667",
+    "Median_Earnings": "$29.27",
+    "Growth_2022_2024": "-8.10%"
+  },
+  {
+    "Occupation": "Community Health Workers",
+    "Jobs_2022": "65,694",
+    "Annual_Openings": "8,220",
+    "Median_Earnings": "$23.25",
+    "Growth_2022_2024": "-1.80%"
+  },
+  {
+    "Occupation": "Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",
+    "Jobs_2022": "65,410",
+    "Annual_Openings": "10,026",
+    "Median_Earnings": "$21.05",
+    "Growth_2022_2024": "-2.01%"
+  },
+  {
+    "Occupation": "Labor Relations Specialists",
+    "Jobs_2022": "65,008",
+    "Annual_Openings": "7,991",
+    "Median_Earnings": "$43.52",
+    "Growth_2022_2024": "-0.33%"
+  },
+  {
+    "Occupation": "Tile and Stone Setters",
+    "Jobs_2022": "64,788",
+    "Annual_Openings": "7,691",
+    "Median_Earnings": "$23.28",
+    "Growth_2022_2024": "-3.73%"
+  },
+  {
+    "Occupation": "Maintenance Workers, Machinery",
+    "Jobs_2022": "64,583",
+    "Annual_Openings": "7,479",
+    "Median_Earnings": "$27.24",
+    "Growth_2022_2024": "-7.15%"
+  },
+  {
+    "Occupation": "Education Administrators, All Other",
+    "Jobs_2022": "64,506",
+    "Annual_Openings": "7,328",
+    "Median_Earnings": "$41.00",
+    "Growth_2022_2024": "3.50%"
+  },
+  {
+    "Occupation": "Woodworking Machine Setters, Operators, and Tenders, Except Sawing",
+    "Jobs_2022": "64,453",
+    "Annual_Openings": "8,083",
+    "Median_Earnings": "$18.71",
+    "Growth_2022_2024": "-6.02%"
+  },
+  {
+    "Occupation": "Database Architects",
+    "Jobs_2022": "64,317",
+    "Annual_Openings": "5,273",
+    "Median_Earnings": "$65.21",
+    "Growth_2022_2024": "-6.02%"
+  },
+  {
+    "Occupation": "Medical Equipment Repairers",
+    "Jobs_2022": "63,384",
+    "Annual_Openings": "10,517",
+    "Median_Earnings": "$27.92",
+    "Growth_2022_2024": "9.55%"
+  },
+  {
+    "Occupation": "Procurement Clerks",
+    "Jobs_2022": "62,649",
+    "Annual_Openings": "7,364",
+    "Median_Earnings": "$22.22",
+    "Growth_2022_2024": "-4.59%"
+  },
+  {
+    "Occupation": "Sales Engineers",
+    "Jobs_2022": "62,051",
+    "Annual_Openings": "7,798",
+    "Median_Earnings": "$55.66",
+    "Growth_2022_2024": "-3.14%"
+  },
+  {
+    "Occupation": "Biological Scientists, All Other",
+    "Jobs_2022": "61,955",
+    "Annual_Openings": "9,067",
+    "Median_Earnings": "$43.39",
+    "Growth_2022_2024": "10.21%"
+  },
+  {
+    "Occupation": "Title Examiners, Abstractors, and Searchers",
+    "Jobs_2022": "61,949",
+    "Annual_Openings": "6,909",
+    "Median_Earnings": "$25.93",
+    "Growth_2022_2024": "-7.97%"
+  },
+  {
+    "Occupation": "Surveying and Mapping Technicians",
+    "Jobs_2022": "61,583",
+    "Annual_Openings": "8,927",
+    "Median_Earnings": "$24.15",
+    "Growth_2022_2024": "-0.96%"
+  },
+  {
+    "Occupation": "Electrical and Electronics Repairers, Commercial and Industrial Equipment",
+    "Jobs_2022": "61,574",
+    "Annual_Openings": "9,731",
+    "Median_Earnings": "$32.57",
+    "Growth_2022_2024": "8.79%"
+  },
+  {
+    "Occupation": "Financial Risk Specialists",
+    "Jobs_2022": "61,399",
+    "Annual_Openings": "5,654",
+    "Median_Earnings": "$51.28",
+    "Growth_2022_2024": "-2.07%"
+  },
+  {
+    "Occupation": "Structural Metal Fabricators and Fitters",
+    "Jobs_2022": "61,295",
+    "Annual_Openings": "9,201",
+    "Median_Earnings": "$23.38",
+    "Growth_2022_2024": "-2.80%"
+  },
+  {
+    "Occupation": "School Psychologists",
+    "Jobs_2022": "60,471",
+    "Annual_Openings": "6,804",
+    "Median_Earnings": "$41.37",
+    "Growth_2022_2024": "4.25%"
+  },
+  {
+    "Occupation": "First-Line Supervisors of Security Workers",
+    "Jobs_2022": "60,389",
+    "Annual_Openings": "9,500",
+    "Median_Earnings": "$25.78",
+    "Growth_2022_2024": "9.57%"
+  },
+  {
+    "Occupation": "Health Education Specialists",
+    "Jobs_2022": "59,337",
+    "Annual_Openings": "8,537",
+    "Median_Earnings": "$30.19",
+    "Growth_2022_2024": "4.77%"
+  },
+  {
+    "Occupation": "Cardiovascular Technologists and Technicians",
+    "Jobs_2022": "58,428",
+    "Annual_Openings": "6,483",
+    "Median_Earnings": "$31.78",
+    "Growth_2022_2024": "3.16%"
+  },
+  {
+    "Occupation": "Chiropractors",
+    "Jobs_2022": "57,689",
+    "Annual_Openings": "5,664",
+    "Median_Earnings": "$36.49",
+    "Growth_2022_2024": "4.44%"
+  },
+  {
+    "Occupation": "Chemical Technicians",
+    "Jobs_2022": "57,581",
+    "Annual_Openings": "8,588",
+    "Median_Earnings": "$26.90",
+    "Growth_2022_2024": "-1.05%"
+  },
+  {
+    "Occupation": "First-Line Supervisors of Farming, Fishing, and Forestry Workers",
+    "Jobs_2022": "57,164",
+    "Annual_Openings": "10,408",
+    "Median_Earnings": "$23.02",
+    "Growth_2022_2024": "5.80%"
+  },
+  {
+    "Occupation": "First-Line Supervisors of Correctional Officers",
+    "Jobs_2022": "56,619",
+    "Annual_Openings": "5,886",
+    "Median_Earnings": "$34.11",
+    "Growth_2022_2024": "-4.48%"
+  },
+  {
+    "Occupation": "Glaziers",
+    "Jobs_2022": "56,442",
+    "Annual_Openings": "8,471",
+    "Median_Earnings": "$24.94",
+    "Growth_2022_2024": "2.86%"
+  },
+  {
+    "Occupation": "Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",
+    "Jobs_2022": "55,695",
+    "Annual_Openings": "8,355",
+    "Median_Earnings": "$23.23",
+    "Growth_2022_2024": "0.91%"
+  },
+  {
+    "Occupation": "Designers, All Other",
+    "Jobs_2022": "54,843",
+    "Annual_Openings": "4,656",
+    "Median_Earnings": "$26.77",
+    "Growth_2022_2024": "-12.20%"
+  },
+  {
+    "Occupation": "Special Effects Artists and Animators",
+    "Jobs_2022": "54,732",
+    "Annual_Openings": "6,259",
+    "Median_Earnings": "$36.73",
+    "Growth_2022_2024": "-11.76%"
+  },
+  {
+    "Occupation": "Engine and Other Machine Assemblers",
+    "Jobs_2022": "54,554",
+    "Annual_Openings": "11,950",
+    "Median_Earnings": "$23.51",
+    "Growth_2022_2024": "1.20%"
+  },
+  {
+    "Occupation": "Transportation Security Screeners",
+    "Jobs_2022": "54,536",
+    "Annual_Openings": "7,882",
+    "Median_Earnings": "$23.88",
+    "Growth_2022_2024": "3.29%"
+  },
+  {
+    "Occupation": "Tour and Travel Guides",
+    "Jobs_2022": "54,480",
+    "Annual_Openings": "17,503",
+    "Median_Earnings": "$17.49",
+    "Growth_2022_2024": "16.14%"
+  },
+  {
+    "Occupation": "News Analysts, Reporters, and Journalists",
+    "Jobs_2022": "54,289",
+    "Annual_Openings": "7,522",
+    "Median_Earnings": "$28.04",
+    "Growth_2022_2024": "-4.79%"
+  },
+  {
+    "Occupation": "Tax Examiners and Collectors, and Revenue Agents",
+    "Jobs_2022": "54,177",
+    "Annual_Openings": "6,212",
+    "Median_Earnings": "$28.27",
+    "Growth_2022_2024": "3.10%"
+  },
+  {
+    "Occupation": "Budget Analysts",
+    "Jobs_2022": "53,430",
+    "Annual_Openings": "4,895",
+    "Median_Earnings": "$41.32",
+    "Growth_2022_2024": "-1.04%"
+  },
+  {
+    "Occupation": "Therapists, All Other",
+    "Jobs_2022": "53,388",
+    "Annual_Openings": "5,441",
+    "Median_Earnings": "$33.02",
+    "Growth_2022_2024": "0.47%"
+  },
+  {
+    "Occupation": "Medical Transcriptionists",
+    "Jobs_2022": "53,281",
+    "Annual_Openings": "13,556",
+    "Median_Earnings": "$17.83",
+    "Growth_2022_2024": "6.52%"
+  },
+  {
+    "Occupation": "Lodging Managers",
+    "Jobs_2022": "52,858",
+    "Annual_Openings": "8,096",
+    "Median_Earnings": "$30.73",
+    "Growth_2022_2024": "4.29%"
+  },
+  {
+    "Occupation": "Floral Designers",
+    "Jobs_2022": "52,742",
+    "Annual_Openings": "7,780",
+    "Median_Earnings": "$16.40",
+    "Growth_2022_2024": "-2.32%"
+  },
+  {
+    "Occupation": "Legal Support Workers, All Other",
+    "Jobs_2022": "52,651",
+    "Annual_Openings": "7,259",
+    "Median_Earnings": "$32.13",
+    "Growth_2022_2024": "-3.41%"
+  },
+  {
+    "Occupation": "Word Processors and Typists",
+    "Jobs_2022": "52,524",
+    "Annual_Openings": "8,397",
+    "Median_Earnings": "$21.40",
+    "Growth_2022_2024": "-8.38%"
+  },
+  {
+    "Occupation": "Railroad Conductors and Yardmasters",
+    "Jobs_2022": "52,081",
+    "Annual_Openings": "8,936",
+    "Median_Earnings": "$35.05",
+    "Growth_2022_2024": "13.75%"
+  },
+  {
+    "Occupation": "Demonstrators and Product Promoters",
+    "Jobs_2022": "51,924",
+    "Annual_Openings": "15,246",
+    "Median_Earnings": "$18.24",
+    "Growth_2022_2024": "13.85%"
+  },
+  {
+    "Occupation": "Music Directors and Composers",
+    "Jobs_2022": "51,456",
+    "Annual_Openings": "6,044",
+    "Median_Earnings": "$28.46",
+    "Growth_2022_2024": "-2.56%"
+  },
+  {
+    "Occupation": "Film and Video Editors",
+    "Jobs_2022": "50,833",
+    "Annual_Openings": "5,398",
+    "Median_Earnings": "$31.46",
+    "Growth_2022_2024": "-8.92%"
+  },
+  {
+    "Occupation": "Nurse Anesthetists",
+    "Jobs_2022": "50,693",
+    "Annual_Openings": "5,394",
+    "Median_Earnings": "$102.02",
+    "Growth_2022_2024": "4.98%"
+  },
+  {
+    "Occupation": "Technical Writers",
+    "Jobs_2022": "50,351",
+    "Annual_Openings": "5,423",
+    "Median_Earnings": "$38.85",
+    "Growth_2022_2024": "-2.71%"
+  },
+  {
+    "Occupation": "Mechanical Drafters",
+    "Jobs_2022": "50,170",
+    "Annual_Openings": "5,181",
+    "Median_Earnings": "$31.16",
+    "Growth_2022_2024": "-6.78%"
+  },
+  {
+    "Occupation": "Surveyors",
+    "Jobs_2022": "50,002",
+    "Annual_Openings": "5,941",
+    "Median_Earnings": "$33.38",
+    "Growth_2022_2024": "6.61%"
+  },
+  {
+    "Occupation": "Hazardous Materials Removal Workers",
+    "Jobs_2022": "49,437",
+    "Annual_Openings": "9,636",
+    "Median_Earnings": "$22.76",
+    "Growth_2022_2024": "7.63%"
+  },
+  {
+    "Occupation": "Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",
+    "Jobs_2022": "49,380",
+    "Annual_Openings": "7,356",
+    "Median_Earnings": "$18.33",
+    "Growth_2022_2024": "-1.73%"
+  },
+  {
+    "Occupation": "Captains, Mates, and Pilots of Water Vessels",
+    "Jobs_2022": "49,283",
+    "Annual_Openings": "8,118",
+    "Median_Earnings": "$40.95",
+    "Growth_2022_2024": "2.65%"
+  },
+  {
+    "Occupation": "Sawing Machine Setters, Operators, and Tenders, Wood",
+    "Jobs_2022": "48,881",
+    "Annual_Openings": "7,033",
+    "Median_Earnings": "$18.46",
+    "Growth_2022_2024": "-8.12%"
+  },
+  {
+    "Occupation": "Crane and Tower Operators",
+    "Jobs_2022": "48,862",
+    "Annual_Openings": "6,248",
+    "Median_Earnings": "$31.40",
+    "Growth_2022_2024": "-5.99%"
+  },
+  {
+    "Occupation": "Special Education Teachers, All Other",
+    "Jobs_2022": "48,777",
+    "Annual_Openings": "6,928",
+    "Median_Earnings": "$32.64",
+    "Growth_2022_2024": "6.47%"
+  },
+  {
+    "Occupation": "Switchboard Operators, Including Answering Service",
+    "Jobs_2022": "48,534",
+    "Annual_Openings": "5,634",
+    "Median_Earnings": "$17.71",
+    "Growth_2022_2024": "-8.80%"
+  },
+  {
+    "Occupation": "Optometrists",
+    "Jobs_2022": "47,571",
+    "Annual_Openings": "4,139",
+    "Median_Earnings": "$63.15",
+    "Growth_2022_2024": "4.78%"
+  },
+  {
+    "Occupation": "Orderlies",
+    "Jobs_2022": "47,179",
+    "Annual_Openings": "12,300",
+    "Median_Earnings": "$17.73",
+    "Growth_2022_2024": "15.32%"
+  },
+  {
+    "Occupation": "Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",
+    "Jobs_2022": "47,062",
+    "Annual_Openings": "8,159",
+    "Median_Earnings": "$28.45",
+    "Growth_2022_2024": "0.59%"
+  },
+  {
+    "Occupation": "New Accounts Clerks",
+    "Jobs_2022": "46,151",
+    "Annual_Openings": "5,494",
+    "Median_Earnings": "$21.22",
+    "Growth_2022_2024": "-11.65%"
+  },
+  {
+    "Occupation": "Healthcare Practitioners and Technical Workers, All Other",
+    "Jobs_2022": "46,086",
+    "Annual_Openings": "4,546",
+    "Median_Earnings": "$30.09",
+    "Growth_2022_2024": "-3.37%"
+  },
+  {
+    "Occupation": "Training and Development Managers",
+    "Jobs_2022": "46,029",
+    "Annual_Openings": "5,454",
+    "Median_Earnings": "$59.24",
+    "Growth_2022_2024": "2.70%"
+  },
+  {
+    "Occupation": "Occupational Therapy Assistants",
+    "Jobs_2022": "45,890",
+    "Annual_Openings": "9,863",
+    "Median_Earnings": "$32.03",
+    "Growth_2022_2024": "10.03%"
+  },
+  {
+    "Occupation": "Paving, Surfacing, and Tamping Equipment Operators",
+    "Jobs_2022": "45,445",
+    "Annual_Openings": "7,339",
+    "Median_Earnings": "$23.80",
+    "Growth_2022_2024": "6.38%"
+  },
+  {
+    "Occupation": "Physical Therapist Aides",
+    "Jobs_2022": "45,316",
+    "Annual_Openings": "8,365",
+    "Median_Earnings": "$15.95",
+    "Growth_2022_2024": "-0.19%"
+  },
+  {
+    "Occupation": "Brokerage Clerks",
+    "Jobs_2022": "45,200",
+    "Annual_Openings": "9,616",
+    "Median_Earnings": "$28.58",
+    "Growth_2022_2024": "9.76%"
+  },
+  {
+    "Occupation": "Sailors and Marine Oilers",
+    "Jobs_2022": "44,762",
+    "Annual_Openings": "7,238",
+    "Median_Earnings": "$23.93",
+    "Growth_2022_2024": "1.26%"
+  },
+  {
+    "Occupation": "Environmental Engineers",
+    "Jobs_2022": "43,911",
+    "Annual_Openings": "4,097",
+    "Median_Earnings": "$47.39",
+    "Growth_2022_2024": "-4.94%"
+  },
+  {
+    "Occupation": "Pharmacy Aides",
+    "Jobs_2022": "43,894",
+    "Annual_Openings": "9,710",
+    "Median_Earnings": "$17.37",
+    "Growth_2022_2024": "-0.65%"
+  },
+  {
+    "Occupation": "Jewelers and Precious Stone and Metal Workers",
+    "Jobs_2022": "43,823",
+    "Annual_Openings": "6,759",
+    "Median_Earnings": "$21.09",
+    "Growth_2022_2024": "-8.34%"
+  },
+  {
+    "Occupation": "Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",
+    "Jobs_2022": "43,499",
+    "Annual_Openings": "12,081",
+    "Median_Earnings": "$14.72",
+    "Growth_2022_2024": "16.01%"
+  },
+  {
+    "Occupation": "Locomotive Engineers",
+    "Jobs_2022": "43,370",
+    "Annual_Openings": "3,647",
+    "Median_Earnings": "$36.56",
+    "Growth_2022_2024": "-9.84%"
+  },
+  {
+    "Occupation": "Millwrights",
+    "Jobs_2022": "43,234",
+    "Annual_Openings": "5,125",
+    "Median_Earnings": "$30.29",
+    "Growth_2022_2024": "-7.13%"
+  },
+  {
+    "Occupation": "Roustabouts, Oil and Gas",
+    "Jobs_2022": "42,742",
+    "Annual_Openings": "7,368",
+    "Median_Earnings": "$21.90",
+    "Growth_2022_2024": "6.06%"
+  },
+  {
+    "Occupation": "Legislators",
+    "Jobs_2022": "42,230",
+    "Annual_Openings": "5,431",
+    "Median_Earnings": "$22.25",
+    "Growth_2022_2024": "-3.92%"
+  },
+  {
+    "Occupation": "Anesthesiologists",
+    "Jobs_2022": "42,183",
+    "Annual_Openings": "3,700",
+    "Median_Earnings": "$140.56",
+    "Growth_2022_2024": "-5.65%"
+  },
+  {
+    "Occupation": "Animal Trainers",
+    "Jobs_2022": "41,859",
+    "Annual_Openings": "8,736",
+    "Median_Earnings": "$17.52",
+    "Growth_2022_2024": "8.55%"
+  },
+  {
+    "Occupation": "Graders and Sorters, Agricultural Products",
+    "Jobs_2022": "41,808",
+    "Annual_Openings": "8,320",
+    "Median_Earnings": "$15.80",
+    "Growth_2022_2024": "3.58%"
+  },
+  {
+    "Occupation": "Concierges",
+    "Jobs_2022": "41,369",
+    "Annual_Openings": "9,443",
+    "Median_Earnings": "$18.01",
+    "Growth_2022_2024": "8.79%"
+  },
+  {
+    "Occupation": "Mechanical Engineering Technologists and Technicians",
+    "Jobs_2022": "41,121",
+    "Annual_Openings": "5,352",
+    "Median_Earnings": "$31.32",
+    "Growth_2022_2024": "-3.08%"
+  },
+  {
+    "Occupation": "Urban and Regional Planners",
+    "Jobs_2022": "40,941",
+    "Annual_Openings": "5,734",
+    "Median_Earnings": "$39.32",
+    "Growth_2022_2024": "8.57%"
+  },
+  {
+    "Occupation": "Magnetic Resonance Imaging Technologists",
+    "Jobs_2022": "40,683",
+    "Annual_Openings": "5,107",
+    "Median_Earnings": "$40.96",
+    "Growth_2022_2024": "9.37%"
+  },
+  {
+    "Occupation": "Social Scientists and Related Workers, All Other",
+    "Jobs_2022": "40,499",
+    "Annual_Openings": "5,594",
+    "Median_Earnings": "$45.67",
+    "Growth_2022_2024": "6.45%"
+  },
+  {
+    "Occupation": "Healthcare Diagnosing or Treating Practitioners, All Other",
+    "Jobs_2022": "40,344",
+    "Annual_Openings": "5,558",
+    "Median_Earnings": "$47.77",
+    "Growth_2022_2024": "8.74%"
+  },
+  {
+    "Occupation": "Pipelayers",
+    "Jobs_2022": "40,217",
+    "Annual_Openings": "5,243",
+    "Median_Earnings": "$23.07",
+    "Growth_2022_2024": "-1.13%"
+  },
+  {
+    "Occupation": "Service Unit Operators, Oil and Gas",
+    "Jobs_2022": "40,159",
+    "Annual_Openings": "9,207",
+    "Median_Earnings": "$26.18",
+    "Growth_2022_2024": "17.29%"
+  },
+  {
+    "Occupation": "Avionics Technicians",
+    "Jobs_2022": "40,140",
+    "Annual_Openings": "5,582",
+    "Median_Earnings": "$37.59",
+    "Growth_2022_2024": "-6.30%"
+  },
+  {
+    "Occupation": "Home Appliance Repairers",
+    "Jobs_2022": "39,971",
+    "Annual_Openings": "5,750",
+    "Median_Earnings": "$22.14",
+    "Growth_2022_2024": "3.63%"
+  },
+  {
+    "Occupation": "Farm Equipment Mechanics and Service Technicians",
+    "Jobs_2022": "39,731",
+    "Annual_Openings": "6,404",
+    "Median_Earnings": "$23.80",
+    "Growth_2022_2024": "4.50%"
+  },
+  {
+    "Occupation": "Private Detectives and Investigators",
+    "Jobs_2022": "39,128",
+    "Annual_Openings": "6,026",
+    "Median_Earnings": "$24.92",
+    "Growth_2022_2024": "7.40%"
+  },
+  {
+    "Occupation": "Print Binding and Finishing Workers",
+    "Jobs_2022": "39,077",
+    "Annual_Openings": "5,109",
+    "Median_Earnings": "$18.79",
+    "Growth_2022_2024": "-4.44%"
+  },
+  {
+    "Occupation": "Outdoor Power Equipment and Other Small Engine Mechanics",
+    "Jobs_2022": "38,789",
+    "Annual_Openings": "5,600",
+    "Median_Earnings": "$20.66",
+    "Growth_2022_2024": "0.81%"
+  },
+  {
+    "Occupation": "Upholsterers",
+    "Jobs_2022": "38,764",
+    "Annual_Openings": "4,844",
+    "Median_Earnings": "$19.84",
+    "Growth_2022_2024": "-8.45%"
+  },
+  {
+    "Occupation": "Health Information Technologists and Medical Registrars",
+    "Jobs_2022": "38,499",
+    "Annual_Openings": "4,218",
+    "Median_Earnings": "$30.60",
+    "Growth_2022_2024": "1.49%"
+  },
+  {
+    "Occupation": "Logging Equipment Operators",
+    "Jobs_2022": "38,297",
+    "Annual_Openings": "6,501",
+    "Median_Earnings": "$22.69",
+    "Growth_2022_2024": "-10.16%"
+  },
+  {
+    "Occupation": "Stationary Engineers and Boiler Operators",
+    "Jobs_2022": "37,733",
+    "Annual_Openings": "6,438",
+    "Median_Earnings": "$32.10",
+    "Growth_2022_2024": "8.29%"
+  },
+  {
+    "Occupation": "Computer and Information Research Scientists",
+    "Jobs_2022": "37,461",
+    "Annual_Openings": "5,097",
+    "Median_Earnings": "$69.28",
+    "Growth_2022_2024": "6.20%"
+  },
+  {
+    "Occupation": "Pediatricians, General",
+    "Jobs_2022": "37,408",
+    "Annual_Openings": "3,828",
+    "Median_Earnings": "$94.75",
+    "Growth_2022_2024": "5.16%"
+  },
+  {
+    "Occupation": "Athletic Trainers",
+    "Jobs_2022": "37,184",
+    "Annual_Openings": "3,677",
+    "Median_Earnings": "$28.02",
+    "Growth_2022_2024": "-2.46%"
+  },
+  {
+    "Occupation": "Miscellaneous Construction and Related Workers",
+    "Jobs_2022": "36,674",
+    "Annual_Openings": "4,814",
+    "Median_Earnings": "$22.79",
+    "Growth_2022_2024": "-3.13%"
+  },
+  {
+    "Occupation": "Dental Laboratory Technicians",
+    "Jobs_2022": "36,644",
+    "Annual_Openings": "6,362",
+    "Median_Earnings": "$22.84",
+    "Growth_2022_2024": "0.32%"
+  },
+  {
+    "Occupation": "Tailors, Dressmakers, and Custom Sewers",
+    "Jobs_2022": "36,447",
+    "Annual_Openings": "5,876",
+    "Median_Earnings": "$15.97",
+    "Growth_2022_2024": "-6.62%"
+  },
+  {
+    "Occupation": "Environmental Science and Protection Technicians, Including Health",
+    "Jobs_2022": "36,409",
+    "Annual_Openings": "4,975",
+    "Median_Earnings": "$24.69",
+    "Growth_2022_2024": "-2.50%"
+  },
+  {
+    "Occupation": "Social Science Research Assistants",
+    "Jobs_2022": "36,407",
+    "Annual_Openings": "7,974",
+    "Median_Earnings": "$26.47",
+    "Growth_2022_2024": "9.27%"
+  },
+  {
+    "Occupation": "Excavating and Loading Machine and Dragline Operators, Surface Mining",
+    "Jobs_2022": "35,655",
+    "Annual_Openings": "5,914",
+    "Median_Earnings": "$24.59",
+    "Growth_2022_2024": "-2.73%"
+  },
+  {
+    "Occupation": "Insulation Workers, Floor, Ceiling, and Wall",
+    "Jobs_2022": "35,338",
+    "Annual_Openings": "7,313",
+    "Median_Earnings": "$22.89",
+    "Growth_2022_2024": "16.06%"
+  },
+  {
+    "Occupation": "Biochemists and Biophysicists",
+    "Jobs_2022": "35,331",
+    "Annual_Openings": "4,611",
+    "Median_Earnings": "$53.90",
+    "Growth_2022_2024": "0.19%"
+  },
+  {
+    "Occupation": "Statisticians",
+    "Jobs_2022": "35,178",
+    "Annual_Openings": "3,638",
+    "Median_Earnings": "$48.07",
+    "Growth_2022_2024": "0.23%"
+  },
+  {
+    "Occupation": "Emergency Medicine Physicians",
+    "Jobs_2022": "35,107",
+    "Annual_Openings": "5,544",
+    "Median_Earnings": "$132.53",
+    "Growth_2022_2024": "17.52%"
+  },
+  {
+    "Occupation": "Forest and Conservation Technicians",
+    "Jobs_2022": "34,837",
+    "Annual_Openings": "5,884",
+    "Median_Earnings": "$24.90",
+    "Growth_2022_2024": "2.35%"
+  },
+  {
+    "Occupation": "Radiologists",
+    "Jobs_2022": "34,606",
+    "Annual_Openings": "4,875",
+    "Median_Earnings": "$148.36",
+    "Growth_2022_2024": "12.54%"
+  },
+  {
+    "Occupation": "Septic Tank Servicers and Sewer Pipe Cleaners",
+    "Jobs_2022": "34,471",
+    "Annual_Openings": "5,107",
+    "Median_Earnings": "$22.50",
+    "Growth_2022_2024": "0.62%"
+  },
+  {
+    "Occupation": "Power Plant Operators",
+    "Jobs_2022": "34,419",
+    "Annual_Openings": "5,399",
+    "Median_Earnings": "$45.10",
+    "Growth_2022_2024": "0.09%"
+  },
+  {
+    "Occupation": "Funeral Attendants",
+    "Jobs_2022": "34,337",
+    "Annual_Openings": "6,395",
+    "Median_Earnings": "$16.03",
+    "Growth_2022_2024": "-2.34%"
+  },
+  {
+    "Occupation": "Psychiatric Aides",
+    "Jobs_2022": "34,229",
+    "Annual_Openings": "8,802",
+    "Median_Earnings": "$18.99",
+    "Growth_2022_2024": "10.83%"
+  },
+  {
+    "Occupation": "Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",
+    "Jobs_2022": "34,207",
+    "Annual_Openings": "6,035",
+    "Median_Earnings": "$29.60",
+    "Growth_2022_2024": "-6.43%"
+  },
+  {
+    "Occupation": "Credit Counselors",
+    "Jobs_2022": "34,205",
+    "Annual_Openings": "3,741",
+    "Median_Earnings": "$23.96",
+    "Growth_2022_2024": "-2.40%"
+  },
+  {
+    "Occupation": "Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",
+    "Jobs_2022": "34,194",
+    "Annual_Openings": "6,659",
+    "Median_Earnings": "$21.70",
+    "Growth_2022_2024": "5.97%"
+  },
+  {
+    "Occupation": "Camera Operators, Television, Video, and Film",
+    "Jobs_2022": "34,138",
+    "Annual_Openings": "5,557",
+    "Median_Earnings": "$28.21",
+    "Growth_2022_2024": "4.92%"
+  },
+  {
+    "Occupation": "Petroleum Pump System Operators, Refinery Operators, and Gaugers",
+    "Jobs_2022": "33,907",
+    "Annual_Openings": "6,027",
+    "Median_Earnings": "$44.83",
+    "Growth_2022_2024": "5.39%"
+  },
+  {
+    "Occupation": "Entertainers and Performers, Sports and Related Workers, All Other",
+    "Jobs_2022": "33,720",
+    "Annual_Openings": "7,787",
+    "Median_Earnings": "$22.15",
+    "Growth_2022_2024": "17.97%"
+  },
+  {
+    "Occupation": "Broadcast Technicians",
+    "Jobs_2022": "33,624",
+    "Annual_Openings": "3,925",
+    "Median_Earnings": "$27.69",
+    "Growth_2022_2024": "-13.60%"
+  },
+  {
+    "Occupation": "Plating Machine Setters, Operators, and Tenders, Metal and Plastic",
+    "Jobs_2022": "33,576",
+    "Annual_Openings": "4,675",
+    "Median_Earnings": "$19.31",
+    "Growth_2022_2024": "-2.51%"
+  },
+  {
+    "Occupation": "Commercial and Industrial Designers",
+    "Jobs_2022": "32,882",
+    "Annual_Openings": "3,633",
+    "Median_Earnings": "$35.76",
+    "Growth_2022_2024": "-1.61%"
+  },
+  {
+    "Occupation": "Craft Artists",
+    "Jobs_2022": "32,702",
+    "Annual_Openings": "8,972",
+    "Median_Earnings": "$7.55",
+    "Growth_2022_2024": "30.94%"
+  },
+  {
+    "Occupation": "Floor Layers, Except Carpet, Wood, and Hard Tiles",
+    "Jobs_2022": "32,546",
+    "Annual_Openings": "5,803",
+    "Median_Earnings": "$23.29",
+    "Growth_2022_2024": "13.50%"
+  },
+  {
+    "Occupation": "Fundraising Managers",
+    "Jobs_2022": "32,197",
+    "Annual_Openings": "6,069",
+    "Median_Earnings": "$56.03",
+    "Growth_2022_2024": "20.24%"
+  },
+  {
+    "Occupation": "Actuaries",
+    "Jobs_2022": "31,885",
+    "Annual_Openings": "3,764",
+    "Median_Earnings": "$56.28",
+    "Growth_2022_2024": "3.67%"
+  },
+  {
+    "Occupation": "Plasterers and Stucco Masons",
+    "Jobs_2022": "31,879",
+    "Annual_Openings": "3,162",
+    "Median_Earnings": "$25.58",
+    "Growth_2022_2024": "-12.38%"
+  },
+  {
+    "Occupation": "Personal Service Managers, All Other",
+    "Jobs_2022": "31,633",
+    "Annual_Openings": "6,239",
+    "Median_Earnings": "$16.41",
+    "Growth_2022_2024": "21.45%"
+  },
+  {
+    "Occupation": "Motorboat Mechanics and Service Technicians",
+    "Jobs_2022": "31,337",
+    "Annual_Openings": "3,956",
+    "Median_Earnings": "$23.67",
+    "Growth_2022_2024": "-8.55%"
+  },
+  {
+    "Occupation": "Fishing and Hunting Workers",
+    "Jobs_2022": "31,153",
+    "Annual_Openings": "4,752",
+    "Median_Earnings": "$19.73",
+    "Growth_2022_2024": "-8.44%"
+  },
+  {
+    "Occupation": "Solar Photovoltaic Installers",
+    "Jobs_2022": "31,123",
+    "Annual_Openings": "4,498",
+    "Median_Earnings": "$23.77",
+    "Growth_2022_2024": "-10.88%"
+  },
+  {
+    "Occupation": "Psychiatrists",
+    "Jobs_2022": "30,846",
+    "Annual_Openings": "1,981",
+    "Median_Earnings": "$111.90",
+    "Growth_2022_2024": "-2.83%"
+  },
+  {
+    "Occupation": "Judges, Magistrate Judges, and Magistrates",
+    "Jobs_2022": "30,656",
+    "Annual_Openings": "1,921",
+    "Median_Earnings": "$74.49",
+    "Growth_2022_2024": "-11.93%"
+  },
+  {
+    "Occupation": "Surgeons, All Other",
+    "Jobs_2022": "30,429",
+    "Annual_Openings": "3,164",
+    "Median_Earnings": "$134.79",
+    "Growth_2022_2024": "3.60%"
+  },
+  {
+    "Occupation": "Pressers, Textile, Garment, and Related Materials",
+    "Jobs_2022": "30,391",
+    "Annual_Openings": "5,399",
+    "Median_Earnings": "$15.69",
+    "Growth_2022_2024": "-0.20%"
+  },
+  {
+    "Occupation": "Broadcast Announcers and Radio Disc Jockeys",
+    "Jobs_2022": "30,334",
+    "Annual_Openings": "4,226",
+    "Median_Earnings": "$22.47",
+    "Growth_2022_2024": "-9.92%"
+  },
+  {
+    "Occupation": "Air Traffic Controllers",
+    "Jobs_2022": "30,323",
+    "Annual_Openings": "5,315",
+    "Median_Earnings": "$66.54",
+    "Growth_2022_2024": "9.07%"
+  },
+  {
+    "Occupation": "Fashion Designers",
+    "Jobs_2022": "30,034",
+    "Annual_Openings": "3,985",
+    "Median_Earnings": "$34.57",
+    "Growth_2022_2024": "-1.52%"
+  },
+  {
+    "Occupation": "Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",
+    "Jobs_2022": "29,937",
+    "Annual_Openings": "4,467",
+    "Median_Earnings": "$22.74",
+    "Growth_2022_2024": "-12.48%"
+  },
+  {
+    "Occupation": "Transportation Inspectors",
+    "Jobs_2022": "29,808",
+    "Annual_Openings": "6,369",
+    "Median_Earnings": "$40.23",
+    "Growth_2022_2024": "16.61%"
+  },
+  {
+    "Occupation": "Entertainment and Recreation Managers, Except Gambling",
+    "Jobs_2022": "29,694",
+    "Annual_Openings": "8,647",
+    "Median_Earnings": "$33.77",
+    "Growth_2022_2024": "30.65%"
+  },
+  {
+    "Occupation": "Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",
+    "Jobs_2022": "29,462",
+    "Annual_Openings": "4,558",
+    "Median_Earnings": "$45.22",
+    "Growth_2022_2024": "1.65%"
+  },
+  {
+    "Occupation": "Geoscientists, Except Hydrologists and Geographers",
+    "Jobs_2022": "29,190",
+    "Annual_Openings": "3,658",
+    "Median_Earnings": "$43.68",
+    "Growth_2022_2024": "-1.22%"
+  },
+  {
+    "Occupation": "Computer Numerically Controlled Tool Programmers",
+    "Jobs_2022": "28,934",
+    "Annual_Openings": "4,080",
+    "Median_Earnings": "$30.75",
+    "Growth_2022_2024": "1.16%"
+  },
+  {
+    "Occupation": "Media and Communication Workers, All Other",
+    "Jobs_2022": "28,661",
+    "Annual_Openings": "4,471",
+    "Median_Earnings": "$30.39",
+    "Growth_2022_2024": "-0.87%"
+  },
+  {
+    "Occupation": "Morticians, Undertakers, and Funeral Arrangers",
+    "Jobs_2022": "28,369",
+    "Annual_Openings": "4,738",
+    "Median_Earnings": "$24.83",
+    "Growth_2022_2024": "-0.56%"
+  },
+  {
+    "Occupation": "Audiovisual Equipment Installers and Repairers",
+    "Jobs_2022": "28,357",
+    "Annual_Openings": "5,312",
+    "Median_Earnings": "$23.12",
+    "Growth_2022_2024": "6.23%"
+  },
+  {
+    "Occupation": "Physical Scientists, All Other",
+    "Jobs_2022": "28,085",
+    "Annual_Openings": "3,455",
+    "Median_Earnings": "$52.53",
+    "Growth_2022_2024": "6.99%"
+  },
+  {
+    "Occupation": "Insulation Workers, Mechanical",
+    "Jobs_2022": "27,847",
+    "Annual_Openings": "3,449",
+    "Median_Earnings": "$26.38",
+    "Growth_2022_2024": "-9.25%"
+  },
+  {
+    "Occupation": "Conservation Scientists",
+    "Jobs_2022": "27,790",
+    "Annual_Openings": "3,772",
+    "Median_Earnings": "$32.57",
+    "Growth_2022_2024": "1.60%"
+  },
+  {
+    "Occupation": "Helpers--Carpenters",
+    "Jobs_2022": "26,371",
+    "Annual_Openings": "3,813",
+    "Median_Earnings": "$19.13",
+    "Growth_2022_2024": "-11.64%"
+  },
+  {
+    "Occupation": "Elevator and Escalator Installers and Repairers",
+    "Jobs_2022": "26,170",
+    "Annual_Openings": "3,825",
+    "Median_Earnings": "$48.61",
+    "Growth_2022_2024": "-2.01%"
+  },
+  {
+    "Occupation": "Special Education Teachers, Preschool",
+    "Jobs_2022": "26,081",
+    "Annual_Openings": "5,098",
+    "Median_Earnings": "$31.69",
+    "Growth_2022_2024": "13.11%"
+  },
+  {
+    "Occupation": "Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",
+    "Jobs_2022": "26,068",
+    "Annual_Openings": "4,558",
+    "Median_Earnings": "$17.17",
+    "Growth_2022_2024": "-6.05%"
+  },
+  {
+    "Occupation": "Landscape Architects",
+    "Jobs_2022": "25,718",
+    "Annual_Openings": "3,916",
+    "Median_Earnings": "$36.68",
+    "Growth_2022_2024": "9.24%"
+  },
+  {
+    "Occupation": "Semiconductor Processing Technicians",
+    "Jobs_2022": "25,569",
+    "Annual_Openings": "5,227",
+    "Median_Earnings": "$22.34",
+    "Growth_2022_2024": "8.81%"
+  },
+  {
+    "Occupation": "Prepress Technicians and Workers",
+    "Jobs_2022": "25,492",
+    "Annual_Openings": "3,847",
+    "Median_Earnings": "$21.41",
+    "Growth_2022_2024": "-10.49%"
+  },
+  {
+    "Occupation": "Advertising and Promotions Managers",
+    "Jobs_2022": "25,471",
+    "Annual_Openings": "3,361",
+    "Median_Earnings": "$60.33",
+    "Growth_2022_2024": "-5.69%"
+  },
+  {
+    "Occupation": "Pesticide Handlers, Sprayers, and Applicators, Vegetation",
+    "Jobs_2022": "25,384",
+    "Annual_Openings": "5,242",
+    "Median_Earnings": "$20.69",
+    "Growth_2022_2024": "5.60%"
+  },
+  {
+    "Occupation": "Carpet Installers",
+    "Jobs_2022": "25,244",
+    "Annual_Openings": "2,731",
+    "Median_Earnings": "$22.02",
+    "Growth_2022_2024": "-18.28%"
+  },
+  {
+    "Occupation": "Artists and Related Workers, All Other",
+    "Jobs_2022": "25,043",
+    "Annual_Openings": "6,151",
+    "Median_Earnings": "$16.33",
+    "Growth_2022_2024": "23.47%"
+  },
+  {
+    "Occupation": "First-Line Supervisors of Protective Service Workers, All Other",
+    "Jobs_2022": "24,976",
+    "Annual_Openings": "2,764",
+    "Median_Earnings": "$31.20",
+    "Growth_2022_2024": "-13.78%"
+  },
+  {
+    "Occupation": "Petroleum Engineers",
+    "Jobs_2022": "24,812",
+    "Annual_Openings": "2,503",
+    "Median_Earnings": "$66.94",
+    "Growth_2022_2024": "-2.86%"
+  },
+  {
+    "Occupation": "Rail Car Repairers",
+    "Jobs_2022": "24,722",
+    "Annual_Openings": "3,547",
+    "Median_Earnings": "$29.30",
+    "Growth_2022_2024": "-1.33%"
+  },
+  {
+    "Occupation": "Court Reporters and Simultaneous Captioners",
+    "Jobs_2022": "24,679",
+    "Annual_Openings": "4,061",
+    "Median_Earnings": "$30.32",
+    "Growth_2022_2024": "-0.86%"
+  },
+  {
+    "Occupation": "Obstetricians and Gynecologists",
+    "Jobs_2022": "24,319",
+    "Annual_Openings": "1,811",
+    "Median_Earnings": "$123.39",
+    "Growth_2022_2024": "-5.51%"
+  },
+  {
+    "Occupation": "Reinforcing Iron and Rebar Workers",
+    "Jobs_2022": "24,020",
+    "Annual_Openings": "3,456",
+    "Median_Earnings": "$25.62",
+    "Growth_2022_2024": "-0.96%"
+  },
+  {
+    "Occupation": "Rail-Track Laying and Maintenance Equipment Operators",
+    "Jobs_2022": "23,603",
+    "Annual_Openings": "3,849",
+    "Median_Earnings": "$32.23",
+    "Growth_2022_2024": "1.37%"
+  },
+  {
+    "Occupation": "Electrical and Electronics Drafters",
+    "Jobs_2022": "23,313",
+    "Annual_Openings": "3,003",
+    "Median_Earnings": "$32.88",
+    "Growth_2022_2024": "-1.57%"
+  },
+  {
+    "Occupation": "Occupational Health and Safety Technicians",
+    "Jobs_2022": "22,959",
+    "Annual_Openings": "5,265",
+    "Median_Earnings": "$27.69",
+    "Growth_2022_2024": "15.79%"
+  },
+  {
+    "Occupation": "Ophthalmic Laboratory Technicians",
+    "Jobs_2022": "22,905",
+    "Annual_Openings": "3,614",
+    "Median_Earnings": "$18.25",
+    "Growth_2022_2024": "-11.21%"
+  },
+  {
+    "Occupation": "Agents and Business Managers of Artists, Performers, and Athletes",
+    "Jobs_2022": "22,683",
+    "Annual_Openings": "3,168",
+    "Median_Earnings": "$37.03",
+    "Growth_2022_2024": "-2.90%"
+  },
+  {
+    "Occupation": "Metal Workers and Plastic Workers, All Other",
+    "Jobs_2022": "22,300",
+    "Annual_Openings": "3,687",
+    "Median_Earnings": "$20.23",
+    "Growth_2022_2024": "-4.35%"
+  },
+  {
+    "Occupation": "Physicists",
+    "Jobs_2022": "22,110",
+    "Annual_Openings": "2,530",
+    "Median_Earnings": "$70.44",
+    "Growth_2022_2024": "-2.50%"
+  },
+  {
+    "Occupation": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+    "Jobs_2022": "22,058",
+    "Annual_Openings": "2,609",
+    "Median_Earnings": "$50.15",
+    "Growth_2022_2024": "3.34%"
+  },
+  {
+    "Occupation": "Orthopedic Surgeons, Except Pediatric",
+    "Jobs_2022": "21,987",
+    "Annual_Openings": "1,527",
+    "Median_Earnings": "$153.15",
+    "Growth_2022_2024": "-18.40%"
+  },
+  {
+    "Occupation": "Materials Engineers",
+    "Jobs_2022": "21,874",
+    "Annual_Openings": "3,768",
+    "Median_Earnings": "$50.52",
+    "Growth_2022_2024": "15.81%"
+  },
+  {
+    "Occupation": "Dietetic Technicians",
+    "Jobs_2022": "21,798",
+    "Annual_Openings": "6,584",
+    "Median_Earnings": "$17.60",
+    "Growth_2022_2024": "30.32%"
+  },
+  {
+    "Occupation": "Sound Engineering Technicians",
+    "Jobs_2022": "21,742",
+    "Annual_Openings": "3,202",
+    "Median_Earnings": "$28.30",
+    "Growth_2022_2024": "4.11%"
+  },
+  {
+    "Occupation": "Microbiologists",
+    "Jobs_2022": "21,718",
+    "Annual_Openings": "3,241",
+    "Median_Earnings": "$41.98",
+    "Growth_2022_2024": "9.44%"
+  },
+  {
+    "Occupation": "Meter Readers, Utilities",
+    "Jobs_2022": "21,608",
+    "Annual_Openings": "3,043",
+    "Median_Earnings": "$23.59",
+    "Growth_2022_2024": "-3.26%"
+  },
+  {
+    "Occupation": "Soil and Plant Scientists",
+    "Jobs_2022": "21,539",
+    "Annual_Openings": "2,967",
+    "Median_Earnings": "$33.05",
+    "Growth_2022_2024": "-0.30%"
+  },
+  {
+    "Occupation": "Chemical Engineers",
+    "Jobs_2022": "21,508",
+    "Annual_Openings": "2,645",
+    "Median_Earnings": "$55.23",
+    "Growth_2022_2024": "4.28%"
+  },
+  {
+    "Occupation": "Woodworkers, All Other",
+    "Jobs_2022": "21,494",
+    "Annual_Openings": "3,027",
+    "Median_Earnings": "$18.16",
+    "Growth_2022_2024": "-14.33%"
+  },
+  {
+    "Occupation": "Locksmiths and Safe Repairers",
+    "Jobs_2022": "21,482",
+    "Annual_Openings": "3,403",
+    "Median_Earnings": "$23.49",
+    "Growth_2022_2024": "-0.38%"
+  },
+  {
+    "Occupation": "Automotive Glass Installers and Repairers",
+    "Jobs_2022": "21,469",
+    "Annual_Openings": "3,558",
+    "Median_Earnings": "$21.20",
+    "Growth_2022_2024": "-1.50%"
+  },
+  {
+    "Occupation": "Forest and Conservation Workers",
+    "Jobs_2022": "21,311",
+    "Annual_Openings": "5,722",
+    "Median_Earnings": "$17.29",
+    "Growth_2022_2024": "5.42%"
+  },
+  {
+    "Occupation": "Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+    "Jobs_2022": "21,142",
+    "Annual_Openings": "4,185",
+    "Median_Earnings": "$22.52",
+    "Growth_2022_2024": "-0.64%"
+  },
+  {
+    "Occupation": "Earth Drillers, Except Oil and Gas",
+    "Jobs_2022": "20,889",
+    "Annual_Openings": "3,568",
+    "Median_Earnings": "$27.16",
+    "Growth_2022_2024": "-2.51%"
+  },
+  {
+    "Occupation": "Surgical Assistants",
+    "Jobs_2022": "20,753",
+    "Annual_Openings": "3,453",
+    "Median_Earnings": "$28.43",
+    "Growth_2022_2024": "5.11%"
+  },
+  {
+    "Occupation": "Umpires, Referees, and Other Sports Officials",
+    "Jobs_2022": "20,689",
+    "Annual_Openings": "7,818",
+    "Median_Earnings": "$18.65",
+    "Growth_2022_2024": "17.39%"
+  },
+  {
+    "Occupation": "Forensic Science Technicians",
+    "Jobs_2022": "20,479",
+    "Annual_Openings": "3,853",
+    "Median_Earnings": "$31.45",
+    "Growth_2022_2024": "3.92%"
+  },
+  {
+    "Occupation": "Metal-Refining Furnace Operators and Tenders",
+    "Jobs_2022": "20,433",
+    "Annual_Openings": "3,862",
+    "Median_Earnings": "$24.64",
+    "Growth_2022_2024": "6.78%"
+  },
+  {
+    "Occupation": "Chemical Plant and System Operators",
+    "Jobs_2022": "20,385",
+    "Annual_Openings": "3,541",
+    "Median_Earnings": "$36.91",
+    "Growth_2022_2024": "-5.45%"
+  },
+  {
+    "Occupation": "Bioengineers and Biomedical Engineers",
+    "Jobs_2022": "20,358",
+    "Annual_Openings": "2,201",
+    "Median_Earnings": "$48.00",
+    "Growth_2022_2024": "-0.44%"
+  },
+  {
+    "Occupation": "Agricultural Technicians",
+    "Jobs_2022": "20,266",
+    "Annual_Openings": "4,034",
+    "Median_Earnings": "$20.93",
+    "Growth_2022_2024": "-2.38%"
+  },
+  {
+    "Occupation": "Zoologists and Wildlife Biologists",
+    "Jobs_2022": "20,000",
+    "Annual_Openings": "2,930",
+    "Median_Earnings": "$34.06",
+    "Growth_2022_2024": "5.13%"
+  },
+  {
+    "Occupation": "Athletes and Sports Competitors",
+    "Jobs_2022": "19,888",
+    "Annual_Openings": "5,273",
+    "Median_Earnings": "$63.44",
+    "Growth_2022_2024": "11.68%"
+  },
+  {
+    "Occupation": "Drafters, All Other",
+    "Jobs_2022": "19,492",
+    "Annual_Openings": "2,076",
+    "Median_Earnings": "$27.73",
+    "Growth_2022_2024": "-12.00%"
+  },
+  {
+    "Occupation": "Economists",
+    "Jobs_2022": "19,492",
+    "Annual_Openings": "2,428",
+    "Median_Earnings": "$55.68",
+    "Growth_2022_2024": "3.15%"
+  },
+  {
+    "Occupation": "Electric Motor, Power Tool, and Related Repairers",
+    "Jobs_2022": "19,311",
+    "Annual_Openings": "3,003",
+    "Median_Earnings": "$23.94",
+    "Growth_2022_2024": "2.76%"
+  },
+  {
+    "Occupation": "First-Line Supervisors of Gambling Services Workers",
+    "Jobs_2022": "19,188",
+    "Annual_Openings": "4,656",
+    "Median_Earnings": "$29.35",
+    "Growth_2022_2024": "18.26%"
+  },
+  {
+    "Occupation": "Recreational Vehicle Service Technicians",
+    "Jobs_2022": "19,042",
+    "Annual_Openings": "3,864",
+    "Median_Earnings": "$23.38",
+    "Growth_2022_2024": "2.01%"
+  },
+  {
+    "Occupation": "Cardiologists",
+    "Jobs_2022": "19,000",
+    "Annual_Openings": "1,547",
+    "Median_Earnings": "$171.37",
+    "Growth_2022_2024": "-7.75%"
+  },
+  {
+    "Occupation": "Furniture Finishers",
+    "Jobs_2022": "18,793",
+    "Annual_Openings": "3,281",
+    "Median_Earnings": "$19.26",
+    "Growth_2022_2024": "-5.57%"
+  },
+  {
+    "Occupation": "Set and Exhibit Designers",
+    "Jobs_2022": "18,669",
+    "Annual_Openings": "6,448",
+    "Median_Earnings": "$26.06",
+    "Growth_2022_2024": "42.46%"
+  },
+  {
+    "Occupation": "Bailiffs",
+    "Jobs_2022": "18,665",
+    "Annual_Openings": "3,999",
+    "Median_Earnings": "$27.95",
+    "Growth_2022_2024": "2.23%"
+  },
+  {
+    "Occupation": "Nuclear Medicine Technologists",
+    "Jobs_2022": "18,388",
+    "Annual_Openings": "1,967",
+    "Median_Earnings": "$44.42",
+    "Growth_2022_2024": "0.49%"
+  },
+  {
+    "Occupation": "Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",
+    "Jobs_2022": "18,283",
+    "Annual_Openings": "3,065",
+    "Median_Earnings": "$20.58",
+    "Growth_2022_2024": "-5.85%"
+  },
+  {
+    "Occupation": "Media and Communication Equipment Workers, All Other",
+    "Jobs_2022": "18,253",
+    "Annual_Openings": "1,825",
+    "Median_Earnings": "$34.24",
+    "Growth_2022_2024": "-20.21%"
+  },
+  {
+    "Occupation": "Subway and Streetcar Operators",
+    "Jobs_2022": "18,131",
+    "Annual_Openings": "4,172",
+    "Median_Earnings": "$39.24",
+    "Growth_2022_2024": "16.65%"
+  },
+  {
+    "Occupation": "Textile Knitting and Weaving Machine Setters, Operators, and Tenders",
+    "Jobs_2022": "18,024",
+    "Annual_Openings": "2,951",
+    "Median_Earnings": "$17.68",
+    "Growth_2022_2024": "-6.48%"
+  },
+  {
+    "Occupation": "Wellhead Pumpers",
+    "Jobs_2022": "17,934",
+    "Annual_Openings": "4,512",
+    "Median_Earnings": "$32.72",
+    "Growth_2022_2024": "17.94%"
+  },
+  {
+    "Occupation": "Acupuncturists",
+    "Jobs_2022": "17,675",
+    "Annual_Openings": "2,888",
+    "Median_Earnings": "$35.09",
+    "Growth_2022_2024": "9.64%"
+  },
+  {
+    "Occupation": "Airfield Operations Specialists",
+    "Jobs_2022": "17,513",
+    "Annual_Openings": "5,007",
+    "Median_Earnings": "$26.39",
+    "Growth_2022_2024": "23.94%"
+  },
+  {
+    "Occupation": "Medical Appliance Technicians",
+    "Jobs_2022": "17,186",
+    "Annual_Openings": "2,631",
+    "Median_Earnings": "$21.35",
+    "Growth_2022_2024": "-20.60%"
+  },
+  {
+    "Occupation": "Recreational Therapists",
+    "Jobs_2022": "17,023",
+    "Annual_Openings": "2,358",
+    "Median_Earnings": "$27.21",
+    "Growth_2022_2024": "1.08%"
+  },
+  {
+    "Occupation": "Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",
+    "Jobs_2022": "16,992",
+    "Annual_Openings": "2,428",
+    "Median_Earnings": "$21.32",
+    "Growth_2022_2024": "-6.96%"
+  },
+  {
+    "Occupation": "Railroad Brake, Signal, and Switch Operators and Locomotive Firers",
+    "Jobs_2022": "16,942",
+    "Annual_Openings": "2,070",
+    "Median_Earnings": "$30.91",
+    "Growth_2022_2024": "-3.09%"
+  },
+  {
+    "Occupation": "Shampooers",
+    "Jobs_2022": "16,865",
+    "Annual_Openings": "4,010",
+    "Median_Earnings": "$14.79",
+    "Growth_2022_2024": "-0.08%"
+  },
+  {
+    "Occupation": "Plant and System Operators, All Other",
+    "Jobs_2022": "16,856",
+    "Annual_Openings": "2,987",
+    "Median_Earnings": "$27.16",
+    "Growth_2022_2024": "-1.28%"
+  },
+  {
+    "Occupation": "Radio, Cellular, and Tower Equipment Installers and Repairers",
+    "Jobs_2022": "16,853",
+    "Annual_Openings": "2,565",
+    "Median_Earnings": "$28.96",
+    "Growth_2022_2024": "-8.53%"
+  },
+  {
+    "Occupation": "Food Science Technicians",
+    "Jobs_2022": "16,833",
+    "Annual_Openings": "3,667",
+    "Median_Earnings": "$23.79",
+    "Growth_2022_2024": "4.42%"
+  },
+  {
+    "Occupation": "Compensation and Benefits Managers",
+    "Jobs_2022": "16,677",
+    "Annual_Openings": "2,356",
+    "Median_Earnings": "$67.68",
+    "Growth_2022_2024": "7.81%"
+  },
+  {
+    "Occupation": "Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",
+    "Jobs_2022": "16,666",
+    "Annual_Openings": "3,109",
+    "Median_Earnings": "$22.47",
+    "Growth_2022_2024": "-10.98%"
+  },
+  {
+    "Occupation": "Radiation Therapists",
+    "Jobs_2022": "16,605",
+    "Annual_Openings": "2,373",
+    "Median_Earnings": "$47.18",
+    "Growth_2022_2024": "10.19%"
+  },
+  {
+    "Occupation": "Food Scientists and Technologists",
+    "Jobs_2022": "16,532",
+    "Annual_Openings": "2,333",
+    "Median_Earnings": "$39.38",
+    "Growth_2022_2024": "-2.46%"
+  },
+  {
+    "Occupation": "Judicial Law Clerks",
+    "Jobs_2022": "16,523",
+    "Annual_Openings": "2,547",
+    "Median_Earnings": "$28.83",
+    "Growth_2022_2024": "2.20%"
+  },
+  {
+    "Occupation": "Motorcycle Mechanics",
+    "Jobs_2022": "16,411",
+    "Annual_Openings": "2,771",
+    "Median_Earnings": "$21.63",
+    "Growth_2022_2024": "-4.18%"
+  },
+  {
+    "Occupation": "Physicians, Pathologists",
+    "Jobs_2022": "16,300",
+    "Annual_Openings": "1,322",
+    "Median_Earnings": "$117.14",
+    "Growth_2022_2024": "-7.22%"
+  },
+  {
+    "Occupation": "Agricultural Inspectors",
+    "Jobs_2022": "16,113",
+    "Annual_Openings": "3,158",
+    "Median_Earnings": "$22.62",
+    "Growth_2022_2024": "-7.20%"
+  },
+  {
+    "Occupation": "Gambling Change Persons and Booth Cashiers",
+    "Jobs_2022": "16,109",
+    "Annual_Openings": "5,424",
+    "Median_Earnings": "$15.87",
+    "Growth_2022_2024": "15.12%"
+  },
+  {
+    "Occupation": "Pump Operators, Except Wellhead Pumpers",
+    "Jobs_2022": "15,913",
+    "Annual_Openings": "3,057",
+    "Median_Earnings": "$26.74",
+    "Growth_2022_2024": "6.82%"
+  },
+  {
+    "Occupation": "Credit Authorizers, Checkers, and Clerks",
+    "Jobs_2022": "15,878",
+    "Annual_Openings": "1,774",
+    "Median_Earnings": "$23.11",
+    "Growth_2022_2024": "-16.18%"
+  },
+  {
+    "Occupation": "Explosives Workers, Ordnance Handling Experts, and Blasters",
+    "Jobs_2022": "15,856",
+    "Annual_Openings": "1,944",
+    "Median_Earnings": "$31.33",
+    "Growth_2022_2024": "-4.87%"
+  },
+  {
+    "Occupation": "Grinding and Polishing Workers, Hand",
+    "Jobs_2022": "15,820",
+    "Annual_Openings": "2,135",
+    "Median_Earnings": "$19.01",
+    "Growth_2022_2024": "-16.83%"
+  },
+  {
+    "Occupation": "Museum Technicians and Conservators",
+    "Jobs_2022": "15,581",
+    "Annual_Openings": "2,998",
+    "Median_Earnings": "$23.50",
+    "Growth_2022_2024": "5.28%"
+  },
+  {
+    "Occupation": "Fire Inspectors and Investigators",
+    "Jobs_2022": "15,555",
+    "Annual_Openings": "2,306",
+    "Median_Earnings": "$36.42",
+    "Growth_2022_2024": "-0.83%"
+  },
+  {
+    "Occupation": "Funeral Home Managers",
+    "Jobs_2022": "15,551",
+    "Annual_Openings": "2,277",
+    "Median_Earnings": "$35.15",
+    "Growth_2022_2024": "1.92%"
+  },
+  {
+    "Occupation": "Audiologists",
+    "Jobs_2022": "15,539",
+    "Annual_Openings": "1,900",
+    "Median_Earnings": "$42.40",
+    "Growth_2022_2024": "-0.75%"
+  },
+  {
+    "Occupation": "Gas Plant Operators",
+    "Jobs_2022": "15,495",
+    "Annual_Openings": "3,723",
+    "Median_Earnings": "$39.67",
+    "Growth_2022_2024": "12.24%"
+  },
+  {
+    "Occupation": "Bicycle Repairers",
+    "Jobs_2022": "15,384",
+    "Annual_Openings": "3,332",
+    "Median_Earnings": "$18.28",
+    "Growth_2022_2024": "2.85%"
+  },
+  {
+    "Occupation": "Tank Car, Truck, and Ship Loaders",
+    "Jobs_2022": "15,271",
+    "Annual_Openings": "2,834",
+    "Median_Earnings": "$28.31",
+    "Growth_2022_2024": "-6.39%"
+  },
+  {
+    "Occupation": "Cartographers and Photogrammetrists",
+    "Jobs_2022": "15,218",
+    "Annual_Openings": "1,600",
+    "Median_Earnings": "$36.19",
+    "Growth_2022_2024": "-5.47%"
+  },
+  {
+    "Occupation": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+    "Jobs_2022": "15,109",
+    "Annual_Openings": "2,693",
+    "Median_Earnings": "$31.74",
+    "Growth_2022_2024": "5.08%"
+  },
+  {
+    "Occupation": "Boilermakers",
+    "Jobs_2022": "15,027",
+    "Annual_Openings": "1,872",
+    "Median_Earnings": "$34.76",
+    "Growth_2022_2024": "-16.42%"
+  },
+  {
+    "Occupation": "Nuclear Engineers",
+    "Jobs_2022": "14,750",
+    "Annual_Openings": "2,126",
+    "Median_Earnings": "$59.17",
+    "Growth_2022_2024": "4.71%"
+  },
+  {
+    "Occupation": "Environmental Engineering Technologists and Technicians",
+    "Jobs_2022": "14,593",
+    "Annual_Openings": "2,518",
+    "Median_Earnings": "$26.15",
+    "Growth_2022_2024": "3.18%"
+  },
+  {
+    "Occupation": "Ship Engineers",
+    "Jobs_2022": "14,555",
+    "Annual_Openings": "2,465",
+    "Median_Earnings": "$46.32",
+    "Growth_2022_2024": "-0.04%"
+  },
+  {
+    "Occupation": "Ophthalmologists, Except Pediatric",
+    "Jobs_2022": "14,387",
+    "Annual_Openings": "1,405",
+    "Median_Earnings": "$130.00",
+    "Growth_2022_2024": "-7.47%"
+  },
+  {
+    "Occupation": "Continuous Mining Machine Operators",
+    "Jobs_2022": "14,351",
+    "Annual_Openings": "4,093",
+    "Median_Earnings": "$30.04",
+    "Growth_2022_2024": "18.70%"
+  },
+  {
+    "Occupation": "Stonemasons",
+    "Jobs_2022": "14,114",
+    "Annual_Openings": "2,376",
+    "Median_Earnings": "$24.52",
+    "Growth_2022_2024": "-3.09%"
+  },
+  {
+    "Occupation": "Administrative Law Judges, Adjudicators, and Hearing Officers",
+    "Jobs_2022": "14,033",
+    "Annual_Openings": "2,463",
+    "Median_Earnings": "$53.02",
+    "Growth_2022_2024": "21.29%"
+  },
+  {
+    "Occupation": "Curators",
+    "Jobs_2022": "14,013",
+    "Annual_Openings": "3,008",
+    "Median_Earnings": "$29.49",
+    "Growth_2022_2024": "9.68%"
+  },
+  {
+    "Occupation": "Atmospheric and Space Scientists",
+    "Jobs_2022": "13,989",
+    "Annual_Openings": "1,722",
+    "Median_Earnings": "$45.59",
+    "Growth_2022_2024": "-9.96%"
+  },
+  {
+    "Occupation": "Dancers",
+    "Jobs_2022": "13,963",
+    "Annual_Openings": "4,519",
+    "Median_Earnings": "$26.21",
+    "Growth_2022_2024": "19.79%"
+  },
+  {
+    "Occupation": "Gambling Service Workers, All Other",
+    "Jobs_2022": "13,813",
+    "Annual_Openings": "3,562",
+    "Median_Earnings": "$15.79",
+    "Growth_2022_2024": "7.04%"
+  },
+  {
+    "Occupation": "Precision Instrument and Equipment Repairers, All Other",
+    "Jobs_2022": "13,757",
+    "Annual_Openings": "2,057",
+    "Median_Earnings": "$29.68",
+    "Growth_2022_2024": "-5.04%"
+  },
+  {
+    "Occupation": "Emergency Management Directors",
+    "Jobs_2022": "13,572",
+    "Annual_Openings": "2,336",
+    "Median_Earnings": "$42.10",
+    "Growth_2022_2024": "10.86%"
+  },
+  {
+    "Occupation": "Podiatrists",
+    "Jobs_2022": "13,513",
+    "Annual_Openings": "1,324",
+    "Median_Earnings": "$67.41",
+    "Growth_2022_2024": "-5.18%"
+  },
+  {
+    "Occupation": "Insurance Appraisers, Auto Damage",
+    "Jobs_2022": "13,423",
+    "Annual_Openings": "1,677",
+    "Median_Earnings": "$35.65",
+    "Growth_2022_2024": "-22.60%"
+  },
+  {
+    "Occupation": "Dermatologists",
+    "Jobs_2022": "13,402",
+    "Annual_Openings": "1,909",
+    "Median_Earnings": "$145.27",
+    "Growth_2022_2024": "6.15%"
+  },
+  {
+    "Occupation": "Wind Turbine Service Technicians",
+    "Jobs_2022": "13,383",
+    "Annual_Openings": "2,681",
+    "Median_Earnings": "$29.74",
+    "Growth_2022_2024": "3.25%"
+  },
+  {
+    "Occupation": "Postmasters and Mail Superintendents",
+    "Jobs_2022": "13,309",
+    "Annual_Openings": "1,632",
+    "Median_Earnings": "$42.80",
+    "Growth_2022_2024": "-0.97%"
+  },
+  {
+    "Occupation": "Rotary Drill Operators, Oil and Gas",
+    "Jobs_2022": "13,281",
+    "Annual_Openings": "2,161",
+    "Median_Earnings": "$30.63",
+    "Growth_2022_2024": "-6.93%"
+  },
+  {
+    "Occupation": "Shoe and Leather Workers and Repairers",
+    "Jobs_2022": "13,271",
+    "Annual_Openings": "2,329",
+    "Median_Earnings": "$16.41",
+    "Growth_2022_2024": "-16.37%"
+  },
+  {
+    "Occupation": "Neurologists",
+    "Jobs_2022": "13,205",
+    "Annual_Openings": "1,134",
+    "Median_Earnings": "$117.66",
+    "Growth_2022_2024": "-14.02%"
+  },
+  {
+    "Occupation": "Career/Technical Education Teachers, Middle School",
+    "Jobs_2022": "12,906",
+    "Annual_Openings": "2,850",
+    "Median_Earnings": "$30.93",
+    "Growth_2022_2024": "17.58%"
+  },
+  {
+    "Occupation": "Coil Winders, Tapers, and Finishers",
+    "Jobs_2022": "12,679",
+    "Annual_Openings": "3,604",
+    "Median_Earnings": "$20.67",
+    "Growth_2022_2024": "11.95%"
+  },
+  {
+    "Occupation": "Transportation Workers, All Other",
+    "Jobs_2022": "12,507",
+    "Annual_Openings": "2,414",
+    "Median_Earnings": "$19.96",
+    "Growth_2022_2024": "-2.29%"
+  },
+  {
+    "Occupation": "Foundry Mold and Coremakers",
+    "Jobs_2022": "12,097",
+    "Annual_Openings": "2,609",
+    "Median_Earnings": "$21.18",
+    "Growth_2022_2024": "2.16%"
+  },
+  {
+    "Occupation": "Foresters",
+    "Jobs_2022": "12,034",
+    "Annual_Openings": "2,048",
+    "Median_Earnings": "$32.34",
+    "Growth_2022_2024": "6.04%"
+  },
+  {
+    "Occupation": "Animal Control Workers",
+    "Jobs_2022": "11,877",
+    "Annual_Openings": "1,980",
+    "Median_Earnings": "$21.05",
+    "Growth_2022_2024": "3.51%"
+  },
+  {
+    "Occupation": "Derrick Operators, Oil and Gas",
+    "Jobs_2022": "11,835",
+    "Annual_Openings": "2,088",
+    "Median_Earnings": "$26.20",
+    "Growth_2022_2024": "-0.19%"
+  },
+  {
+    "Occupation": "Exercise Physiologists",
+    "Jobs_2022": "11,828",
+    "Annual_Openings": "3,605",
+    "Median_Earnings": "$26.62",
+    "Growth_2022_2024": "38.48%"
+  },
+  {
+    "Occupation": "Forging Machine Setters, Operators, and Tenders, Metal and Plastic",
+    "Jobs_2022": "11,749",
+    "Annual_Openings": "2,064",
+    "Median_Earnings": "$22.13",
+    "Growth_2022_2024": "-12.27%"
+  },
+  {
+    "Occupation": "Farm and Home Management Educators",
+    "Jobs_2022": "11,730",
+    "Annual_Openings": "2,704",
+    "Median_Earnings": "$27.81",
+    "Growth_2022_2024": "7.92%"
+  },
+  {
+    "Occupation": "Musical Instrument Repairers and Tuners",
+    "Jobs_2022": "11,632",
+    "Annual_Openings": "2,128",
+    "Median_Earnings": "$19.06",
+    "Growth_2022_2024": "5.57%"
+  },
+  {
+    "Occupation": "Hearing Aid Specialists",
+    "Jobs_2022": "11,579",
+    "Annual_Openings": "2,009",
+    "Median_Earnings": "$28.43",
+    "Growth_2022_2024": "4.32%"
+  },
+  {
+    "Occupation": "Textile Cutting Machine Setters, Operators, and Tenders",
+    "Jobs_2022": "11,365",
+    "Annual_Openings": "1,864",
+    "Median_Earnings": "$17.69",
+    "Growth_2022_2024": "-10.91%"
+  },
+  {
+    "Occupation": "Ambulance Drivers and Attendants, Except Emergency Medical Technicians",
+    "Jobs_2022": "11,339",
+    "Annual_Openings": "3,746",
+    "Median_Earnings": "$16.24",
+    "Growth_2022_2024": "19.29%"
+  },
+  {
+    "Occupation": "Epidemiologists",
+    "Jobs_2022": "11,008",
+    "Annual_Openings": "1,831",
+    "Median_Earnings": "$40.28",
+    "Growth_2022_2024": "15.38%"
+  },
+  {
+    "Occupation": "Electrical and Electronics Installers and Repairers, Transportation Equipment",
+    "Jobs_2022": "10,928",
+    "Annual_Openings": "1,857",
+    "Median_Earnings": "$36.98",
+    "Growth_2022_2024": "-1.69%"
+  },
+  {
+    "Occupation": "Calibration Technologists and Technicians",
+    "Jobs_2022": "10,824",
+    "Annual_Openings": "2,902",
+    "Median_Earnings": "$30.05",
+    "Growth_2022_2024": "25.72%"
+  },
+  {
+    "Occupation": "Lighting Technicians",
+    "Jobs_2022": "10,683",
+    "Annual_Openings": "2,033",
+    "Median_Earnings": "$30.60",
+    "Growth_2022_2024": "7.99%"
+  },
+  {
+    "Occupation": "Aerospace Engineering and Operations Technologists and Technicians",
+    "Jobs_2022": "10,639",
+    "Annual_Openings": "2,515",
+    "Median_Earnings": "$37.37",
+    "Growth_2022_2024": "15.25%"
+  },
+  {
+    "Occupation": "Power Distributors and Dispatchers",
+    "Jobs_2022": "10,570",
+    "Annual_Openings": "2,064",
+    "Median_Earnings": "$49.96",
+    "Growth_2022_2024": "2.17%"
+  },
+  {
+    "Occupation": "Electronic Equipment Installers and Repairers, Motor Vehicles",
+    "Jobs_2022": "10,430",
+    "Annual_Openings": "1,745",
+    "Median_Earnings": "$21.94",
+    "Growth_2022_2024": "-9.29%"
+  },
+  {
+    "Occupation": "Geological Technicians, Except Hydrologic Technicians",
+    "Jobs_2022": "10,187",
+    "Annual_Openings": "1,882",
+    "Median_Earnings": "$25.36",
+    "Growth_2022_2024": "-0.81%"
+  },
+  {
+    "Occupation": "Orthotists and Prosthetists",
+    "Jobs_2022": "10,074",
+    "Annual_Openings": "1,592",
+    "Median_Earnings": "$37.67",
+    "Growth_2022_2024": "-0.18%"
+  },
+  {
+    "Occupation": "Arbitrators, Mediators, and Conciliators",
+    "Jobs_2022": "10,067",
+    "Annual_Openings": "1,094",
+    "Median_Earnings": "$36.30",
+    "Growth_2022_2024": "-10.96%"
+  },
+  {
+    "Occupation": "Communications Equipment Operators, All Other",
+    "Jobs_2022": "9,933",
+    "Annual_Openings": "1,929",
+    "Median_Earnings": "$24.59",
+    "Growth_2022_2024": "2.23%"
+  },
+  {
+    "Occupation": "Gambling Cage Workers",
+    "Jobs_2022": "9,868",
+    "Annual_Openings": "2,175",
+    "Median_Earnings": "$17.39",
+    "Growth_2022_2024": "9.29%"
+  },
+  {
+    "Occupation": "Survey Researchers",
+    "Jobs_2022": "9,807",
+    "Annual_Openings": "1,712",
+    "Median_Earnings": "$29.55",
+    "Growth_2022_2024": "5.19%"
+  },
+  {
+    "Occupation": "Gambling Surveillance Officers and Gambling Investigators",
+    "Jobs_2022": "9,674",
+    "Annual_Openings": "2,644",
+    "Median_Earnings": "$19.43",
+    "Growth_2022_2024": "10.09%"
+  },
+  {
+    "Occupation": "Choreographers",
+    "Jobs_2022": "9,656",
+    "Annual_Openings": "1,765",
+    "Median_Earnings": "$24.67",
+    "Growth_2022_2024": "-22.16%"
+  },
+  {
+    "Occupation": "Signal and Track Switch Repairers",
+    "Jobs_2022": "9,612",
+    "Annual_Openings": "3,101",
+    "Median_Earnings": "$39.66",
+    "Growth_2022_2024": "35.84%"
+  },
+  {
+    "Occupation": "Anthropologists and Archeologists",
+    "Jobs_2022": "9,503",
+    "Annual_Openings": "1,758",
+    "Median_Earnings": "$30.95",
+    "Growth_2022_2024": "9.25%"
+  },
+  {
+    "Occupation": "Archivists",
+    "Jobs_2022": "9,463",
+    "Annual_Openings": "1,696",
+    "Median_Earnings": "$27.90",
+    "Growth_2022_2024": "-0.45%"
+  },
+  {
+    "Occupation": "Traffic Technicians",
+    "Jobs_2022": "9,332",
+    "Annual_Openings": "1,831",
+    "Median_Earnings": "$25.97",
+    "Growth_2022_2024": "3.73%"
+  },
+  {
+    "Occupation": "Marine Engineers and Naval Architects",
+    "Jobs_2022": "9,260",
+    "Annual_Openings": "2,603",
+    "Median_Earnings": "$49.04",
+    "Growth_2022_2024": "30.57%"
+  },
+  {
+    "Occupation": "Life Scientists, All Other",
+    "Jobs_2022": "9,245",
+    "Annual_Openings": 857,
+    "Median_Earnings": "$42.76",
+    "Growth_2022_2024": "-9.54%"
+  },
+  {
+    "Occupation": "Etchers and Engravers",
+    "Jobs_2022": "9,032",
+    "Annual_Openings": "2,385",
+    "Median_Earnings": "$19.35",
+    "Growth_2022_2024": "-0.03%"
+  },
+  {
+    "Occupation": "Cutters and Trimmers, Hand",
+    "Jobs_2022": "8,977",
+    "Annual_Openings": "1,434",
+    "Median_Earnings": "$18.01",
+    "Growth_2022_2024": "-18.18%"
+  },
+  {
+    "Occupation": "Aircraft Cargo Handling Supervisors",
+    "Jobs_2022": "8,956",
+    "Annual_Openings": "2,071",
+    "Median_Earnings": "$28.55",
+    "Growth_2022_2024": "11.38%"
+  },
+  {
+    "Occupation": "Nurse Midwives",
+    "Jobs_2022": "8,887",
+    "Annual_Openings": 785,
+    "Median_Earnings": "$62.60",
+    "Growth_2022_2024": "-9.15%"
+  },
+  {
+    "Occupation": "Mining and Geological Engineers, Including Mining Safety Engineers",
+    "Jobs_2022": "8,498",
+    "Annual_Openings": "1,101",
+    "Median_Earnings": "$48.49",
+    "Growth_2022_2024": "-4.02%"
+  },
+  {
+    "Occupation": "Statistical Assistants",
+    "Jobs_2022": "8,427",
+    "Annual_Openings": "1,665",
+    "Median_Earnings": "$25.01",
+    "Growth_2022_2024": "6.37%"
+  },
+  {
+    "Occupation": "Gambling and Sports Book Writers and Runners",
+    "Jobs_2022": "8,323",
+    "Annual_Openings": "2,200",
+    "Median_Earnings": "$14.52",
+    "Growth_2022_2024": "-1.35%"
+  },
+  {
+    "Occupation": "Political Scientists",
+    "Jobs_2022": "8,189",
+    "Annual_Openings": "1,193",
+    "Median_Earnings": "$61.90",
+    "Growth_2022_2024": "5.14%"
+  },
+  {
+    "Occupation": "Materials Scientists",
+    "Jobs_2022": "8,131",
+    "Annual_Openings": "1,984",
+    "Median_Earnings": "$50.49",
+    "Growth_2022_2024": "21.70%"
+  },
+  {
+    "Occupation": "Orthodontists",
+    "Jobs_2022": "8,001",
+    "Annual_Openings": "1,214",
+    "Median_Earnings": "$107.88",
+    "Growth_2022_2024": "2.06%"
+  },
+  {
+    "Occupation": "Hydrologists",
+    "Jobs_2022": "7,840",
+    "Annual_Openings": "1,255",
+    "Median_Earnings": "$43.55",
+    "Growth_2022_2024": "1.45%"
+  },
+  {
+    "Occupation": "Layout Workers, Metal and Plastic",
+    "Jobs_2022": "7,839",
+    "Annual_Openings": "1,721",
+    "Median_Earnings": "$28.07",
+    "Growth_2022_2024": "-0.37%"
+  },
+  {
+    "Occupation": "Desktop Publishers",
+    "Jobs_2022": "7,641",
+    "Annual_Openings": "1,000",
+    "Median_Earnings": "$25.63",
+    "Growth_2022_2024": "-25.48%"
+  },
+  {
+    "Occupation": "Textile Bleaching and Dyeing Machine Operators and Tenders",
+    "Jobs_2022": "7,399",
+    "Annual_Openings": "1,512",
+    "Median_Earnings": "$16.99",
+    "Growth_2022_2024": "-2.72%"
+  },
+  {
+    "Occupation": "Photographic Process Workers and Processing Machine Operators",
+    "Jobs_2022": "7,393",
+    "Annual_Openings": "2,088",
+    "Median_Earnings": "$17.91",
+    "Growth_2022_2024": "11.18%"
+  },
+  {
+    "Occupation": "Dentists, All Other Specialists",
+    "Jobs_2022": "7,313",
+    "Annual_Openings": "1,577",
+    "Median_Earnings": "$106.17",
+    "Growth_2022_2024": "15.84%"
+  },
+  {
+    "Occupation": "Makeup Artists, Theatrical and Performance",
+    "Jobs_2022": "7,311",
+    "Annual_Openings": "3,039",
+    "Median_Earnings": "$28.34",
+    "Growth_2022_2024": "38.46%"
+  },
+  {
+    "Occupation": "Floor Sanders and Finishers",
+    "Jobs_2022": "7,275",
+    "Annual_Openings": "1,511",
+    "Median_Earnings": "$22.43",
+    "Growth_2022_2024": "6.80%"
+  },
+  {
+    "Occupation": "Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+    "Jobs_2022": "7,136",
+    "Annual_Openings": "1,553",
+    "Median_Earnings": "$21.64",
+    "Growth_2022_2024": "-10.68%"
+  },
+  {
+    "Occupation": "Extraction Workers, All Other",
+    "Jobs_2022": "7,122",
+    "Annual_Openings": "2,087",
+    "Median_Earnings": "$24.59",
+    "Growth_2022_2024": "16.52%"
+  },
+  {
+    "Occupation": "Costume Attendants",
+    "Jobs_2022": "6,930",
+    "Annual_Openings": "2,678",
+    "Median_Earnings": "$24.96",
+    "Growth_2022_2024": "3.28%"
+  },
+  {
+    "Occupation": "Fish and Game Wardens",
+    "Jobs_2022": "6,906",
+    "Annual_Openings": "1,519",
+    "Median_Earnings": "$29.60",
+    "Growth_2022_2024": "5.26%"
+  },
+  {
+    "Occupation": "Fallers",
+    "Jobs_2022": "6,759",
+    "Annual_Openings": "1,698",
+    "Median_Earnings": "$24.86",
+    "Growth_2022_2024": "3.84%"
+  },
+  {
+    "Occupation": "Proofreaders and Copy Markers",
+    "Jobs_2022": "6,702",
+    "Annual_Openings": "1,621",
+    "Median_Earnings": "$22.63",
+    "Growth_2022_2024": "7.80%"
+  },
+  {
+    "Occupation": "Sewers, Hand",
+    "Jobs_2022": "6,584",
+    "Annual_Openings": "1,499",
+    "Median_Earnings": "$14.28",
+    "Growth_2022_2024": "0.43%"
+  },
+  {
+    "Occupation": "Pourers and Casters, Metal",
+    "Jobs_2022": "6,501",
+    "Annual_Openings": "1,371",
+    "Median_Earnings": "$23.49",
+    "Growth_2022_2024": "-8.88%"
+  },
+  {
+    "Occupation": "Nuclear Technicians",
+    "Jobs_2022": "6,256",
+    "Annual_Openings": "1,232",
+    "Median_Earnings": "$44.99",
+    "Growth_2022_2024": "-8.75%"
+  },
+  {
+    "Occupation": "Tool Grinders, Filers, and Sharpeners",
+    "Jobs_2022": "6,087",
+    "Annual_Openings": "1,973",
+    "Median_Earnings": "$22.13",
+    "Growth_2022_2024": "24.13%"
+  },
+  {
+    "Occupation": "Nuclear Power Reactor Operators",
+    "Jobs_2022": "5,885",
+    "Annual_Openings": "1,570",
+    "Median_Earnings": "$56.08",
+    "Growth_2022_2024": "9.36%"
+  },
+  {
+    "Occupation": "Gas Compressor and Gas Pumping Station Operators",
+    "Jobs_2022": "5,827",
+    "Annual_Openings": "1,715",
+    "Median_Earnings": "$29.94",
+    "Growth_2022_2024": "18.78%"
+  },
+  {
+    "Occupation": "Loading and Moving Machine Operators, Underground Mining",
+    "Jobs_2022": "5,629",
+    "Annual_Openings": "1,427",
+    "Median_Earnings": "$31.45",
+    "Growth_2022_2024": "-0.11%"
+  },
+  {
+    "Occupation": "Models",
+    "Jobs_2022": "5,571",
+    "Annual_Openings": "1,864",
+    "Median_Earnings": "$23.56",
+    "Growth_2022_2024": "12.75%"
+  },
+  {
+    "Occupation": "Oral and Maxillofacial Surgeons",
+    "Jobs_2022": "5,540",
+    "Annual_Openings": 709,
+    "Median_Earnings": "$148.75",
+    "Growth_2022_2024": "-3.87%"
+  },
+  {
+    "Occupation": "Motorboat Operators",
+    "Jobs_2022": "5,345",
+    "Annual_Openings": 763,
+    "Median_Earnings": "$23.58",
+    "Growth_2022_2024": "-13.85%"
+  },
+  {
+    "Occupation": "Historians",
+    "Jobs_2022": "5,342",
+    "Annual_Openings": 861,
+    "Median_Earnings": "$32.60",
+    "Growth_2022_2024": "4.65%"
+  },
+  {
+    "Occupation": "Transit and Railroad Police",
+    "Jobs_2022": "5,164",
+    "Annual_Openings": 625,
+    "Median_Earnings": "$34.57",
+    "Growth_2022_2024": "-27.19%"
+  },
+  {
+    "Occupation": "Commercial Divers",
+    "Jobs_2022": "5,020",
+    "Annual_Openings": 766,
+    "Median_Earnings": "$29.98",
+    "Growth_2022_2024": "-27.55%"
+  },
+  {
+    "Occupation": "Log Graders and Scalers",
+    "Jobs_2022": "4,868",
+    "Annual_Openings": "1,026",
+    "Median_Earnings": "$20.87",
+    "Growth_2022_2024": "-10.51%"
+  },
+  {
+    "Occupation": "Manufactured Building and Mobile Home Installers",
+    "Jobs_2022": "4,809",
+    "Annual_Openings": 763,
+    "Median_Earnings": "$18.94",
+    "Growth_2022_2024": "-26.15%"
+  },
+  {
+    "Occupation": "Gambling Managers",
+    "Jobs_2022": "4,772",
+    "Annual_Openings": 865,
+    "Median_Earnings": "$40.60",
+    "Growth_2022_2024": "-8.61%"
+  },
+  {
+    "Occupation": "Correspondence Clerks",
+    "Jobs_2022": "4,736",
+    "Annual_Openings": 903,
+    "Median_Earnings": "$20.51",
+    "Growth_2022_2024": "-7.26%"
+  },
+  {
+    "Occupation": "Mathematical Science Occupations, All Other",
+    "Jobs_2022": "4,466",
+    "Annual_Openings": 997,
+    "Median_Earnings": "$34.76",
+    "Growth_2022_2024": "16.00%"
+  },
+  {
+    "Occupation": "Embalmers",
+    "Jobs_2022": "4,361",
+    "Annual_Openings": "1,066",
+    "Median_Earnings": "$25.81",
+    "Growth_2022_2024": "-11.36%"
+  },
+  {
+    "Occupation": "Telephone Operators",
+    "Jobs_2022": "4,253",
+    "Annual_Openings": "1,354",
+    "Median_Earnings": "$18.45",
+    "Growth_2022_2024": "20.89%"
+  },
+  {
+    "Occupation": "Hoist and Winch Operators",
+    "Jobs_2022": "4,233",
+    "Annual_Openings": 771,
+    "Median_Earnings": "$29.95",
+    "Growth_2022_2024": "-10.73%"
+  },
+  {
+    "Occupation": "Watch and Clock Repairers",
+    "Jobs_2022": "4,202",
+    "Annual_Openings": 829,
+    "Median_Earnings": "$24.30",
+    "Growth_2022_2024": "-3.91%"
+  },
+  {
+    "Occupation": "Hydrologic Technicians",
+    "Jobs_2022": "4,040",
+    "Annual_Openings": 980,
+    "Median_Earnings": "$27.14",
+    "Growth_2022_2024": "4.28%"
+  },
+  {
+    "Occupation": "Genetic Counselors",
+    "Jobs_2022": "4,028",
+    "Annual_Openings": 474,
+    "Median_Earnings": "$45.35",
+    "Growth_2022_2024": "-1.65%"
+  },
+  {
+    "Occupation": "Occupational Therapy Aides",
+    "Jobs_2022": "4,003",
+    "Annual_Openings": "1,572",
+    "Median_Earnings": "$18.63",
+    "Growth_2022_2024": "28.78%"
+  },
+  {
+    "Occupation": "Sociologists",
+    "Jobs_2022": "3,930",
+    "Annual_Openings": 646,
+    "Median_Earnings": "$48.17",
+    "Growth_2022_2024": "2.18%"
+  },
+  {
+    "Occupation": "Pile Driver Operators",
+    "Jobs_2022": "3,911",
+    "Annual_Openings": 894,
+    "Median_Earnings": "$31.32",
+    "Growth_2022_2024": "-1.42%"
+  },
+  {
+    "Occupation": "Paperhangers",
+    "Jobs_2022": "3,883",
+    "Annual_Openings": 570,
+    "Median_Earnings": "$22.51",
+    "Growth_2022_2024": "-21.08%"
+  },
+  {
+    "Occupation": "Medical Dosimetrists",
+    "Jobs_2022": "3,811",
+    "Annual_Openings": "1,178",
+    "Median_Earnings": "$65.27",
+    "Growth_2022_2024": "34.38%"
+  },
+  {
+    "Occupation": "Model Makers, Metal and Plastic",
+    "Jobs_2022": "3,649",
+    "Annual_Openings": 515,
+    "Median_Earnings": "$30.45",
+    "Growth_2022_2024": "-18.15%"
+  },
+  {
+    "Occupation": "Animal Scientists",
+    "Jobs_2022": "3,642",
+    "Annual_Openings": 626,
+    "Median_Earnings": "$34.65",
+    "Growth_2022_2024": "-2.79%"
+  },
+  {
+    "Occupation": "Fabric and Apparel Patternmakers",
+    "Jobs_2022": "3,586",
+    "Annual_Openings": 590,
+    "Median_Earnings": "$29.84",
+    "Growth_2022_2024": "-17.70%"
+  },
+  {
+    "Occupation": "Shoe Machine Operators and Tenders",
+    "Jobs_2022": "3,378",
+    "Annual_Openings": "1,749",
+    "Median_Earnings": "$17.38",
+    "Growth_2022_2024": "53.39%"
+  },
+  {
+    "Occupation": "Crematory Operators",
+    "Jobs_2022": "3,279",
+    "Annual_Openings": "1,087",
+    "Median_Earnings": "$20.39",
+    "Growth_2022_2024": "12.42%"
+  },
+  {
+    "Occupation": "Forest Fire Inspectors and Prevention Specialists",
+    "Jobs_2022": "3,279",
+    "Annual_Openings": 619,
+    "Median_Earnings": "$27.28",
+    "Growth_2022_2024": "3.74%"
+  },
+  {
+    "Occupation": "Industrial-Organizational Psychologists",
+    "Jobs_2022": "3,122",
+    "Annual_Openings": 367,
+    "Median_Earnings": "$66.72",
+    "Growth_2022_2024": "-8.35%"
+  },
+  {
+    "Occupation": "Astronomers",
+    "Jobs_2022": "3,078",
+    "Annual_Openings": 511,
+    "Median_Earnings": "$63.01",
+    "Growth_2022_2024": "-1.78%"
+  },
+  {
+    "Occupation": "Rail Yard Engineers, Dinkey Operators, and Hostlers",
+    "Jobs_2022": "3,067",
+    "Annual_Openings": 500,
+    "Median_Earnings": "$26.80",
+    "Growth_2022_2024": "-11.56%"
+  },
+  {
+    "Occupation": "Mathematicians",
+    "Jobs_2022": "2,802",
+    "Annual_Openings": 604,
+    "Median_Earnings": "$53.12",
+    "Growth_2022_2024": "13.88%"
+  },
+  {
+    "Occupation": "Rail Transportation Workers, All Other",
+    "Jobs_2022": "2,699",
+    "Annual_Openings": 471,
+    "Median_Earnings": "$22.86",
+    "Growth_2022_2024": "-21.51%"
+  },
+  {
+    "Occupation": "Motion Picture Projectionists",
+    "Jobs_2022": "2,635",
+    "Annual_Openings": "1,618",
+    "Median_Earnings": "$18.01",
+    "Growth_2022_2024": "29.72%"
+  },
+  {
+    "Occupation": "Camera and Photographic Equipment Repairers",
+    "Jobs_2022": "2,581",
+    "Annual_Openings": 728,
+    "Median_Earnings": "$23.23",
+    "Growth_2022_2024": "15.97%"
+  },
+  {
+    "Occupation": "Dredge Operators",
+    "Jobs_2022": "2,522",
+    "Annual_Openings": 452,
+    "Median_Earnings": "$24.90",
+    "Growth_2022_2024": "-7.36%"
+  },
+  {
+    "Occupation": "Underground Mining Machine Operators, All Other",
+    "Jobs_2022": "2,504",
+    "Annual_Openings": 805,
+    "Median_Earnings": "$33.66",
+    "Growth_2022_2024": "8.90%"
+  },
+  {
+    "Occupation": "Patternmakers, Metal and Plastic",
+    "Jobs_2022": "2,497",
+    "Annual_Openings": 508,
+    "Median_Earnings": "$25.03",
+    "Growth_2022_2024": "-6.24%"
+  },
+  {
+    "Occupation": "Animal Breeders",
+    "Jobs_2022": "2,107",
+    "Annual_Openings": 582,
+    "Median_Earnings": "$20.65",
+    "Growth_2022_2024": "-1.13%"
+  },
+  {
+    "Occupation": "Geographers",
+    "Jobs_2022": "1,936",
+    "Annual_Openings": 444,
+    "Median_Earnings": "$41.97",
+    "Growth_2022_2024": "16.03%"
+  },
+  {
+    "Occupation": "Roof Bolters, Mining",
+    "Jobs_2022": "1,861",
+    "Annual_Openings": 633,
+    "Median_Earnings": "$32.74",
+    "Growth_2022_2024": "16.79%"
+  },
+  {
+    "Occupation": "Agricultural Engineers",
+    "Jobs_2022": "1,831",
+    "Annual_Openings": 500,
+    "Median_Earnings": "$43.94",
+    "Growth_2022_2024": "25.34%"
+  },
+  {
+    "Occupation": "Terrazzo Workers and Finishers",
+    "Jobs_2022": "1,652",
+    "Annual_Openings": 539,
+    "Median_Earnings": "$24.90",
+    "Growth_2022_2024": "10.36%"
+  },
+  {
+    "Occupation": "Cooks, Private Household",
+    "Jobs_2022": "1,528",
+    "Annual_Openings": 518,
+    "Median_Earnings": "$21.45",
+    "Growth_2022_2024": "21.45%"
+  },
+  {
+    "Occupation": "Model Makers, Wood",
+    "Jobs_2022": "1,192",
+    "Annual_Openings": 231,
+    "Median_Earnings": "$20.94",
+    "Growth_2022_2024": "-9.92%"
+  },
+  {
+    "Occupation": "Pediatric Surgeons",
+    "Jobs_2022": 956,
+    "Annual_Openings": 490,
+    "Median_Earnings": "$175.99",
+    "Growth_2022_2024": "76.19%"
+  },
+  {
+    "Occupation": "Farm Labor Contractors",
+    "Jobs_2022": 747,
+    "Annual_Openings": 150,
+    "Median_Earnings": "$25.98",
+    "Growth_2022_2024": "-9.67%"
+  },
+  {
+    "Occupation": "Refractory Materials Repairers, Except Brickmasons",
+    "Jobs_2022": 629,
+    "Annual_Openings": 119,
+    "Median_Earnings": "$24.17",
+    "Growth_2022_2024": "-16.06%"
+  },
+  {
+    "Occupation": "Prosthodontists",
+    "Jobs_2022": 566,
+    "Annual_Openings": 217,
+    "Median_Earnings": "$115.76",
+    "Growth_2022_2024": "45.60%"
+  },
+  {
+    "Occupation": "Patternmakers, Wood",
+    "Jobs_2022": 504,
+    "Annual_Openings": 106,
+    "Median_Earnings": "$24.91",
+    "Growth_2022_2024": "-13.34%"
+  },
+  {
+    "Occupation": "Timing Device Assemblers and Adjusters",
+    "Jobs_2022": 482,
+    "Annual_Openings": 161,
+    "Median_Earnings": "$22.14",
+    "Growth_2022_2024": "-6.49%"
+  },
+  {
+    "Occupation": "Unclassified Occupation",
+    "Jobs_2022": 0,
+    "Annual_Openings": 0,
+    "Median_Earnings": "$0.00",
+    "Growth_2022_2024": "0.00%"
+  }
+]
